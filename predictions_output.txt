@@ -1,0 +1,1980 @@
+File Name: K1pe011participant_leg.wav, Target: leg, Base Prediction: grak, Large Prediction: lake
+File Name: K1lt332participant_fan.wav, Target: fan, Base Prediction: five, Large Prediction: fob
+File Name: K1xl011participant_chip.wav, Target: chip, Base Prediction: chi, Large Prediction: chip
+File Name: K1cb128participant_fan.wav, Target: fan, Base Prediction: well, Large Prediction: wang
+File Name: K1cb011participant_sun.wav, Target: sun, Base Prediction: sam, Large Prediction: san
+File Name: K1mo011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1pe113participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pe055participant_shoe.wav, Target: shoe, Base Prediction: she, Large Prediction: shious
+File Name: K1cc014participant_wing.wav, Target: wing, Base Prediction: ming, Large Prediction: ming
+File Name: K1so104participant_lamp.wav, Target: lamp, Base Prediction: here, Large Prediction: lamp
+File Name: K1OS013participant_zoo.wav, Target: zoo, Base Prediction: nere, Large Prediction: now
+File Name: K1dd092participant_sand.wav, Target: sand, Base Prediction: fn, Large Prediction: armed
+File Name: K1RRI016participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1cb024participant_red.wav, Target: red, Base Prediction: wrath, Large Prediction: re
+File Name: K1so112participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: wing
+File Name: K1pe125participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sayand
+File Name: K1pb023participant_sand.wav, Target: sand, Base Prediction: side, Large Prediction: sides
+File Name: K1pb016participant_ship.wav, Target: ship, Base Prediction: bou in, Large Prediction: bow
+File Name: K1pb016participant_sun.wav, Target: sun, Base Prediction: sale, Large Prediction: salle
+File Name: K1zz017participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: sun
+File Name: K1pv038participant_lock.wav, Target: lock, Base Prediction: a, Large Prediction: lau
+File Name: K1sc011participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lt214participant_ring.wav, Target: ring, Base Prediction: ek, Large Prediction: wink
+File Name: K1pe011participant_leg.wav, Target: leg, Base Prediction: grak, Large Prediction: lake
+File Name: K1lt332participant_fan.wav, Target: fan, Base Prediction: five, Large Prediction: fob
+File Name: K1xl011participant_chip.wav, Target: chip, Base Prediction: chi, Large Prediction: chip
+File Name: K1cb128participant_fan.wav, Target: fan, Base Prediction: well, Large Prediction: wang
+File Name: K1cb011participant_sun.wav, Target: sun, Base Prediction: sam, Large Prediction: san
+File Name: K1mo011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1pe113participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pe055participant_shoe.wav, Target: shoe, Base Prediction: she, Large Prediction: shious
+File Name: K1cc014participant_wing.wav, Target: wing, Base Prediction: ming, Large Prediction: ming
+File Name: K1so104participant_lamp.wav, Target: lamp, Base Prediction: here, Large Prediction: lamp
+File Name: K1OS013participant_zoo.wav, Target: zoo, Base Prediction: nere, Large Prediction: now
+File Name: K1dd092participant_sand.wav, Target: sand, Base Prediction: fn, Large Prediction: armed
+File Name: K1RRI016participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1cb024participant_red.wav, Target: red, Base Prediction: wrath, Large Prediction: re
+File Name: K1so112participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: wing
+File Name: K1pe125participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sayand
+File Name: K1pb023participant_sand.wav, Target: sand, Base Prediction: side, Large Prediction: sides
+File Name: K1pb016participant_ship.wav, Target: ship, Base Prediction: bou in, Large Prediction: bow
+File Name: K1pb016participant_sun.wav, Target: sun, Base Prediction: sale, Large Prediction: salle
+File Name: K1zz017participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: sun
+File Name: K1pv038participant_lock.wav, Target: lock, Base Prediction: a, Large Prediction: lau
+File Name: K1sc011participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lt214participant_ring.wav, Target: ring, Base Prediction: ek, Large Prediction: wink
+File Name: K1so036participant_rock.wav, Target: rock, Base Prediction: wha, Large Prediction: wa
+File Name: K1qq011participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lm081participant_sun.wav, Target: sun, Base Prediction: sade, Large Prediction: sadly
+File Name: K1cb103participant_sun.wav, Target: sun, Base Prediction: phom, Large Prediction: thon
+File Name: K1WA246participant_sick.wav, Target: sick, Base Prediction: fo, Large Prediction: thick
+File Name: KT0BM522child_walk1.wav, Target: walk1, Base Prediction: wa, Large Prediction: wap
+File Name: K1pe125participant_fox.wav, Target: fox, Base Prediction: foxs, Large Prediction: fox
+File Name: K1dd092participant_ring.wav, Target: ring, Base Prediction: il, Large Prediction: ring
+File Name: K1cc014participant_ring.wav, Target: ring, Base Prediction: thing, Large Prediction: ing
+File Name: K1av111participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1pe066participant_zoo.wav, Target: zoo, Base Prediction: er, Large Prediction: vew
+File Name: K1jh011participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1lt158participant_one.wav, Target: one, Base Prediction: y, Large Prediction: wy
+File Name: K1pe077participant_sun.wav, Target: sun, Base Prediction: fun, Large Prediction: fun
+File Name: K1pe113participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shill
+File Name: K1pe162participant_ship.wav, Target: ship, Base Prediction: stoc, Large Prediction: shop
+File Name: K1pb227participant_chip.wav, Target: chip, Base Prediction: sipe, Large Prediction: seba
+File Name: K1pb227participant_ramp.wav, Target: ramp, Base Prediction: ank ga god, Large Prediction: etata
+File Name: K1RRI016participant_sand.wav, Target: sand, Base Prediction: sulent, Large Prediction: sand
+File Name: K1pe066participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: whimp
+File Name: K1lt214participant_sick.wav, Target: sick, Base Prediction: fair, Large Prediction: fac
+File Name: K1pe011participant_fan.wav, Target: fan, Base Prediction: frand, Large Prediction: fan
+File Name: K1av111participant_one.wav, Target: one, Base Prediction: why, Large Prediction: what
+File Name: K1qq111participant_shoe.wav, Target: shoe, Base Prediction: still, Large Prediction: sal
+File Name: K1OS013participant_wing.wav, Target: wing, Base Prediction: welm, Large Prediction: wag
+File Name: K1dd033participant_lock.wav, Target: lock, Base Prediction: welk, Large Prediction: walk
+File Name: K1pb023participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: 
+File Name: K1MW013participant_sun.wav, Target: sun, Base Prediction: fun, Large Prediction: fun
+File Name: K1lt311participant_one.wav, Target: one, Base Prediction: lowe, Large Prediction: naw
+File Name: K1dd084participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lap
+File Name: K1pe113participant_red.wav, Target: red, Base Prediction: a, Large Prediction: ra
+File Name: K1av988participant_sick.wav, Target: sick, Base Prediction: saf, Large Prediction: sae
+File Name: K1lt345participant_fox.wav, Target: fox, Base Prediction: wh, Large Prediction: ort
+File Name: KT0BM522child_chick1.wav, Target: chick1, Base Prediction: that jeck, Large Prediction: that chick
+File Name: K1lt141participant_fan.wav, Target: fan, Base Prediction: farm, Large Prediction: fan
+File Name: K1zz501participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1lt112participant_one.wav, Target: one, Base Prediction: why, Large Prediction: white
+File Name: K1lt247participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1lt247participant_leg.wav, Target: leg, Base Prediction: lak, Large Prediction: lake
+File Name: K1dd044participant_zoo.wav, Target: zoo, Base Prediction: is you, Large Prediction: his heo
+File Name: K1pe125participant_sick.wav, Target: sick, Base Prediction: jinkin, Large Prediction: jink
+File Name: K1so072participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: hram
+File Name: K1so104participant_red.wav, Target: red, Base Prediction: grat, Large Prediction: red
+File Name: K1dd105participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: jip
+File Name: K1so104participant_lock.wav, Target: lock, Base Prediction: rah, Large Prediction: flo
+File Name: K1zz501participant_fox.wav, Target: fox, Base Prediction: box, Large Prediction: fox
+File Name: K1zz017participant_wing.wav, Target: wing, Base Prediction: owing, Large Prediction: a wing
+File Name: K1so095participant_one.wav, Target: one, Base Prediction: why, Large Prediction: why
+File Name: K1lt141participant_zoo.wav, Target: zoo, Base Prediction: sal, Large Prediction: hill
+File Name: K1lm081participant_red.wav, Target: red, Base Prediction: grad, Large Prediction: grad
+File Name: K1dd114participant_zoo.wav, Target: zoo, Base Prediction: jo, Large Prediction: shew
+File Name: K1dd052participant_sun.wav, Target: sun, Base Prediction: er, Large Prediction: her
+File Name: K1dd044participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sik
+File Name: K1dd021participant_fox.wav, Target: fox, Base Prediction: ad i know, Large Prediction: i dat know
+File Name: K1av111participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1pv058participant_sand.wav, Target: sand, Base Prediction: bar, Large Prediction: fr
+File Name: K1cc023participant_sun.wav, Target: sun, Base Prediction: sten, Large Prediction: san
+File Name: K1lt311participant_chip.wav, Target: chip, Base Prediction: cat, Large Prediction: cat
+File Name: K1cb011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1cc014participant_sun.wav, Target: sun, Base Prediction: sang, Large Prediction: stan
+File Name: K1TK026participant_run.wav, Target: run, Base Prediction: reany, Large Prediction: money
+File Name: K1lt141participant_red.wav, Target: red, Base Prediction: rag, Large Prediction: wag
+File Name: K1av988participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: ring
+File Name: K1sp611participant_lock.wav, Target: lock, Base Prediction: lot, Large Prediction: loth
+File Name: K1lt311participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: walk
+File Name: K1so104participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1jh011participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: leg
+File Name: K1so053participant_fan.wav, Target: fan, Base Prediction: beine, Large Prediction: firion
+File Name: K1_pe033participant_one.wav, Target: one, Base Prediction: win, Large Prediction: wine
+File Name: K1RRI016participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1so112participant_zoo.wav, Target: zoo, Base Prediction: here, Large Prediction: jl
+File Name: K1lt332participant_chip.wav, Target: chip, Base Prediction: yit, Large Prediction: cap the
+File Name: K1lt038participant_sun.wav, Target: sun, Base Prediction: farm, Large Prediction: san
+File Name: K1so104participant_sand.wav, Target: sand, Base Prediction: sa, Large Prediction: see
+File Name: K1OS013participant_shoe.wav, Target: shoe, Base Prediction: shout, Large Prediction: shout
+File Name: K1dd073participant_rock.wav, Target: rock, Base Prediction: lack, Large Prediction: lac
+File Name: K1pe154participant_sun.wav, Target: sun, Base Prediction: sca now, Large Prediction: stand siih
+File Name: K1cb103participant_run.wav, Target: run, Base Prediction: en, Large Prediction: run
+File Name: K1lt225participant_ship.wav, Target: ship, Base Prediction: shaper, Large Prediction: shap
+File Name: K1pv038participant_ramp.wav, Target: ramp, Base Prediction: te up, Large Prediction: viap
+File Name: K1lt225participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: lamb
+File Name: K1pv023participant_wing.wav, Target: wing, Base Prediction: mean, Large Prediction: wing
+File Name: K1pe044participant_sun.wav, Target: sun, Base Prediction: tine, Large Prediction: san
+File Name: K1lt345participant_wing.wav, Target: wing, Base Prediction: ring, Large Prediction: ream
+File Name: K1sp611participant_sand.wav, Target: sand, Base Prediction: san, Large Prediction: san
+File Name: K1so095participant_rock.wav, Target: rock, Base Prediction: roc, Large Prediction: rock
+File Name: K1lm067participant_run.wav, Target: run, Base Prediction: anning, Large Prediction: funning
+File Name: K1pb318participant_run.wav, Target: run, Base Prediction: fi, Large Prediction: fightin
+File Name: K1lt247participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1pe022participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shoe
+File Name: K1xl011participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: ring
+File Name: K1lm026participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pv016participant_fan.wav, Target: fan, Base Prediction: har, Large Prediction: qite
+File Name: K1pe147participant_shoe.wav, Target: shoe, Base Prediction: shall, Large Prediction: shiel
+File Name: K1pb304participant_sick.wav, Target: sick, Base Prediction: tetu, Large Prediction: seck
+File Name: K1dd084participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: locked
+File Name: K1dd092participant_sick.wav, Target: sick, Base Prediction: sae, Large Prediction: sake
+File Name: K1cc014participant_lock.wav, Target: lock, Base Prediction: la, Large Prediction: lot
+File Name: K1av122participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1dd073participant_sun.wav, Target: sun, Base Prediction: fun, Large Prediction: fan
+File Name: K1qq111participant_sick.wav, Target: sick, Base Prediction: thick, Large Prediction: thick
+File Name: K1cb116participant_chip.wav, Target: chip, Base Prediction: chop, Large Prediction: chap
+File Name: K1AM166participant_ramp.wav, Target: ramp, Base Prediction: hil, Large Prediction: hill
+File Name: K1WA246participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lach
+File Name: K1pb227participant_fox.wav, Target: fox, Base Prediction: lock, Large Prediction: wack
+File Name: K1pe077participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fam
+File Name: K1so095participant_ship.wav, Target: ship, Base Prediction: valt, Large Prediction: fault
+File Name: K1pv058participant_lock.wav, Target: lock, Base Prediction: whole, Large Prediction: wa
+File Name: K1EB212participant_zoo.wav, Target: zoo, Base Prediction: exi, Large Prediction: exeo
+File Name: K1qq111participant_run.wav, Target: run, Base Prediction: van, Large Prediction: ran
+File Name: K1lt332participant_one.wav, Target: one, Base Prediction: wine, Large Prediction: one
+File Name: K1lt307participant_one.wav, Target: one, Base Prediction: war and, Large Prediction: wine
+File Name: K1so095participant_sun.wav, Target: sun, Base Prediction: five, Large Prediction: fit
+File Name: K1pe077participant_sick.wav, Target: sick, Base Prediction: tock, Large Prediction: fec
+File Name: K1pe147participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1so104participant_fan.wav, Target: fan, Base Prediction: fair, Large Prediction: fair
+File Name: K1lt328participant_sun.wav, Target: sun, Base Prediction: fon, Large Prediction: fawn
+File Name: K1av977participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: run
+File Name: K1av988participant_run.wav, Target: run, Base Prediction: bran, Large Prediction: ran
+File Name: K1so053participant_leg.wav, Target: leg, Base Prediction: red, Large Prediction: raged
+File Name: K1lt202participant_one.wav, Target: one, Base Prediction: oe, Large Prediction: on
+File Name: K1lt311participant_run.wav, Target: run, Base Prediction: an, Large Prediction: on
+File Name: K1pv046participant_wing.wav, Target: wing, Base Prediction: wrin, Large Prediction: green
+File Name: K1qq021participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1so036participant_zoo.wav, Target: zoo, Base Prediction: stel, Large Prediction: still
+File Name: K1pv016participant_run.wav, Target: run, Base Prediction: blending, Large Prediction: one name
+File Name: K1AM166participant_lamp.wav, Target: lamp, Base Prediction: lanp, Large Prediction: lamp
+File Name: K1pb023participant_leg.wav, Target: leg, Base Prediction: theye, Large Prediction: lege
+File Name: K1lt214participant_chip.wav, Target: chip, Base Prediction: chalk, Large Prediction: sure
+File Name: K1zz501participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1pe131participant_rock.wav, Target: rock, Base Prediction: rack, Large Prediction: rock
+File Name: K1pe066participant_shoe.wav, Target: shoe, Base Prediction: you, Large Prediction: shel
+File Name: K1cc014participant_zoo.wav, Target: zoo, Base Prediction: o, Large Prediction: si
+File Name: KT0BM584child_chick1.wav, Target: chick1, Base Prediction: of this cheek, Large Prediction: this cheek
+File Name: K1pe077participant_ramp.wav, Target: ramp, Base Prediction: plam, Large Prediction: lamb
+File Name: K1sc011participant_one.wav, Target: one, Base Prediction: why, Large Prediction: ry
+File Name: K1TK026participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1pe154participant_rock.wav, Target: rock, Base Prediction: all, Large Prediction: all ugt
+File Name: K1RRI016participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chap
+File Name: K1av988participant_wing.wav, Target: wing, Base Prediction: wind, Large Prediction: wing
+File Name: K1pe131participant_lock.wav, Target: lock, Base Prediction: lackin, Large Prediction: lack
+File Name: K1so104participant_sun.wav, Target: sun, Base Prediction: sen, Large Prediction: san
+File Name: K1lt307participant_fan.wav, Target: fan, Base Prediction: faerand, Large Prediction: f eren
+File Name: K1lt021participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: rat
+File Name: K1dd084participant_run.wav, Target: run, Base Prediction: line, Large Prediction: line
+File Name: K1pe131participant_shoe.wav, Target: shoe, Base Prediction: hill, Large Prediction: chew
+File Name: K1pv023participant_rock.wav, Target: rock, Base Prediction: wha, Large Prediction: wack
+File Name: K1WA246participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1dd052participant_run.wav, Target: run, Base Prediction: la, Large Prediction: hu a
+File Name: KT0BM544child_rock1.wav, Target: rock1, Base Prediction: this la, Large Prediction: that's lark
+File Name: K1pe131participant_fan.wav, Target: fan, Base Prediction: fer, Large Prediction: fan
+File Name: K1av977participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1MW013participant_one.wav, Target: one, Base Prediction: why, Large Prediction: one
+File Name: K1lt332participant_shoe.wav, Target: shoe, Base Prediction: sill, Large Prediction: sheeld
+File Name: K1pe044participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sick
+File Name: K1av988participant_red.wav, Target: red, Base Prediction: rid, Large Prediction: ride
+File Name: K1mo011participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: shik
+File Name: K1pe162participant_wing.wav, Target: wing, Base Prediction: wen, Large Prediction: we
+File Name: K1so072participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pb304participant_zoo.wav, Target: zoo, Base Prediction: though, Large Prediction: zo
+File Name: K1dd033participant_fox.wav, Target: fox, Base Prediction: rock, Large Prediction: flox
+File Name: K1zz017participant_leg.wav, Target: leg, Base Prediction: legged, Large Prediction: leg
+File Name: K1dd092participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1pb023participant_fox.wav, Target: fox, Base Prediction: frank, Large Prediction: fax
+File Name: K1pe113participant_chip.wav, Target: chip, Base Prediction: chep, Large Prediction: ship
+File Name: K1so036participant_ring.wav, Target: ring, Base Prediction: rina, Large Prediction: ring
+File Name: K1lt236participant_ring.wav, Target: ring, Base Prediction: wng, Large Prediction: winged
+File Name: K1so036participant_ship.wav, Target: ship, Base Prediction: s, Large Prediction: ship
+File Name: K1so068participant_fan.wav, Target: fan, Base Prediction: , Large Prediction: 
+File Name: K1so104participant_run.wav, Target: run, Base Prediction: run, Large Prediction: run
+File Name: K1EB212participant_shoe.wav, Target: shoe, Base Prediction: saro, Large Prediction: sail
+File Name: K1dd021participant_zoo.wav, Target: zoo, Base Prediction: ad on thot, Large Prediction: idan no
+File Name: K1cc023participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pe113participant_sand.wav, Target: sand, Base Prediction: say on, Large Prediction: saon
+File Name: K1so104participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1lt311participant_ring.wav, Target: ring, Base Prediction: riing, Large Prediction: lying
+File Name: K1OS013participant_red.wav, Target: red, Base Prediction: s tis right now the game is to say as on the stricke what o you say, Large Prediction: what's death right now the game is to sing i's on the strickin what doyou siy
+File Name: K1pb212participant_chip.wav, Target: chip, Base Prediction: sa, Large Prediction: jap
+File Name: K1dd044participant_rock.wav, Target: rock, Base Prediction: walk, Large Prediction: walk
+File Name: K1lt133participant_fan.wav, Target: fan, Base Prediction: fair, Large Prediction: fair and
+File Name: K1lm067participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: starling
+File Name: K1cb024participant_ramp.wav, Target: ramp, Base Prediction: voice, Large Prediction: west
+File Name: K1pb016participant_shoe.wav, Target: shoe, Base Prediction: eshep, Large Prediction: shere
+File Name: K1so053participant_sun.wav, Target: sun, Base Prediction: fine, Large Prediction: fan
+File Name: K1TK026participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: laugh
+File Name: K1lt141participant_leg.wav, Target: leg, Base Prediction: tha, Large Prediction: foot
+File Name: K1qq011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1jh011participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pb304participant_fox.wav, Target: fox, Base Prediction: fok, Large Prediction: fark
+File Name: K1cc014participant_leg.wav, Target: leg, Base Prediction: green, Large Prediction: wak
+File Name: K1cb128participant_zoo.wav, Target: zoo, Base Prediction: he, Large Prediction: sher
+File Name: K1lt202participant_lamp.wav, Target: lamp, Base Prediction: ron, Large Prediction: ron
+File Name: K1pv038participant_ring.wav, Target: ring, Base Prediction: rung, Large Prediction: rank
+File Name: K1cb038participant_sick.wav, Target: sick, Base Prediction: sec, Large Prediction: sack
+File Name: K1lt247participant_ramp.wav, Target: ramp, Base Prediction: where, Large Prediction: ramp
+File Name: K1EB212participant_socks.wav, Target: socks, Base Prediction: shaw, Large Prediction: shac
+File Name: K1pe077participant_sand.wav, Target: sand, Base Prediction: sara, Large Prediction: sar
+File Name: K1pe011participant_sun.wav, Target: sun, Base Prediction: fan, Large Prediction: fran
+File Name: K1so095participant_wing.wav, Target: wing, Base Prediction: que, Large Prediction: queen
+File Name: K1pb212participant_ring.wav, Target: ring, Base Prediction: mean, Large Prediction: run
+File Name: K1RRI016participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fog
+File Name: K1KM243participant_red.wav, Target: red, Base Prediction: reb, Large Prediction: rab
+File Name: K1pe055participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1pv046participant_fox.wav, Target: fox, Base Prediction: ingery, Large Prediction: kingary
+File Name: K1TK017participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1so095participant_leg.wav, Target: leg, Base Prediction: land, Large Prediction: laugh
+File Name: K1lm018participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: van
+File Name: K1lt247participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: san
+File Name: KT0BM533child_chick1.wav, Target: chick1, Base Prediction: ci, Large Prediction: che
+File Name: K1qq111participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pv046participant_lock.wav, Target: lock, Base Prediction: bac, Large Prediction: wack
+File Name: K1cb024participant_sick.wav, Target: sick, Base Prediction: he, Large Prediction: he
+File Name: K1TK026participant_lamp.wav, Target: lamp, Base Prediction: lantern, Large Prediction: lantern
+File Name: K1lt311participant_fox.wav, Target: fox, Base Prediction: flock, Large Prediction: flock
+File Name: K1cb024participant_wing.wav, Target: wing, Base Prediction: my, Large Prediction: quis
+File Name: K1cb128participant_leg.wav, Target: leg, Base Prediction: wank, Large Prediction: whak
+File Name: K1lt345participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1dd092participant_fan.wav, Target: fan, Base Prediction: pond, Large Prediction: pond
+File Name: K1pe088participant_red.wav, Target: red, Base Prediction: brad, Large Prediction: red
+File Name: K1so041participant_sand.wav, Target: sand, Base Prediction: son, Large Prediction: sam
+File Name: K1zz501participant_red.wav, Target: red, Base Prediction: rit, Large Prediction: red
+File Name: K1pb212participant_red.wav, Target: red, Base Prediction: rom, Large Prediction: rab
+File Name: K1pe044participant_zoo.wav, Target: zoo, Base Prediction: e, Large Prediction: you
+File Name: K1lt141participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cc044participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sick
+File Name: K1lt202participant_fan.wav, Target: fan, Base Prediction: fine, Large Prediction: fire
+File Name: K1OS013participant_sand.wav, Target: sand, Base Prediction: , Large Prediction: that
+File Name: K1so083participant_shoe.wav, Target: shoe, Base Prediction: e, Large Prediction: 
+File Name: K1jh011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1RRI016participant_zoo.wav, Target: zoo, Base Prediction: sail, Large Prediction: so
+File Name: K1pv016participant_leg.wav, Target: leg, Base Prediction: ay, Large Prediction: lag
+File Name: K1av122participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1TK017participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pe077participant_rock.wav, Target: rock, Base Prediction: blacked, Large Prediction: rocked
+File Name: K1lm045participant_run.wav, Target: run, Base Prediction: one, Large Prediction: run
+File Name: K1pe044participant_fan.wav, Target: fan, Base Prediction: fa, Large Prediction: van
+File Name: K1pv038participant_rock.wav, Target: rock, Base Prediction: wap, Large Prediction: wap
+File Name: KT0BM551child_walk1.wav, Target: walk1, Base Prediction: i what, Large Prediction: faith wack
+File Name: K1So022participant_zoo.wav, Target: zoo, Base Prediction: her, Large Prediction: you
+File Name: K1pb212participant_sun.wav, Target: sun, Base Prediction: got, Large Prediction: kan
+File Name: K1cb038participant_lock.wav, Target: lock, Base Prediction: a, Large Prediction: wa
+File Name: K1av111participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1so053participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1So022participant_one.wav, Target: one, Base Prediction: hor and, Large Prediction: one
+File Name: K1lt021participant_sun.wav, Target: sun, Base Prediction: , Large Prediction: fa
+File Name: K1dd073participant_chip.wav, Target: chip, Base Prediction: deep, Large Prediction: tap
+File Name: K1lt236participant_shoe.wav, Target: shoe, Base Prediction: sh, Large Prediction: sho
+File Name: K1TK026participant_ring.wav, Target: ring, Base Prediction: wing, Large Prediction: win
+File Name: K1dd084participant_wing.wav, Target: wing, Base Prediction: feather, Large Prediction: feather
+File Name: K1sc011participant_lamp.wav, Target: lamp, Base Prediction: la, Large Prediction: layr
+File Name: K1pe044participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: ran
+File Name: K1AM166participant_run.wav, Target: run, Base Prediction: i, Large Prediction: rid
+File Name: K1EB212participant_rainbow.wav, Target: rainbow, Base Prediction: reinbow, Large Prediction: wainbow
+File Name: K1lt332participant_sick.wav, Target: sick, Base Prediction: fact, Large Prediction: thec
+File Name: K1qq011participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: KT0BM562child_walk1.wav, Target: walk1, Base Prediction: is what i go long, Large Prediction: tis what igon on
+File Name: K1So022participant_red.wav, Target: red, Base Prediction: rac, Large Prediction: rack
+File Name: K1KM243participant_fox.wav, Target: fox, Base Prediction: fa, Large Prediction: foc
+File Name: K1dd033participant_ring.wav, Target: ring, Base Prediction: wing, Large Prediction: ring
+File Name: K1pv046participant_lamp.wav, Target: lamp, Base Prediction: miamp, Large Prediction: moyamph
+File Name: K1EB212participant_run.wav, Target: run, Base Prediction: whining, Large Prediction: wawning
+File Name: K1pb212participant_zoo.wav, Target: zoo, Base Prediction: feel, Large Prediction: fear or
+File Name: K1dd073participant_lock.wav, Target: lock, Base Prediction: oa, Large Prediction: lac
+File Name: K1RRI016participant_ring.wav, Target: ring, Base Prediction: ting, Large Prediction: ring
+File Name: K1av988participant_shoe.wav, Target: shoe, Base Prediction: sho, Large Prediction: shoe
+File Name: K1so112participant_run.wav, Target: run, Base Prediction: wine, Large Prediction: one
+File Name: K1_pe033participant_leg.wav, Target: leg, Base Prediction: lat, Large Prediction: lad
+File Name: K1TK026participant_ramp.wav, Target: ramp, Base Prediction: so like a gable like you go down a, Large Prediction: alaw like ain't gaple like you go down ug
+File Name: K1pe154participant_run.wav, Target: run, Base Prediction: rawbin, Large Prediction: raddy
+File Name: K1lt202participant_rock.wav, Target: rock, Base Prediction: wa, Large Prediction: walk
+File Name: K1dd084participant_sick.wav, Target: sick, Base Prediction: six, Large Prediction: sec
+File Name: K1cb024participant_leg.wav, Target: leg, Base Prediction: we gi, Large Prediction: rave gan
+File Name: K1pe055participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramph
+File Name: K1EB212participant_one.wav, Target: one, Base Prediction: wine, Large Prediction: rhine
+File Name: K1RRI016participant_lock.wav, Target: lock, Base Prediction: reluc, Large Prediction: lop
+File Name: K1pb227participant_shoe.wav, Target: shoe, Base Prediction: sure, Large Prediction: so
+File Name: K1dd092participant_chip.wav, Target: chip, Base Prediction: tap, Large Prediction: tamp
+File Name: K1lt328participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: 
+File Name: K1lt057participant_one.wav, Target: one, Base Prediction: rine, Large Prediction: wine
+File Name: K1cc056participant_lamp.wav, Target: lamp, Base Prediction: to, Large Prediction: ther
+File Name: K1dd092participant_one.wav, Target: one, Base Prediction: wern, Large Prediction: one
+File Name: K1_pe033participant_red.wav, Target: red, Base Prediction: wed, Large Prediction: lad
+File Name: K1sc011participant_run.wav, Target: run, Base Prediction: ra, Large Prediction: gra
+File Name: K1cc014participant_lamp.wav, Target: lamp, Base Prediction: me, Large Prediction: lap
+File Name: K1cc044participant_zoo.wav, Target: zoo, Base Prediction: der, Large Prediction: vew
+File Name: K1av988participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1xl011participant_run.wav, Target: run, Base Prediction: run, Large Prediction: run
+File Name: K1AY244participant_wing.wav, Target: wing, Base Prediction: when, Large Prediction: wing
+File Name: K1zz301participant_lock.wav, Target: lock, Base Prediction: luck, Large Prediction: lock
+File Name: K1pe162participant_lamp.wav, Target: lamp, Base Prediction: arp, Large Prediction: lamp
+File Name: K1cc014participant_red.wav, Target: red, Base Prediction: rowd, Large Prediction: rag
+File Name: K1zz501participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: run
+File Name: K1pv058participant_chip.wav, Target: chip, Base Prediction: said, Large Prediction: set
+File Name: K1pe125participant_lamp.wav, Target: lamp, Base Prediction: way ump, Large Prediction: way ump
+File Name: K1dd033participant_sand.wav, Target: sand, Base Prediction: irlo, Large Prediction: erlow
+File Name: K1av988participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1lt214participant_fox.wav, Target: fox, Base Prediction: faf, Large Prediction: far is
+File Name: K1WA246participant_chick.wav, Target: chick, Base Prediction: dick, Large Prediction: cick
+File Name: K1pe162participant_one.wav, Target: one, Base Prediction: or any, Large Prediction: waney
+File Name: K1TEST1participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1zz301participant_run.wav, Target: run, Base Prediction: run, Large Prediction: run
+File Name: K1cb132participant_fan.wav, Target: fan, Base Prediction: farm, Large Prediction: farm
+File Name: K1lt311participant_lamp.wav, Target: lamp, Base Prediction: vam, Large Prediction: lam
+File Name: K1dd033participant_leg.wav, Target: leg, Base Prediction: big, Large Prediction: vag
+File Name: K1cc044participant_run.wav, Target: run, Base Prediction: why, Large Prediction: wid
+File Name: K1lt345participant_lamp.wav, Target: lamp, Base Prediction: damp, Large Prediction: lamp
+File Name: K1cc056participant_red.wav, Target: red, Base Prediction: rout, Large Prediction: rab
+File Name: K1mo011participant_red.wav, Target: red, Base Prediction: brit, Large Prediction: red
+File Name: K1so053participant_run.wav, Target: run, Base Prediction: rine, Large Prediction: ride
+File Name: K1pe022participant_ship.wav, Target: ship, Base Prediction: sh, Large Prediction: se
+File Name: K1cb116participant_one.wav, Target: one, Base Prediction: we, Large Prediction: when
+File Name: K1xl011participant_sand.wav, Target: sand, Base Prediction: sea and, Large Prediction: sand
+File Name: K1dd073participant_wing.wav, Target: wing, Base Prediction: ren, Large Prediction: ran
+File Name: K1dd105participant_ramp.wav, Target: ramp, Base Prediction: pell, Large Prediction: camp
+File Name: K1pe113participant_lock.wav, Target: lock, Base Prediction: lon, Large Prediction: loc
+File Name: K1dd033participant_rock.wav, Target: rock, Base Prediction: ran, Large Prediction: rock
+File Name: K1zz501participant_leg.wav, Target: leg, Base Prediction: lay, Large Prediction: lake
+File Name: K1so072participant_wing.wav, Target: wing, Base Prediction: ren, Large Prediction: wing
+File Name: K1av988participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: ramp
+File Name: K1lt214participant_red.wav, Target: red, Base Prediction: w be, Large Prediction: wag
+File Name: K1pe154participant_red.wav, Target: red, Base Prediction: , Large Prediction: aa
+File Name: K1WA246participant_fan.wav, Target: fan, Base Prediction: faeon, Large Prediction: fan
+File Name: K1lt057participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cc023participant_lamp.wav, Target: lamp, Base Prediction: rap, Large Prediction: rap
+File Name: K1cb024participant_rock.wav, Target: rock, Base Prediction: , Large Prediction: a an
+File Name: K1KM243participant_rock.wav, Target: rock, Base Prediction: walk, Large Prediction: walked
+File Name: K1_pe033participant_zoo.wav, Target: zoo, Base Prediction: though, Large Prediction: fail
+File Name: K1pe125participant_ship.wav, Target: ship, Base Prediction: she, Large Prediction: ship
+File Name: K1cb011participant_one.wav, Target: one, Base Prediction: went, Large Prediction: white
+File Name: K1EB212participant_leg.wav, Target: leg, Base Prediction: log, Large Prediction: lalga
+File Name: K1lt038participant_fan.wav, Target: fan, Base Prediction: ful on, Large Prediction: inwom
+File Name: K1jh011participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: six
+File Name: K1qq111participant_sand.wav, Target: sand, Base Prediction: fand, Large Prediction: fanned
+File Name: K1lt121participant_zoo.wav, Target: zoo, Base Prediction: dew, Large Prediction: two
+File Name: K1cc023participant_leg.wav, Target: leg, Base Prediction: wig, Large Prediction: wage
+File Name: K1so011participant_rock.wav, Target: rock, Base Prediction: la, Large Prediction: wak
+File Name: K1cc044participant_chip.wav, Target: chip, Base Prediction: check, Large Prediction: chek
+File Name: K1lt202participant_ramp.wav, Target: ramp, Base Prediction: round, Large Prediction: wamp
+File Name: K1WA246participant_rock.wav, Target: rock, Base Prediction: whack, Large Prediction: wack
+File Name: K1zz501participant_zoo.wav, Target: zoo, Base Prediction: sue, Large Prediction: sou
+File Name: K1pe055participant_one.wav, Target: one, Base Prediction: why, Large Prediction: wine
+File Name: K1RRI016participant_rock.wav, Target: rock, Base Prediction: loc, Large Prediction: the lock
+File Name: K1pe022participant_one.wav, Target: one, Base Prediction: why, Large Prediction: what
+File Name: K1pe147participant_sun.wav, Target: sun, Base Prediction: tine, Large Prediction: fun
+File Name: K1pb318participant_fox.wav, Target: fox, Base Prediction: box, Large Prediction: locks
+File Name: K1so036participant_lock.wav, Target: lock, Base Prediction: fool, Large Prediction: ool
+File Name: K1pb035participant_lamp.wav, Target: lamp, Base Prediction: wamp, Large Prediction: lap
+File Name: K1pv023participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: wamb
+File Name: K1cc067participant_ramp.wav, Target: ramp, Base Prediction: ean, Large Prediction: way up
+File Name: K1av111participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1cb116participant_sand.wav, Target: sand, Base Prediction: form, Large Prediction: lamp
+File Name: K1qq021participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1cb011participant_lock.wav, Target: lock, Base Prediction: h i don't know what i called, Large Prediction: ahh i don't know what it's called
+File Name: K1lt057participant_run.wav, Target: run, Base Prediction: what, Large Prediction: wid
+File Name: KT0BM584child_lock1.wav, Target: lock1, Base Prediction: this letter ne, Large Prediction: this one no
+File Name: K1so068participant_lamp.wav, Target: lamp, Base Prediction: or nam, Large Prediction: lamp
+File Name: K1KM243participant_socks.wav, Target: socks, Base Prediction: sot, Large Prediction: sot
+File Name: K1cc014participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1cc035participant_wing.wav, Target: wing, Base Prediction: a wan, Large Prediction: a weeng
+File Name: K1cb116participant_ramp.wav, Target: ramp, Base Prediction: sh am, Large Prediction: m
+File Name: K1lt133participant_one.wav, Target: one, Base Prediction: why, Large Prediction: why
+File Name: KT0BM533child_walk1.wav, Target: walk1, Base Prediction: what, Large Prediction: wack
+File Name: K1pv023participant_one.wav, Target: one, Base Prediction: blind, Large Prediction: wine
+File Name: K1mo011participant_shoe.wav, Target: shoe, Base Prediction: sho, Large Prediction: shu
+File Name: K1pe131participant_red.wav, Target: red, Base Prediction: rab, Large Prediction: rout
+File Name: K1lt307participant_rock.wav, Target: rock, Base Prediction: what, Large Prediction: wak
+File Name: K1lt158participant_sun.wav, Target: sun, Base Prediction: sarmy h, Large Prediction: sa
+File Name: KT0BM562child_lick1.wav, Target: lick1, Base Prediction: thank tetkes o one i don't know, Large Prediction: think ye that's right  thar one i don no so
+File Name: K1pb016participant_wing.wav, Target: wing, Base Prediction: i don't blow it thou earliest, Large Prediction: i don't know it that or lis
+File Name: K1cb024participant_run.wav, Target: run, Base Prediction: , Large Prediction: 
+File Name: K1pb212participant_fan.wav, Target: fan, Base Prediction: shamp, Large Prediction: fam
+File Name: K1zz017participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pb035participant_zoo.wav, Target: zoo, Base Prediction: dow, Large Prediction: giwa
+File Name: K1lt345participant_ring.wav, Target: ring, Base Prediction: we, Large Prediction: queen
+File Name: K1so083participant_sand.wav, Target: sand, Base Prediction: for, Large Prediction: waopt
+File Name: K1pe113participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1cc056participant_wing.wav, Target: wing, Base Prediction: bide, Large Prediction: bud
+File Name: K1pe088participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: leg
+File Name: K1lt236participant_ship.wav, Target: ship, Base Prediction: bot, Large Prediction: boat
+File Name: K1cc023participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1pb304participant_ring.wav, Target: ring, Base Prediction: wing, Large Prediction: ring
+File Name: K1lt017participant_sun.wav, Target: sun, Base Prediction: sa, Large Prediction: sad
+File Name: K1qq011participant_shoe.wav, Target: shoe, Base Prediction: sho, Large Prediction: shoe
+File Name: K1pv058participant_lamp.wav, Target: lamp, Base Prediction: nap, Large Prediction: loud
+File Name: K1pb227participant_lock.wav, Target: lock, Base Prediction: gos, Large Prediction: gos
+File Name: K1lt328participant_sick.wav, Target: sick, Base Prediction: gerda, Large Prediction: gurb
+File Name: K1pv058participant_fan.wav, Target: fan, Base Prediction: fair, Large Prediction: there
+File Name: K1cb128participant_one.wav, Target: one, Base Prediction: clan, Large Prediction: one
+File Name: K1_pe033participant_sun.wav, Target: sun, Base Prediction: sign, Large Prediction: sign
+File Name: K1dd092participant_ship.wav, Target: ship, Base Prediction: bout, Large Prediction: belt
+File Name: K1qq011participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: lag
+File Name: K1cc044participant_wing.wav, Target: wing, Base Prediction: o, Large Prediction: lean
+File Name: K1TK026participant_sun.wav, Target: sun, Base Prediction: a fine, Large Prediction: a fan
+File Name: K1av111participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1cb128participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shel
+File Name: K1sp611participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1lt038participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: racked
+File Name: K1av122participant_rock.wav, Target: rock, Base Prediction: rauph, Large Prediction: raw
+File Name: K1so068participant_ramp.wav, Target: ramp, Base Prediction: reim, Large Prediction: rim
+File Name: K1av122participant_run.wav, Target: run, Base Prediction: ren, Large Prediction: ren
+File Name: K1pe131participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: rad
+File Name: K1cc056participant_ramp.wav, Target: ramp, Base Prediction: and, Large Prediction: and
+File Name: K1cb011participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: like
+File Name: K1pe113participant_leg.wav, Target: leg, Base Prediction: led, Large Prediction: lag
+File Name: K1dd052participant_fan.wav, Target: fan, Base Prediction: a, Large Prediction: o
+File Name: K1pb023participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: rin
+File Name: K1pb304participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1zz301participant_rock.wav, Target: rock, Base Prediction: roc, Large Prediction: rock
+File Name: K1pe077participant_wing.wav, Target: wing, Base Prediction: ran, Large Prediction: lang
+File Name: KT0BM551child_lick1.wav, Target: lick1, Base Prediction: what mis e ham, Large Prediction: what's this  am cla
+File Name: K1cb116participant_ring.wav, Target: ring, Base Prediction: gray, Large Prediction: rain
+File Name: K1cb038participant_one.wav, Target: one, Base Prediction: ap, Large Prediction: awar
+File Name: K1pv016participant_sick.wav, Target: sick, Base Prediction: lik, Large Prediction: smoke
+File Name: K1TK026participant_shoe.wav, Target: shoe, Base Prediction: a shoe, Large Prediction: a shoe
+File Name: K1pv058participant_ramp.wav, Target: ramp, Base Prediction: rare, Large Prediction: rap
+File Name: K1so072participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: whain
+File Name: K1lm045participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1cc023participant_ramp.wav, Target: ramp, Base Prediction: lamp, Large Prediction: nap
+File Name: K1pb304participant_chip.wav, Target: chip, Base Prediction: ceck, Large Prediction: chap
+File Name: K1dd033participant_ramp.wav, Target: ramp, Base Prediction: irlo, Large Prediction: arle
+File Name: K1so104participant_leg.wav, Target: leg, Base Prediction: lot, Large Prediction: bes love
+File Name: K1pe055participant_ship.wav, Target: ship, Base Prediction: si, Large Prediction: ship
+File Name: K1RRI016participant_socks.wav, Target: socks, Base Prediction: shocks, Large Prediction: shops
+File Name: K1av977participant_fan.wav, Target: fan, Base Prediction: fain, Large Prediction: fair
+File Name: K1lt236participant_fan.wav, Target: fan, Base Prediction: peon, Large Prediction: fan
+File Name: K1lm052participant_sun.wav, Target: sun, Base Prediction: stan, Large Prediction: sad
+File Name: K1dd044participant_red.wav, Target: red, Base Prediction: a the, Large Prediction: wheres
+File Name: K1_pe033participant_run.wav, Target: run, Base Prediction: whon, Large Prediction: what
+File Name: K1lt311participant_wing.wav, Target: wing, Base Prediction: am, Large Prediction: am
+File Name: K1pb227participant_zoo.wav, Target: zoo, Base Prediction: so, Large Prediction: so
+File Name: K1dd105participant_fan.wav, Target: fan, Base Prediction: ad, Large Prediction: he owed
+File Name: K1so083participant_ship.wav, Target: ship, Base Prediction: sh, Large Prediction: sa
+File Name: K1TK026participant_wing.wav, Target: wing, Base Prediction: reng her bact, Large Prediction: ringing her back
+File Name: K1jh011participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1dd052participant_wing.wav, Target: wing, Base Prediction: ce, Large Prediction: cheer
+File Name: K1WA246participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1so011participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1lt247participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: chup
+File Name: K1AY244participant_run.wav, Target: run, Base Prediction: o i, Large Prediction: hurai
+File Name: K1MW013participant_red.wav, Target: red, Base Prediction: bread, Large Prediction: red
+File Name: K1pb035participant_fan.wav, Target: fan, Base Prediction: frend, Large Prediction: frind
+File Name: K1AM166participant_wing.wav, Target: wing, Base Prediction: wee, Large Prediction: wel
+File Name: K1pe066participant_fan.wav, Target: fan, Base Prediction: fear, Large Prediction: fear and
+File Name: K1pv038participant_red.wav, Target: red, Base Prediction: rab, Large Prediction: rab
+File Name: K1cc067participant_lock.wav, Target: lock, Base Prediction: ar, Large Prediction: what
+File Name: K1So022participant_leg.wav, Target: leg, Base Prediction: blake, Large Prediction: lake
+File Name: K1pb023participant_shoe.wav, Target: shoe, Base Prediction: , Large Prediction: she
+File Name: K1pe077participant_ship.wav, Target: ship, Base Prediction: het, Large Prediction: ship
+File Name: K1pe088participant_sand.wav, Target: sand, Base Prediction: so on, Large Prediction: sand
+File Name: K1cb132participant_one.wav, Target: one, Base Prediction: in, Large Prediction: around
+File Name: K1pe088participant_sick.wav, Target: sick, Base Prediction: sack, Large Prediction: sank
+File Name: K1zz501participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1lt225participant_ring.wav, Target: ring, Base Prediction: gren, Large Prediction: ring
+File Name: K1dd033participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1dd052participant_sick.wav, Target: sick, Base Prediction: sa, Large Prediction: the
+File Name: K1lm045participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: san
+File Name: K1AY244participant_rock.wav, Target: rock, Base Prediction: rac, Large Prediction: rock
+File Name: K1pe055participant_ring.wav, Target: ring, Base Prediction: great, Large Prediction: ring and
+File Name: K1lt225participant_wing.wav, Target: wing, Base Prediction: mi, Large Prediction: mean
+File Name: K1qq021participant_rock.wav, Target: rock, Base Prediction: roc, Large Prediction: rock
+File Name: K1AM166participant_shoe.wav, Target: shoe, Base Prediction: hew, Large Prediction: shee
+File Name: K1cb038participant_shoe.wav, Target: shoe, Base Prediction: you, Large Prediction: seal
+File Name: K1cb038participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: 
+File Name: K1dd105participant_leg.wav, Target: leg, Base Prediction: teh, Large Prediction: teach
+File Name: K1dd073participant_ship.wav, Target: ship, Base Prediction: ye, Large Prediction: sha
+File Name: K1so072participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: 
+File Name: K1cc023participant_fox.wav, Target: fox, Base Prediction: pox, Large Prediction: fox
+File Name: K1pe011participant_rock.wav, Target: rock, Base Prediction: ah, Large Prediction: rock
+File Name: KT0BM511child_chick1.wav, Target: chick1, Base Prediction: chick, Large Prediction: what's the cheqk
+File Name: K1lt121participant_sun.wav, Target: sun, Base Prediction: sad, Large Prediction: sad
+File Name: K1sp611participant_red.wav, Target: red, Base Prediction: brat, Large Prediction: rat
+File Name: K1mo011participant_wing.wav, Target: wing, Base Prediction: win, Large Prediction: wing
+File Name: K1cb132participant_rock.wav, Target: rock, Base Prediction: fo, Large Prediction: tar
+File Name: K1pe147participant_lamp.wav, Target: lamp, Base Prediction: lane, Large Prediction: lamp
+File Name: K1cc067participant_shoe.wav, Target: shoe, Base Prediction: sil, Large Prediction: shew
+File Name: K1cb038participant_ramp.wav, Target: ramp, Base Prediction: what, Large Prediction: whyne
+File Name: K1pv023participant_leg.wav, Target: leg, Base Prediction: red, Large Prediction: wag
+File Name: K1pe077participant_fox.wav, Target: fox, Base Prediction: buns, Large Prediction: faos
+File Name: K1cc035participant_chip.wav, Target: chip, Base Prediction: to, Large Prediction: cip
+File Name: K1dd033participant_chip.wav, Target: chip, Base Prediction: chep the, Large Prediction: chap
+File Name: K1cc044participant_red.wav, Target: red, Base Prediction: rag, Large Prediction: rat
+File Name: KT0BM533child_sick1.wav, Target: sick1, Base Prediction: sick, Large Prediction: sick
+File Name: K1pb016participant_ring.wav, Target: ring, Base Prediction: great, Large Prediction: ring
+File Name: K1dd084participant_fan.wav, Target: fan, Base Prediction: vin, Large Prediction: van
+File Name: K1pe088participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamb
+File Name: K1lt332participant_sun.wav, Target: sun, Base Prediction: sidin, Large Prediction: esidin
+File Name: K1av988participant_sand.wav, Target: sand, Base Prediction: the sand, Large Prediction: the sand
+File Name: K1zz501participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1xl011participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1pe147participant_fan.wav, Target: fan, Base Prediction: fa, Large Prediction: they
+File Name: K1pe066participant_fox.wav, Target: fox, Base Prediction: cok, Large Prediction: hocks
+File Name: K1pe113participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1AM166participant_chip.wav, Target: chip, Base Prediction: chopin, Large Prediction: toppin
+File Name: K1lt225participant_one.wav, Target: one, Base Prediction: wine, Large Prediction: one
+File Name: K1pb212participant_shoe.wav, Target: shoe, Base Prediction: heor, Large Prediction: shelor
+File Name: K1sc011participant_zoo.wav, Target: zoo, Base Prediction: he, Large Prediction: he
+File Name: K1lt332participant_ramp.wav, Target: ramp, Base Prediction: r, Large Prediction: rih
+File Name: K1AM166participant_sun.wav, Target: sun, Base Prediction: fave, Large Prediction: frad
+File Name: K1dd021participant_rock.wav, Target: rock, Base Prediction: roc, Large Prediction: rock
+File Name: K1cc044participant_lamp.wav, Target: lamp, Base Prediction: ramp, Large Prediction: whem
+File Name: K1so041participant_zoo.wav, Target: zoo, Base Prediction: lit, Large Prediction: jon
+File Name: K1pv016participant_one.wav, Target: one, Base Prediction: mine, Large Prediction: mon
+File Name: K1pb023participant_fan.wav, Target: fan, Base Prediction: y, Large Prediction: cry
+File Name: K1pe055participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1pb227participant_run.wav, Target: run, Base Prediction: what, Large Prediction: what
+File Name: K1dd044participant_leg.wav, Target: leg, Base Prediction: fact, Large Prediction: fat
+File Name: K1qq011participant_fan.wav, Target: fan, Base Prediction: fann, Large Prediction: fan
+File Name: K1qq021participant_lock.wav, Target: lock, Base Prediction: luck, Large Prediction: lock
+File Name: K1mo011participant_rock.wav, Target: rock, Base Prediction: rough, Large Prediction: rock
+File Name: K1pe125participant_one.wav, Target: one, Base Prediction: wine, Large Prediction: on
+File Name: K1lt345participant_one.wav, Target: one, Base Prediction: wen, Large Prediction: flene
+File Name: K1pe055participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1pe022participant_lamp.wav, Target: lamp, Base Prediction: ray up, Large Prediction: wa el
+File Name: K1TK026participant_rock.wav, Target: rock, Base Prediction: ronk, Large Prediction: oa
+File Name: K1pe162participant_ramp.wav, Target: ramp, Base Prediction: wamp, Large Prediction: wamp
+File Name: K1cb116participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: ran
+File Name: K1lt225participant_chip.wav, Target: chip, Base Prediction: chap, Large Prediction: chap
+File Name: K1lt045participant_zoo.wav, Target: zoo, Base Prediction: you, Large Prediction: do
+File Name: K1av122participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: ramp
+File Name: K1so041participant_sick.wav, Target: sick, Base Prediction: seek, Large Prediction: seek
+File Name: K1lm031participant_one.wav, Target: one, Base Prediction: ron, Large Prediction: one
+File Name: K1dd033participant_sun.wav, Target: sun, Base Prediction: ad, Large Prediction: said
+File Name: K1dd044participant_sand.wav, Target: sand, Base Prediction: time, Large Prediction: ffire
+File Name: K1EB212participant_sun.wav, Target: sun, Base Prediction: sign, Large Prediction: sign
+File Name: K1zz301participant_zoo.wav, Target: zoo, Base Prediction: zu, Large Prediction: zu
+File Name: K1lt045participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pe022participant_ring.wav, Target: ring, Base Prediction: ray, Large Prediction: reg
+File Name: K1pv038participant_run.wav, Target: run, Base Prediction: hum, Large Prediction: hum
+File Name: K1pv058participant_fox.wav, Target: fox, Base Prediction: but, Large Prediction: faulack
+File Name: K1zz301participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pb016participant_rock.wav, Target: rock, Base Prediction: rah, Large Prediction: ra
+File Name: K1lm052participant_fan.wav, Target: fan, Base Prediction: found, Large Prediction: fowl
+File Name: K1cb011participant_fox.wav, Target: fox, Base Prediction: t, Large Prediction: thot
+File Name: K1EB212participant_ramp.wav, Target: ramp, Base Prediction: mor, Large Prediction: warmth
+File Name: K1qq021participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1so011participant_zoo.wav, Target: zoo, Base Prediction: zill, Large Prediction: zo
+File Name: K1av977participant_leg.wav, Target: leg, Base Prediction: lag, Large Prediction: lag
+File Name: K1so112participant_lamp.wav, Target: lamp, Base Prediction: lant, Large Prediction: lamp
+File Name: K1dd114participant_run.wav, Target: run, Base Prediction: laugh, Large Prediction: or half
+File Name: K1dd084participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1so112participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: show
+File Name: K1lt236participant_wing.wav, Target: wing, Base Prediction: when, Large Prediction: winga
+File Name: K1lm052participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: farks
+File Name: K1av977participant_zoo.wav, Target: zoo, Base Prediction: do, Large Prediction: zou
+File Name: K1qq021participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1lt202participant_sand.wav, Target: sand, Base Prediction: sant, Large Prediction: sient
+File Name: K1lm018participant_leg.wav, Target: leg, Base Prediction: lak, Large Prediction: wak
+File Name: K1pe022participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1lt307participant_zoo.wav, Target: zoo, Base Prediction: ama mau, Large Prediction: amma mowl
+File Name: K1so068participant_wing.wav, Target: wing, Base Prediction: ring, Large Prediction: wing
+File Name: K1av122participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1av122participant_fox.wav, Target: fox, Base Prediction: box, Large Prediction: fox
+File Name: K1lt247participant_fan.wav, Target: fan, Base Prediction: van, Large Prediction: fain
+File Name: K1cc056participant_rock.wav, Target: rock, Base Prediction: wha, Large Prediction: what
+File Name: K1pe154participant_leg.wav, Target: leg, Base Prediction: lam, Large Prediction: lug
+File Name: K1cc035participant_fan.wav, Target: fan, Base Prediction: five, Large Prediction: five
+File Name: K1so053participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamb
+File Name: K1so095participant_run.wav, Target: run, Base Prediction: brat, Large Prediction: broad
+File Name: K1qq111participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: san
+File Name: K1cb024participant_fan.wav, Target: fan, Base Prediction: lls maca, Large Prediction: tles and cock
+File Name: K1cc023participant_red.wav, Target: red, Base Prediction: red, Large Prediction: who had
+File Name: K1pe044participant_ring.wav, Target: ring, Base Prediction: am raing, Large Prediction: amren
+File Name: K1AM166participant_lock.wav, Target: lock, Base Prediction: se, Large Prediction: t
+File Name: K1cc023participant_sand.wav, Target: sand, Base Prediction: stand, Large Prediction: sand
+File Name: K1lt247participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1pb035participant_leg.wav, Target: leg, Base Prediction: ragge, Large Prediction: rag or
+File Name: K1pe113participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1WA246participant_sun.wav, Target: sun, Base Prediction: don, Large Prediction: sun
+File Name: K1lt236participant_run.wav, Target: run, Base Prediction: in, Large Prediction: wind
+File Name: K1dd105participant_run.wav, Target: run, Base Prediction: higed, Large Prediction: lag
+File Name: K1pb212participant_wing.wav, Target: wing, Base Prediction: bite, Large Prediction: bite
+File Name: K1so068participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: loak
+File Name: K1AY244participant_sand.wav, Target: sand, Base Prediction: sar, Large Prediction: san
+File Name: K1lt158participant_fox.wav, Target: fox, Base Prediction: walk, Large Prediction: walks
+File Name: K1pb035participant_run.wav, Target: run, Base Prediction: badn, Large Prediction: balda
+File Name: K1lt247participant_sick.wav, Target: sick, Base Prediction: seck, Large Prediction: sick
+File Name: K1cb128participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: rag
+File Name: K1lt307participant_ring.wav, Target: ring, Base Prediction: r, Large Prediction: we
+File Name: K1OS013participant_sick.wav, Target: sick, Base Prediction: sad, Large Prediction: an saw
+File Name: K1lm045participant_fan.wav, Target: fan, Base Prediction: fine, Large Prediction: fan
+File Name: K1av111participant_run.wav, Target: run, Base Prediction: ren, Large Prediction: ren
+File Name: K1sc011participant_sick.wav, Target: sick, Base Prediction: sirk, Large Prediction: sick
+File Name: K1zz017participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: run
+File Name: K1av111participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1lt225participant_run.wav, Target: run, Base Prediction: waney, Large Prediction: wanin
+File Name: K1dd073participant_run.wav, Target: run, Base Prediction: whan, Large Prediction: when
+File Name: K1qq011participant_sick.wav, Target: sick, Base Prediction: seck, Large Prediction: sec
+File Name: K1AY244participant_fox.wav, Target: fox, Base Prediction: flax, Large Prediction: fax
+File Name: K1pv023participant_sand.wav, Target: sand, Base Prediction: a, Large Prediction: stare
+File Name: K1pe088participant_rock.wav, Target: rock, Base Prediction: rack, Large Prediction: rark
+File Name: K1dd084participant_one.wav, Target: one, Base Prediction: bi, Large Prediction: li
+File Name: K1cb024participant_one.wav, Target: one, Base Prediction: do, Large Prediction: timm
+File Name: K1pb304participant_run.wav, Target: run, Base Prediction: bran, Large Prediction: ran
+File Name: K1pb023participant_sun.wav, Target: sun, Base Prediction: stand, Large Prediction: stan
+File Name: K1cc014participant_chip.wav, Target: chip, Base Prediction: cet, Large Prediction: sopped
+File Name: K1lt247participant_wing.wav, Target: wing, Base Prediction: win, Large Prediction: wen
+File Name: K1so083participant_ring.wav, Target: ring, Base Prediction: river, Large Prediction: ra
+File Name: K1cb128participant_wing.wav, Target: wing, Base Prediction: bav, Large Prediction: babbed
+File Name: K1RRI016participant_rainbow.wav, Target: rainbow, Base Prediction: rainbow, Large Prediction: rainbow
+File Name: K1AY244participant_lamp.wav, Target: lamp, Base Prediction: mair, Large Prediction: ramp
+File Name: K1cb116participant_lock.wav, Target: lock, Base Prediction: walk, Large Prediction: walk
+File Name: K1av111participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1pb016participant_leg.wav, Target: leg, Base Prediction: e, Large Prediction: hew
+File Name: K1qq111participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1cb011participant_sand.wav, Target: sand, Base Prediction: sar, Large Prediction: stand
+File Name: K1KM243participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1pb318participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1dd114participant_sand.wav, Target: sand, Base Prediction: so, Large Prediction: dam
+File Name: K1pv046participant_ship.wav, Target: ship, Base Prediction: i, Large Prediction: a
+File Name: K1cb116participant_wing.wav, Target: wing, Base Prediction: ring, Large Prediction: ring
+File Name: K1lt332participant_ring.wav, Target: ring, Base Prediction: ready, Large Prediction: raidy
+File Name: K1cc035participant_lock.wav, Target: lock, Base Prediction: ly, Large Prediction: ma
+File Name: K1av977participant_sun.wav, Target: sun, Base Prediction: , Large Prediction: sun
+File Name: K1cc035participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1pe088participant_fox.wav, Target: fox, Base Prediction: ba, Large Prediction: pa
+File Name: K1pb227participant_lamp.wav, Target: lamp, Base Prediction: abef god, Large Prediction: berga
+File Name: K1so068participant_zoo.wav, Target: zoo, Base Prediction: here, Large Prediction: huw
+File Name: K1pe154participant_ramp.wav, Target: ramp, Base Prediction: o wing, Large Prediction: lou lanene
+File Name: K1pv046participant_zoo.wav, Target: zoo, Base Prediction: sar, Large Prediction: sail
+File Name: K1cb128participant_ramp.wav, Target: ramp, Base Prediction: da, Large Prediction: dame
+File Name: K1pv046participant_chip.wav, Target: chip, Base Prediction: sir, Large Prediction: shap
+File Name: K1pb016participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: sir
+File Name: K1dd044participant_run.wav, Target: run, Base Prediction: why, Large Prediction: white
+File Name: K1xl011participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: lake
+File Name: K1cb011participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: sha
+File Name: K1RRI016participant_sun.wav, Target: sun, Base Prediction: some, Large Prediction: some
+File Name: K1lm018participant_fox.wav, Target: fox, Base Prediction: fors, Large Prediction: fox
+File Name: K1pb318participant_lamp.wav, Target: lamp, Base Prediction: ly, Large Prediction: leave
+File Name: K1av111participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1pe147participant_sand.wav, Target: sand, Base Prediction: van, Large Prediction: there
+File Name: KT0BM573child_chick1.wav, Target: chick1, Base Prediction: what's that chick, Large Prediction: what's that chick
+File Name: K1pe077participant_lock.wav, Target: lock, Base Prediction: lac, Large Prediction: rock
+File Name: K1OS013participant_fox.wav, Target: fox, Base Prediction: god, Large Prediction: the hog
+File Name: K1lt225participant_sun.wav, Target: sun, Base Prediction: fan, Large Prediction: san
+File Name: K1SB174participant_fan.wav, Target: fan, Base Prediction: tay i, Large Prediction: feale
+File Name: K1so095participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: 
+File Name: K1lm045participant_leg.wav, Target: leg, Base Prediction: rel, Large Prediction: rap
+File Name: K1so068participant_chip.wav, Target: chip, Base Prediction: sa, Large Prediction: tep
+File Name: K1lt214participant_run.wav, Target: run, Base Prediction: r, Large Prediction: rank
+File Name: K1zz501participant_fan.wav, Target: fan, Base Prediction: fann, Large Prediction: fan
+File Name: K1sp611participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: orramp
+File Name: K1cb116participant_lamp.wav, Target: lamp, Base Prediction: a, Large Prediction: camp
+File Name: K1so072participant_one.wav, Target: one, Base Prediction: fine, Large Prediction: wan
+File Name: K1dd084participant_shoe.wav, Target: shoe, Base Prediction: shil, Large Prediction: sheeld
+File Name: K1RRI016participant_fan.wav, Target: fan, Base Prediction: follower, Large Prediction: feller
+File Name: K1WA246participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1dd073participant_red.wav, Target: red, Base Prediction: gra, Large Prediction: rag
+File Name: K1lt328participant_shoe.wav, Target: shoe, Base Prediction: jall, Large Prediction: jew
+File Name: K1pb016participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: rop
+File Name: K1lt345participant_lock.wav, Target: lock, Base Prediction: black, Large Prediction: roc
+File Name: K1pe055participant_sand.wav, Target: sand, Base Prediction: saant, Large Prediction: stand
+File Name: K1pe088participant_chip.wav, Target: chip, Base Prediction: jack, Large Prediction: champ
+File Name: K1xl011participant_zoo.wav, Target: zoo, Base Prediction: ill, Large Prediction: zo
+File Name: K1cb024participant_zoo.wav, Target: zoo, Base Prediction: diseum, Large Prediction: diseu
+File Name: K1so036participant_red.wav, Target: red, Base Prediction: rar and, Large Prediction: ra and
+File Name: K1AM166participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1pe147participant_zoo.wav, Target: zoo, Base Prediction: sound, Large Prediction: sail
+File Name: K1so083participant_zoo.wav, Target: zoo, Base Prediction: r, Large Prediction: a
+File Name: K1dd033participant_lamp.wav, Target: lamp, Base Prediction: man, Large Prediction: lamp
+File Name: K1so083participant_leg.wav, Target: leg, Base Prediction: rak, Large Prediction: r
+File Name: K1so036participant_wing.wav, Target: wing, Base Prediction: er a, Large Prediction: am gow
+File Name: K1lt311participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: lat
+File Name: K1WA246participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: wing
+File Name: K1qq111participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1KM243participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1dd021participant_run.wav, Target: run, Base Prediction: van, Large Prediction: drin
+File Name: K1zz501participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1sp611participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1cc056participant_ship.wav, Target: ship, Base Prediction: se, Large Prediction: sit
+File Name: K1so083participant_fox.wav, Target: fox, Base Prediction: , Large Prediction: va
+File Name: K1pv038participant_lamp.wav, Target: lamp, Base Prediction: lorp, Large Prediction: lort
+File Name: K1lt236participant_lock.wav, Target: lock, Base Prediction: alf, Large Prediction: hark
+File Name: KT0BM551child_lock1.wav, Target: lock1, Base Prediction: and what's you lacke, Large Prediction: and what's year rack
+File Name: K1so011participant_wing.wav, Target: wing, Base Prediction: buried, Large Prediction: buried
+File Name: K1zz501participant_chip.wav, Target: chip, Base Prediction: chep, Large Prediction: chip
+File Name: K1pe066participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: wing
+File Name: K1pb016participant_ramp.wav, Target: ramp, Base Prediction: loow at that i, Large Prediction: know at that one
+File Name: K1lt328participant_wing.wav, Target: wing, Base Prediction: browso brush, Large Prediction: rather by
+File Name: K1dd084participant_leg.wav, Target: leg, Base Prediction: late, Large Prediction: lake
+File Name: K1zz301participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1lt247participant_run.wav, Target: run, Base Prediction: one, Large Prediction: what
+File Name: K1zz301participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1so112participant_ramp.wav, Target: ramp, Base Prediction: gant, Large Prediction: vamp
+File Name: K1dd021participant_sun.wav, Target: sun, Base Prediction: stane, Large Prediction: stein
+File Name: K1cb132participant_zoo.wav, Target: zoo, Base Prediction: hen, Large Prediction: sam
+File Name: K1cb103participant_lock.wav, Target: lock, Base Prediction: lac, Large Prediction: yacht
+File Name: K1lt017participant_fan.wav, Target: fan, Base Prediction: fear, Large Prediction: phea
+File Name: K1so053participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: chok
+File Name: K1dd033participant_run.wav, Target: run, Base Prediction: ren, Large Prediction: ren
+File Name: KT0BM522child_lick1.wav, Target: lick1, Base Prediction: lac, Large Prediction: mark
+File Name: K1pe147participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1pv058participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1WA246participant_window.wav, Target: window, Base Prediction: window, Large Prediction: window
+File Name: K1so053participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: phip
+File Name: K1lm067participant_leg.wav, Target: leg, Base Prediction: forout, Large Prediction: or out
+File Name: K1so112participant_ship.wav, Target: ship, Base Prediction: shop, Large Prediction: shep
+File Name: K1cc067participant_lamp.wav, Target: lamp, Base Prediction: wap, Large Prediction: welp
+File Name: K1qq021participant_red.wav, Target: red, Base Prediction: red, Large Prediction: rad
+File Name: K1lt038participant_zoo.wav, Target: zoo, Base Prediction: stare, Large Prediction: ter
+File Name: K1so036participant_sand.wav, Target: sand, Base Prediction: sulant, Large Prediction: siland
+File Name: K1lm067participant_fox.wav, Target: fox, Base Prediction: foxs, Large Prediction: fox
+File Name: K1av122participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: lake
+File Name: K1mo011participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1sp611participant_lamp.wav, Target: lamp, Base Prediction: blaum, Large Prediction: blam
+File Name: K1TK026participant_zoo.wav, Target: zoo, Base Prediction: leu, Large Prediction: vu
+File Name: K1lt345participant_ship.wav, Target: ship, Base Prediction: sit, Large Prediction: sik
+File Name: K1pe162participant_fox.wav, Target: fox, Base Prediction: faxs, Large Prediction: fox
+File Name: KT0BM584child_rock1.wav, Target: rock1, Base Prediction: with this one placa, Large Prediction: which this one plac u
+File Name: K1dd105participant_lock.wav, Target: lock, Base Prediction: flork, Large Prediction: mark
+File Name: K1so041participant_leg.wav, Target: leg, Base Prediction: wreak, Large Prediction: freat
+File Name: K1AM166participant_chick.wav, Target: chick, Base Prediction: t, Large Prediction: cik
+File Name: K1pb035participant_lock.wav, Target: lock, Base Prediction: walk, Large Prediction: wawk
+File Name: K1pe088participant_one.wav, Target: one, Base Prediction: why, Large Prediction: why
+File Name: K1dd084participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: frot
+File Name: K1pb212participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1so011participant_red.wav, Target: red, Base Prediction: rag, Large Prediction: rag
+File Name: K1pe147participant_ramp.wav, Target: ramp, Base Prediction: ran, Large Prediction: ra
+File Name: K1av988participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1so036participant_chip.wav, Target: chip, Base Prediction: t, Large Prediction: chip
+File Name: K1KM243participant_run.wav, Target: run, Base Prediction: wine, Large Prediction: uan
+File Name: K1EB212participant_lock.wav, Target: lock, Base Prediction: loc, Large Prediction: gloc
+File Name: K1sp611participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lt247participant_one.wav, Target: one, Base Prediction: oe, Large Prediction: want
+File Name: K1pb227participant_ship.wav, Target: ship, Base Prediction: bo, Large Prediction: po
+File Name: K1qq011participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chep
+File Name: K1cc023participant_zoo.wav, Target: zoo, Base Prediction: do, Large Prediction: siou
+File Name: K1pb023participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: sep
+File Name: K1pe162participant_rock.wav, Target: rock, Base Prediction: ront, Large Prediction: rocks
+File Name: K1cb116participant_rock.wav, Target: rock, Base Prediction: wel, Large Prediction: quam
+File Name: K1so053participant_lock.wav, Target: lock, Base Prediction: long, Large Prediction: lock
+File Name: K1cc056participant_fan.wav, Target: fan, Base Prediction: fm, Large Prediction: fall om
+File Name: KT0BM562child_lock1.wav, Target: lock1, Base Prediction: what's this one hagano, Large Prediction: what's this one hagana
+File Name: K1lt236participant_ramp.wav, Target: ramp, Base Prediction: rail, Large Prediction: ring
+File Name: K1cb024participant_shoe.wav, Target: shoe, Base Prediction: sal, Large Prediction: stare
+File Name: K1pb318participant_leg.wav, Target: leg, Base Prediction: rake, Large Prediction: lake
+File Name: K1cc035participant_ring.wav, Target: ring, Base Prediction: re, Large Prediction: reading
+File Name: KT0BM562child_sick1.wav, Target: sick1, Base Prediction: i ganli, Large Prediction: what's that i don no
+File Name: K1sp611participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shoe
+File Name: K1lt332participant_red.wav, Target: red, Base Prediction: ract, Large Prediction: red
+File Name: K1lt247participant_ship.wav, Target: ship, Base Prediction: sect, Large Prediction: sip
+File Name: K1dd114participant_fan.wav, Target: fan, Base Prediction: going and then, Large Prediction: ring and danc
+File Name: K1EB212participant_window.wav, Target: window, Base Prediction: window, Large Prediction: window
+File Name: KT0BM544child_lock1.wav, Target: lock1, Base Prediction: what's that an don't kno chem it's a lock a, Large Prediction: what's that dan don't know e it's a law a
+File Name: K1dd044participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: winga
+File Name: K1pb016participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: or a
+File Name: K1dd044participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1_pe033participant_fox.wav, Target: fox, Base Prediction: tha, Large Prediction: fak
+File Name: K1av988participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1cc067participant_one.wav, Target: one, Base Prediction: vi an, Large Prediction: lyan
+File Name: K1cb116participant_zoo.wav, Target: zoo, Base Prediction: here, Large Prediction: sear
+File Name: K1pb227participant_rock.wav, Target: rock, Base Prediction: lot, Large Prediction: wack
+File Name: K1dd073participant_leg.wav, Target: leg, Base Prediction: vec, Large Prediction: vat
+File Name: K1pb035participant_red.wav, Target: red, Base Prediction: rabe, Large Prediction: where the
+File Name: K1dd021participant_fan.wav, Target: fan, Base Prediction: i dad now, Large Prediction: i don't know
+File Name: K1so041participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rork
+File Name: K1dd021participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sick
+File Name: K1so095participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: che
+File Name: K1lt307participant_run.wav, Target: run, Base Prediction: waran, Large Prediction: wan
+File Name: K1av977participant_lamp.wav, Target: lamp, Base Prediction: then, Large Prediction: that
+File Name: K1AY244participant_window.wav, Target: window, Base Prediction: we ye do, Large Prediction: will ye go
+File Name: K1pb227participant_red.wav, Target: red, Base Prediction: then, Large Prediction: road
+File Name: K1pb023participant_zoo.wav, Target: zoo, Base Prediction: soon, Large Prediction: shewn
+File Name: K1lt021participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fock
+File Name: K1dd044participant_fan.wav, Target: fan, Base Prediction: farm, Large Prediction: far
+File Name: K1zz301participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1qq021participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: ran
+File Name: K1pe044participant_sand.wav, Target: sand, Base Prediction: a on, Large Prediction: sand
+File Name: K1pe147participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1pb023participant_sick.wav, Target: sick, Base Prediction: so, Large Prediction: sick
+File Name: K1dd052participant_leg.wav, Target: leg, Base Prediction: but, Large Prediction: foot
+File Name: K1dd114participant_lock.wav, Target: lock, Base Prediction: fir, Large Prediction: fire
+File Name: K1lt307participant_chip.wav, Target: chip, Base Prediction: sha, Large Prediction: sir
+File Name: K1pe011participant_run.wav, Target: run, Base Prediction: ban, Large Prediction: bron
+File Name: K1dd105participant_rock.wav, Target: rock, Base Prediction: , Large Prediction: ock
+File Name: K1av988participant_zoo.wav, Target: zoo, Base Prediction: so, Large Prediction: zio
+File Name: K1pv023participant_fan.wav, Target: fan, Base Prediction: san, Large Prediction: fin
+File Name: K1so053participant_sick.wav, Target: sick, Base Prediction: , Large Prediction: fit
+File Name: K1lt345participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: son
+File Name: K1lt021participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fair
+File Name: K1lt236participant_chip.wav, Target: chip, Base Prediction: chap, Large Prediction: shirp
+File Name: K1EB212participant_thumb.wav, Target: thumb, Base Prediction: fan, Large Prediction: fan
+File Name: K1so041participant_one.wav, Target: one, Base Prediction: ow, Large Prediction: wa
+File Name: K1pb023participant_run.wav, Target: run, Base Prediction: way, Large Prediction: wunny
+File Name: K1pv023participant_fox.wav, Target: fox, Base Prediction: fa, Large Prediction: fox
+File Name: K1av977participant_lock.wav, Target: lock, Base Prediction: luck, Large Prediction: lack
+File Name: K1pv046participant_sick.wav, Target: sick, Base Prediction: , Large Prediction: sick
+File Name: K1OS013participant_chip.wav, Target: chip, Base Prediction: sop, Large Prediction: sap
+File Name: K1cc035participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1cc067participant_run.wav, Target: run, Base Prediction: lian, Large Prediction: wyn
+File Name: K1lt307participant_fox.wav, Target: fox, Base Prediction: box, Large Prediction: fox
+File Name: K1lt045participant_fan.wav, Target: fan, Base Prediction: van, Large Prediction: fan
+File Name: K1lt214researcher_socks.wav, Target: socks, Base Prediction: socks, Large Prediction: socks
+File Name: K1AM166participant_sick.wav, Target: sick, Base Prediction: folk, Large Prediction: sixth
+File Name: K1MW013participant_zoo.wav, Target: zoo, Base Prediction: fill, Large Prediction: thilwa
+File Name: K1pe066participant_lamp.wav, Target: lamp, Base Prediction: e, Large Prediction: lamp
+File Name: K1zz017participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1so083participant_red.wav, Target: red, Base Prediction: ra, Large Prediction: rock
+File Name: K1cb132participant_ring.wav, Target: ring, Base Prediction: on, Large Prediction: mon
+File Name: K1so068participant_sun.wav, Target: sun, Base Prediction: fam, Large Prediction: tan
+File Name: K1pb318participant_shoe.wav, Target: shoe, Base Prediction: still, Large Prediction: shoe
+File Name: K1qq021participant_fan.wav, Target: fan, Base Prediction: van, Large Prediction: vam
+File Name: K1so112participant_one.wav, Target: one, Base Prediction: wine, Large Prediction: one
+File Name: K1cc056participant_zoo.wav, Target: zoo, Base Prediction: sail, Large Prediction: sail
+File Name: K1pe022participant_sand.wav, Target: sand, Base Prediction: say on, Large Prediction: sal on
+File Name: K1AY244participant_lock.wav, Target: lock, Base Prediction: la, Large Prediction: hla
+File Name: K1KM243participant_zoo.wav, Target: zoo, Base Prediction: to, Large Prediction: zou
+File Name: K1pb304participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: ram
+File Name: K1cb038participant_run.wav, Target: run, Base Prediction: tat, Large Prediction: bat
+File Name: K1AM166participant_sand.wav, Target: sand, Base Prediction: fort, Large Prediction: fat
+File Name: K1pe113participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sick
+File Name: K1dd092participant_rock.wav, Target: rock, Base Prediction: walk, Large Prediction: walked
+File Name: K1cc035participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: sand
+File Name: KT0BM511child_sick1.wav, Target: sick1, Base Prediction: es that  si yousee, Large Prediction: is that ssick you see
+File Name: K1lt225participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: wem
+File Name: K1lt225participant_zoo.wav, Target: zoo, Base Prediction: dell, Large Prediction: zel
+File Name: K1pe077participant_run.wav, Target: run, Base Prediction: rangl, Large Prediction: ranging
+File Name: K1pe162participant_sick.wav, Target: sick, Base Prediction: sup, Large Prediction: sec
+File Name: K1pb227participant_leg.wav, Target: leg, Base Prediction: , Large Prediction: hree two
+File Name: K1EB212participant_ring.wav, Target: ring, Base Prediction: rin, Large Prediction: wing
+File Name: K1zz017participant_lamp.wav, Target: lamp, Base Prediction: limp, Large Prediction: lamp
+File Name: K1TK026participant_fox.wav, Target: fox, Base Prediction: fack, Large Prediction: farx
+File Name: K1so104participant_one.wav, Target: one, Base Prediction: why, Large Prediction: hy
+File Name: K1zz501participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: ramp
+File Name: K1so104participant_ramp.wav, Target: ramp, Base Prediction: n, Large Prediction: orianna
+File Name: K1KM243participant_ring.wav, Target: ring, Base Prediction: rin, Large Prediction: ring
+File Name: K1TK026participant_sick.wav, Target: sick, Base Prediction: thick, Large Prediction: fick
+File Name: K1pb318participant_sick.wav, Target: sick, Base Prediction: s, Large Prediction: sick
+File Name: K1xl011participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1cb132participant_lamp.wav, Target: lamp, Base Prediction: why, Large Prediction: why
+File Name: K1pv058participant_ship.wav, Target: ship, Base Prediction: sir, Large Prediction: shear
+File Name: K1EB212participant_chip.wav, Target: chip, Base Prediction: cloca, Large Prediction: quacko
+File Name: K1lt236participant_sand.wav, Target: sand, Base Prediction: sa ond, Large Prediction: sand
+File Name: K1cc067participant_ship.wav, Target: ship, Base Prediction: sip, Large Prediction: sip
+File Name: K1cc014participant_run.wav, Target: run, Base Prediction: clearing, Large Prediction: glearing
+File Name: K1lt236participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: farx
+File Name: K1RRI016participant_run.wav, Target: run, Base Prediction: vine, Large Prediction: vine
+File Name: K1lt328participant_ship.wav, Target: ship, Base Prediction: a, Large Prediction: tha
+File Name: K1zz301participant_ramp.wav, Target: ramp, Base Prediction: rap, Large Prediction: ramp
+File Name: K1lt214participant_sun.wav, Target: sun, Base Prediction: ham, Large Prediction: sam
+File Name: KT0BM511child_lick1.wav, Target: lick1, Base Prediction: what's that let im, Large Prediction: what's that w
+File Name: K1av122participant_one.wav, Target: one, Base Prediction: what, Large Prediction: one
+File Name: K1pb318participant_rock.wav, Target: rock, Base Prediction: what, Large Prediction: wark
+File Name: K1zz301participant_red.wav, Target: red, Base Prediction: wright, Large Prediction: ret
+File Name: K1cb132participant_shoe.wav, Target: shoe, Base Prediction: see him, Large Prediction: shear
+File Name: K1dd105participant_sand.wav, Target: sand, Base Prediction: sad, Large Prediction: soud
+File Name: K1cc067participant_sun.wav, Target: sun, Base Prediction: , Large Prediction: sam
+File Name: K1cc014participant_fox.wav, Target: fox, Base Prediction: what, Large Prediction: farks
+File Name: K1av111participant_red.wav, Target: red, Base Prediction: ret, Large Prediction: red
+File Name: K1jh011participant_zoo.wav, Target: zoo, Base Prediction: zeal, Large Prediction: zu
+File Name: K1pe147participant_wing.wav, Target: wing, Base Prediction: ring, Large Prediction: wing
+File Name: K1dd052participant_ring.wav, Target: ring, Base Prediction: le, Large Prediction: our
+File Name: K1pe125participant_ramp.wav, Target: ramp, Base Prediction: wam, Large Prediction: leam
+File Name: K1lm081participant_fan.wav, Target: fan, Base Prediction: come, Large Prediction: time
+File Name: K1dd114participant_red.wav, Target: red, Base Prediction: wet, Large Prediction: wet
+File Name: K1pv058participant_ring.wav, Target: ring, Base Prediction: great, Large Prediction: great
+File Name: K1so072participant_rock.wav, Target: rock, Base Prediction: ra, Large Prediction: ra
+File Name: K1pv038participant_ship.wav, Target: ship, Base Prediction: jep, Large Prediction: stap
+File Name: K1pe162participant_sand.wav, Target: sand, Base Prediction: form, Large Prediction: sfoll down
+File Name: K1pe055participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cb116participant_sick.wav, Target: sick, Base Prediction: u, Large Prediction: donk
+File Name: K1dd114participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: oh they
+File Name: K1pv016participant_zoo.wav, Target: zoo, Base Prediction: , Large Prediction: sear
+File Name: K1RRI016participant_window.wav, Target: window, Base Prediction: when d, Large Prediction: wind u
+File Name: K1zz301participant_chip.wav, Target: chip, Base Prediction: chep, Large Prediction: chep
+File Name: K1zz501participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1cc035participant_zoo.wav, Target: zoo, Base Prediction: tezea, Large Prediction: ze
+File Name: K1RRI016participant_ship.wav, Target: ship, Base Prediction: sup, Large Prediction: ship
+File Name: K1so041participant_run.wav, Target: run, Base Prediction: round, Large Prediction: ra
+File Name: K1av122participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1cc014participant_fan.wav, Target: fan, Base Prediction: f, Large Prediction: fin
+File Name: K1so072participant_leg.wav, Target: leg, Base Prediction: ra, Large Prediction: lat
+File Name: K1WA246participant_rainbow.wav, Target: rainbow, Base Prediction: wainbow, Large Prediction: wainbow
+File Name: K1jh011participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1pb212participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: ramph
+File Name: K1pv038participant_sand.wav, Target: sand, Base Prediction: ful, Large Prediction: florenc
+File Name: K1cc023participant_rock.wav, Target: rock, Base Prediction: huac, Large Prediction: walk
+File Name: K1so083participant_lock.wav, Target: lock, Base Prediction: la, Large Prediction: lock
+File Name: K1lt247participant_red.wav, Target: red, Base Prediction: wet, Large Prediction: wait
+File Name: K1av977participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1pe066participant_ship.wav, Target: ship, Base Prediction: bout, Large Prediction: out
+File Name: K1pe044participant_shoe.wav, Target: shoe, Base Prediction: show, Large Prediction: sho
+File Name: K1pv046participant_fan.wav, Target: fan, Base Prediction: barn, Large Prediction: van
+File Name: K1pe162participant_sun.wav, Target: sun, Base Prediction: found, Large Prediction: found
+File Name: K1mo011participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1qq111participant_rock.wav, Target: rock, Base Prediction: rac, Large Prediction: rac
+File Name: K1pe055participant_wing.wav, Target: wing, Base Prediction: we, Large Prediction: wen
+File Name: K1lt328participant_ring.wav, Target: ring, Base Prediction: lot, Large Prediction: nald
+File Name: K1qq021participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1xl011participant_sun.wav, Target: sun, Base Prediction: , Large Prediction: son
+File Name: K1sp611participant_rock.wav, Target: rock, Base Prediction: ro, Large Prediction: raw
+File Name: K1lt307participant_wing.wav, Target: wing, Base Prediction: win, Large Prediction: weeing
+File Name: K1cb011participant_sick.wav, Target: sick, Base Prediction: , Large Prediction: wo wotch
+File Name: K1SB174participant_one.wav, Target: one, Base Prediction: why o u, Large Prediction: why
+File Name: K1pe147participant_run.wav, Target: run, Base Prediction: run, Large Prediction: ry
+File Name: K1lt328participant_lock.wav, Target: lock, Base Prediction: my, Large Prediction: wite
+File Name: K1cb116participant_leg.wav, Target: leg, Base Prediction: mag, Large Prediction: lack
+File Name: KT0BM522child_sick1.wav, Target: sick1, Base Prediction: thick, Large Prediction: thick
+File Name: K1So022participant_sun.wav, Target: sun, Base Prediction: sign, Large Prediction: shin
+File Name: K1dd044participant_ramp.wav, Target: ramp, Base Prediction: be latis e, Large Prediction: apelodes i
+File Name: K1lt247participant_zoo.wav, Target: zoo, Base Prediction: still, Large Prediction: still
+File Name: K1pb318participant_zoo.wav, Target: zoo, Base Prediction: you, Large Prediction: helo
+File Name: K1cc067participant_sick.wav, Target: sick, Base Prediction: thick, Large Prediction: sick
+File Name: K1pb023participant_one.wav, Target: one, Base Prediction: and why, Large Prediction: and one
+File Name: K1dd105participant_one.wav, Target: one, Base Prediction: good, Large Prediction: wy
+File Name: K1pe131participant_ship.wav, Target: ship, Base Prediction: se, Large Prediction: s
+File Name: K1qq011participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1sp611participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1dd033participant_wing.wav, Target: wing, Base Prediction: erlen, Large Prediction: erlu
+File Name: K1pe147participant_red.wav, Target: red, Base Prediction: rap, Large Prediction: rek
+File Name: K1so041participant_ramp.wav, Target: ramp, Base Prediction: roc, Large Prediction: rock
+File Name: K1pe088participant_sun.wav, Target: sun, Base Prediction: fond, Large Prediction: fan
+File Name: K1so053participant_wing.wav, Target: wing, Base Prediction: well, Large Prediction: wing
+File Name: K1pe113participant_wing.wav, Target: wing, Base Prediction: sato, Large Prediction: frado
+File Name: K1lm026participant_zoo.wav, Target: zoo, Base Prediction: ville, Large Prediction: zu
+File Name: K1pv038participant_chip.wav, Target: chip, Base Prediction: ta, Large Prediction: kick
+File Name: K1qq021participant_lamp.wav, Target: lamp, Base Prediction: lanp, Large Prediction: lamp
+File Name: K1av333participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1KM243participant_window.wav, Target: window, Base Prediction: when thou, Large Prediction: when thou
+File Name: K1cc056participant_ring.wav, Target: ring, Base Prediction: ru, Large Prediction: ven
+File Name: K1pv058participant_leg.wav, Target: leg, Base Prediction: ho, Large Prediction: cow
+File Name: K1pb035participant_fox.wav, Target: fox, Base Prediction: thought i, Large Prediction: fox
+File Name: K1lt017participant_fox.wav, Target: fox, Base Prediction: far to, Large Prediction: fogts
+File Name: K1qq021participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pb035participant_sand.wav, Target: sand, Base Prediction: gade, Large Prediction: sad
+File Name: K1so112participant_red.wav, Target: red, Base Prediction: ra, Large Prediction: rack
+File Name: K1lm026participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: run
+File Name: K1lt307participant_sand.wav, Target: sand, Base Prediction: farn, Large Prediction: feim
+File Name: K1lt021participant_zoo.wav, Target: zoo, Base Prediction: don't, Large Prediction: sill
+File Name: KT0BM533child_lick1.wav, Target: lick1, Base Prediction: , Large Prediction: e
+File Name: K1so072participant_zoo.wav, Target: zoo, Base Prediction: sail, Large Prediction: so
+File Name: K1so112participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: ring
+File Name: K1lt236participant_lamp.wav, Target: lamp, Base Prediction: write, Large Prediction: white
+File Name: K1lm081participant_fox.wav, Target: fox, Base Prediction: ux, Large Prediction: fox
+File Name: K1pe131participant_zoo.wav, Target: zoo, Base Prediction: mazele, Large Prediction: so
+File Name: K1dd114participant_one.wav, Target: one, Base Prediction: way, Large Prediction: when
+File Name: K1TK026participant_leg.wav, Target: leg, Base Prediction: lack, Large Prediction: lack
+File Name: K1pe022participant_zoo.wav, Target: zoo, Base Prediction: ville, Large Prediction: ville
+File Name: K1so011participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: KT0BM573child_sick1.wav, Target: sick1, Base Prediction: tis one sac, Large Prediction: atsays one sec
+File Name: K1lt121participant_fan.wav, Target: fan, Base Prediction: fair, Large Prediction: pheoc
+File Name: K1dd073participant_lamp.wav, Target: lamp, Base Prediction: fi, Large Prediction: fir
+File Name: K1dd105participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1dd021participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ram
+File Name: K1lt311participant_lock.wav, Target: lock, Base Prediction: bac, Large Prediction: part
+File Name: K1OS013participant_lamp.wav, Target: lamp, Base Prediction: nh, Large Prediction: hut
+File Name: K1lt214participant_fan.wav, Target: fan, Base Prediction: sar, Large Prediction: frm
+File Name: K1lt214participant_rock.wav, Target: rock, Base Prediction: what, Large Prediction: awas
+File Name: K1pe011participant_shoe.wav, Target: shoe, Base Prediction: her, Large Prediction: how
+File Name: K1so036participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: sec
+File Name: K1cb132participant_red.wav, Target: red, Base Prediction: bdam, Large Prediction: blane
+File Name: KT0BM584child_sick1.wav, Target: sick1, Base Prediction: a, Large Prediction: park
+File Name: KT0BM522child_lock1.wav, Target: lock1, Base Prediction: luck, Large Prediction: lock
+File Name: K1cb103participant_sick.wav, Target: sick, Base Prediction: sac, Large Prediction: suc
+File Name: K1so036participant_fox.wav, Target: fox, Base Prediction: wha, Large Prediction: ma
+File Name: KT0BM551child_sick1.wav, Target: sick1, Base Prediction: what's that oh o you don't know he's sick hik, Large Prediction: what's that em i  e home you know how he's sick sick
+File Name: K1so104participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shael
+File Name: K1pe066participant_rock.wav, Target: rock, Base Prediction: lack, Large Prediction: walk
+File Name: K1so053participant_shoe.wav, Target: shoe, Base Prediction: you, Large Prediction: hew
+File Name: K1lm081participant_leg.wav, Target: leg, Base Prediction: titea, Large Prediction: he and take edinma
+File Name: K1RRI016participant_leg.wav, Target: leg, Base Prediction: lab, Large Prediction: leg
+File Name: K1lm045participant_fox.wav, Target: fox, Base Prediction: rocks, Large Prediction: fax
+File Name: K1pb212participant_sand.wav, Target: sand, Base Prediction: fam, Large Prediction: fom
+File Name: K1so104participant_zoo.wav, Target: zoo, Base Prediction: sal, Large Prediction: esham
+File Name: K1lt214researcher_chick.wav, Target: chick, Base Prediction: check, Large Prediction: check
+File Name: K1lm018participant_zoo.wav, Target: zoo, Base Prediction: as jo, Large Prediction: as though
+File Name: K1pe088participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: rang
+File Name: K1so036participant_shoe.wav, Target: shoe, Base Prediction: shel, Large Prediction: shew
+File Name: K1zz501participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shiel
+File Name: K1lt214participant_sand.wav, Target: sand, Base Prediction: sino and, Large Prediction: sing rand
+File Name: K1lt332participant_rock.wav, Target: rock, Base Prediction: roh, Large Prediction: rock
+File Name: K1so011participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1cb011participant_zoo.wav, Target: zoo, Base Prediction: ther, Large Prediction: isel
+File Name: K1lt345participant_shoe.wav, Target: shoe, Base Prediction: so, Large Prediction: so
+File Name: K1so053participant_sand.wav, Target: sand, Base Prediction: fand, Large Prediction: tand
+File Name: KT0BM533child_lock1.wav, Target: lock1, Base Prediction: lac, Large Prediction: luck
+File Name: K1pe066participant_red.wav, Target: red, Base Prediction: red, Large Prediction: wed
+File Name: K1pe147participant_ship.wav, Target: ship, Base Prediction: sir, Large Prediction: shut
+File Name: K1cc067participant_leg.wav, Target: leg, Base Prediction: great, Large Prediction: wake
+File Name: K1lt247participant_fox.wav, Target: fox, Base Prediction: loch, Large Prediction: fox
+File Name: K1cc044participant_sand.wav, Target: sand, Base Prediction: fuller, Large Prediction: firing
+File Name: K1av977participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1cc014participant_shoe.wav, Target: shoe, Base Prediction: him, Large Prediction: sheel
+File Name: K1pb318participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1dd021participant_wing.wav, Target: wing, Base Prediction: lad, Large Prediction: wath
+File Name: K1av122participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1so036participant_one.wav, Target: one, Base Prediction: why l, Large Prediction: wand
+File Name: K1AY244participant_red.wav, Target: red, Base Prediction: bread, Large Prediction: rat
+File Name: K1cb103participant_chip.wav, Target: chip, Base Prediction: t, Large Prediction: chap
+File Name: K1cc035participant_red.wav, Target: red, Base Prediction: an, Large Prediction: ran
+File Name: K1pb318participant_sand.wav, Target: sand, Base Prediction: sarec, Large Prediction: sarants
+File Name: K1pv058participant_one.wav, Target: one, Base Prediction: wat, Large Prediction: wide
+File Name: K1OS013participant_fan.wav, Target: fan, Base Prediction: bout, Large Prediction: bow
+File Name: K1sc011participant_red.wav, Target: red, Base Prediction: ret, Large Prediction: rab
+File Name: K1pe125participant_leg.wav, Target: leg, Base Prediction: oerhead, Large Prediction: eg
+File Name: K1cc014participant_rock.wav, Target: rock, Base Prediction: rot, Large Prediction: rock te
+File Name: KT0BM573child_rock1.wav, Target: rock1, Base Prediction: this one wack, Large Prediction: this one  wakm
+File Name: K1OS013participant_lock.wav, Target: lock, Base Prediction: wt, Large Prediction: wawk
+File Name: K1pe162participant_chip.wav, Target: chip, Base Prediction: shop, Large Prediction: shop
+File Name: K1WA246participant_run.wav, Target: run, Base Prediction: wunning, Large Prediction: wunning
+File Name: K1so112participant_sun.wav, Target: sun, Base Prediction: sit, Large Prediction: son
+File Name: K1cb116participant_ship.wav, Target: ship, Base Prediction: s, Large Prediction: sap
+File Name: K1cc044participant_ship.wav, Target: ship, Base Prediction: sir, Large Prediction: sir
+File Name: K1cb103participant_wing.wav, Target: wing, Base Prediction: n, Large Prediction: rond
+File Name: KT0BM544child_lick1.wav, Target: lick1, Base Prediction: whis this one o it al no said te wi they ca, Large Prediction: who it's this one you i it ou mol and fli ta
+File Name: K1so053participant_rock.wav, Target: rock, Base Prediction: not, Large Prediction: rock
+File Name: K1cb038participant_rock.wav, Target: rock, Base Prediction: fact a, Large Prediction: rot
+File Name: K1lt345participant_leg.wav, Target: leg, Base Prediction: way, Large Prediction: way
+File Name: K1pb304participant_red.wav, Target: red, Base Prediction: ran, Large Prediction: ran
+File Name: K1dd084participant_zoo.wav, Target: zoo, Base Prediction: pnal, Large Prediction: brezil
+File Name: K1av977participant_one.wav, Target: one, Base Prediction: what, Large Prediction: one
+File Name: K1so072participant_sand.wav, Target: sand, Base Prediction: far, Large Prediction: fo
+File Name: K1pe044participant_chip.wav, Target: chip, Base Prediction: chair, Large Prediction: chap
+File Name: K1pe147participant_sick.wav, Target: sick, Base Prediction: fat, Large Prediction: thack
+File Name: K1AY244participant_fan.wav, Target: fan, Base Prediction: there, Large Prediction: van
+File Name: K1qq011participant_zoo.wav, Target: zoo, Base Prediction: zeal, Large Prediction: zeo
+File Name: K1pb318participant_red.wav, Target: red, Base Prediction: rot, Large Prediction: red
+File Name: K1RRI016participant_shoe.wav, Target: shoe, Base Prediction: shere, Large Prediction: sheer
+File Name: K1RRI016participant_wing.wav, Target: wing, Base Prediction: win, Large Prediction: wing
+File Name: K1pe066participant_one.wav, Target: one, Base Prediction: wone, Large Prediction: one
+File Name: K1xl011participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1pe154participant_lock.wav, Target: lock, Base Prediction: want, Large Prediction: want
+File Name: K1cb103participant_one.wav, Target: one, Base Prediction: an, Large Prediction: wen
+File Name: KT0BM551child_chick1.wav, Target: chick1, Base Prediction: what's that here analls teking, Large Prediction: what's that here am  ols te king
+File Name: K1KM243participant_fan.wav, Target: fan, Base Prediction: fam, Large Prediction: san
+File Name: K1AM166participant_one.wav, Target: one, Base Prediction: when, Large Prediction: what
+File Name: K1lt112participant_zoo.wav, Target: zoo, Base Prediction: der, Large Prediction: zera
+File Name: K1jh011participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1WA246participant_socks.wav, Target: socks, Base Prediction: ha, Large Prediction: fox
+File Name: K1pb023participant_ramp.wav, Target: ramp, Base Prediction: rop theem, Large Prediction: rapped up
+File Name: K1so053participant_red.wav, Target: red, Base Prediction: rab, Large Prediction: rag
+File Name: K1lm045participant_zoo.wav, Target: zoo, Base Prediction: su, Large Prediction: show
+File Name: K1AM166participant_rainbow.wav, Target: rainbow, Base Prediction: vanma, Large Prediction: renbow
+File Name: K1sc011participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1av988participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: land
+File Name: K1dd021participant_chip.wav, Target: chip, Base Prediction: ec, Large Prediction: chap
+File Name: K1lt236participant_sick.wav, Target: sick, Base Prediction: sort, Large Prediction: sir
+File Name: K1lt332participant_leg.wav, Target: leg, Base Prediction: let, Large Prediction: mack
+File Name: K1pe131participant_ring.wav, Target: ring, Base Prediction: reg, Large Prediction: ragged
+File Name: K1dd084participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1so041participant_red.wav, Target: red, Base Prediction: ra, Large Prediction: ra
+File Name: K1cb116participant_red.wav, Target: red, Base Prediction: brown, Large Prediction: prow
+File Name: K1sp611participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1mo011participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: friend
+File Name: K1pv016participant_ship.wav, Target: ship, Base Prediction: so, Large Prediction: cop
+File Name: K1qq111participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1cc035participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: shider
+File Name: K1pe125participant_fan.wav, Target: fan, Base Prediction: far un, Large Prediction: phaeon
+File Name: K1lm052participant_zoo.wav, Target: zoo, Base Prediction: you, Large Prediction: zu
+File Name: K1cc056participant_leg.wav, Target: leg, Base Prediction: reak, Large Prediction: wait
+File Name: K1av977participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1dd084participant_ramp.wav, Target: ramp, Base Prediction: au, Large Prediction: al
+File Name: K1sc011participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ray
+File Name: K1pv038participant_sick.wav, Target: sick, Base Prediction: for, Large Prediction: sac
+File Name: K1pb023participant_lock.wav, Target: lock, Base Prediction: ya, Large Prediction: yamica
+File Name: K1pe044participant_lock.wav, Target: lock, Base Prediction: law, Large Prediction: lock
+File Name: K1lt202participant_lock.wav, Target: lock, Base Prediction: wack, Large Prediction: walk
+File Name: K1pv046participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: rain
+File Name: K1cc035participant_leg.wav, Target: leg, Base Prediction: my, Large Prediction: light
+File Name: K1so011participant_lamp.wav, Target: lamp, Base Prediction: mere, Large Prediction: land
+File Name: K1pb304participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: stand
+File Name: K1lm052participant_one.wav, Target: one, Base Prediction: wide, Large Prediction: wag
+File Name: K1cc014participant_ship.wav, Target: ship, Base Prediction: cat, Large Prediction: shat the
+File Name: K1xl011participant_lamp.wav, Target: lamp, Base Prediction: layump, Large Prediction: limp
+File Name: K1qq111participant_chip.wav, Target: chip, Base Prediction: chep, Large Prediction: chep
+File Name: K1cb038participant_ship.wav, Target: ship, Base Prediction: set, Large Prediction: sap
+File Name: K1av022participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1zz301participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1lt311participant_sun.wav, Target: sun, Base Prediction: ham, Large Prediction: sun
+File Name: K1lm045participant_one.wav, Target: one, Base Prediction: when, Large Prediction: when
+File Name: K1dd105participant_zoo.wav, Target: zoo, Base Prediction: sayou, Large Prediction: tal
+File Name: K1TEST1participant_leg.wav, Target: leg, Base Prediction: lack, Large Prediction: lack
+File Name: K1pb304participant_leg.wav, Target: leg, Base Prediction: rat, Large Prediction: ret
+File Name: K1lt112participant_red.wav, Target: red, Base Prediction: ret, Large Prediction: red
+File Name: K1pe055participant_red.wav, Target: red, Base Prediction: wreck, Large Prediction: rad
+File Name: K1cc044participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: ram
+File Name: K1pb318participant_sun.wav, Target: sun, Base Prediction: se, Large Prediction: sai
+File Name: K1cc056participant_fox.wav, Target: fox, Base Prediction: fact, Large Prediction: fox
+File Name: K1pe154participant_lamp.wav, Target: lamp, Base Prediction: ay lan, Large Prediction: ray lamp
+File Name: K1AM166participant_thumb.wav, Target: thumb, Base Prediction: vam, Large Prediction: fam
+File Name: K1jh011participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1lt045participant_leg.wav, Target: leg, Base Prediction: wake, Large Prediction: wake
+File Name: K1so053participant_zoo.wav, Target: zoo, Base Prediction: no, Large Prediction: new
+File Name: K1pv016participant_lock.wav, Target: lock, Base Prediction: lo, Large Prediction: ols
+File Name: K1lt141participant_run.wav, Target: run, Base Prediction: one, Large Prediction: one
+File Name: K1dd092participant_lamp.wav, Target: lamp, Base Prediction: farm, Large Prediction: lamp
+File Name: K1av988participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1cb103participant_leg.wav, Target: leg, Base Prediction: yeg, Large Prediction: land
+File Name: K1so112participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cb132participant_chip.wav, Target: chip, Base Prediction: te, Large Prediction: 
+File Name: K1qq021participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1so083participant_fan.wav, Target: fan, Base Prediction: , Large Prediction: fene
+File Name: K1lt332participant_ship.wav, Target: ship, Base Prediction: sic, Large Prediction: sha
+File Name: K1pe077participant_zoo.wav, Target: zoo, Base Prediction: here, Large Prediction: sail
+File Name: K1cb024participant_fox.wav, Target: fox, Base Prediction: whac, Large Prediction: warks
+File Name: K1av122participant_lamp.wav, Target: lamp, Base Prediction: lant, Large Prediction: lamp
+File Name: K1cc035participant_run.wav, Target: run, Base Prediction: o, Large Prediction: ha
+File Name: KT0BM573child_walk1.wav, Target: walk1, Base Prediction: hetat wa, Large Prediction: she sat walking
+File Name: K1cc056participant_one.wav, Target: one, Base Prediction: rout ye, Large Prediction: wit
+File Name: K1cb103participant_shoe.wav, Target: shoe, Base Prediction: , Large Prediction: shill
+File Name: K1pv016participant_lamp.wav, Target: lamp, Base Prediction: wild, Large Prediction: ad
+File Name: K1SB174participant_sun.wav, Target: sun, Base Prediction: tide, Large Prediction: tido
+File Name: K1pe022participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1lm081participant_zoo.wav, Target: zoo, Base Prediction: still, Large Prediction: son
+File Name: K1so011participant_chip.wav, Target: chip, Base Prediction: yet, Large Prediction: chip
+File Name: K1so011participant_lock.wav, Target: lock, Base Prediction: mark, Large Prediction: mawk
+File Name: K1pb212participant_sick.wav, Target: sick, Base Prediction: for, Large Prediction: thick
+File Name: K1cc067participant_fan.wav, Target: fan, Base Prediction: former, Large Prediction: forn
+File Name: K1av988participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1qq021participant_shoe.wav, Target: shoe, Base Prediction: ship, Large Prediction: shoe
+File Name: K1KM243participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1av122participant_sand.wav, Target: sand, Base Prediction: sent, Large Prediction: sand
+File Name: K1EB212participant_sand.wav, Target: sand, Base Prediction: fm, Large Prediction: tholand
+File Name: K1qq011participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1so112participant_leg.wav, Target: leg, Base Prediction: wi, Large Prediction: wagged
+File Name: K1zz301participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sec
+File Name: K1zz501participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: sun
+File Name: K1pe125participant_rock.wav, Target: rock, Base Prediction: whack, Large Prediction: walk
+File Name: K1cb011participant_fan.wav, Target: fan, Base Prediction: foam, Large Prediction: fa m
+File Name: K1cb011participant_chip.wav, Target: chip, Base Prediction: top, Large Prediction: top
+File Name: K1pv038participant_sun.wav, Target: sun, Base Prediction: find, Large Prediction: on
+File Name: K1lt017participant_zoo.wav, Target: zoo, Base Prediction: ping, Large Prediction: snim
+File Name: K1cb024participant_lamp.wav, Target: lamp, Base Prediction: s, Large Prediction: som
+File Name: K1pe154participant_zoo.wav, Target: zoo, Base Prediction: is y, Large Prediction: yell
+File Name: K1zz301participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1dd033participant_zoo.wav, Target: zoo, Base Prediction: evail, Large Prediction: ville
+File Name: K1so068participant_sand.wav, Target: sand, Base Prediction: saan, Large Prediction: saad
+File Name: K1pb016participant_fan.wav, Target: fan, Base Prediction: bian, Large Prediction: fian
+File Name: K1cb132participant_run.wav, Target: run, Base Prediction: on, Large Prediction: brown
+File Name: K1cb103participant_red.wav, Target: red, Base Prediction: ract, Large Prediction: ract
+File Name: K1cb038participant_zoo.wav, Target: zoo, Base Prediction: so, Large Prediction: saro
+File Name: KT0BM562child_rock1.wav, Target: rock1, Base Prediction: what was that i don'e now, Large Prediction: what was that i don't know
+File Name: K1pv016participant_chip.wav, Target: chip, Base Prediction: h, Large Prediction: ta
+File Name: K1so112participant_sick.wav, Target: sick, Base Prediction: set, Large Prediction: sat
+File Name: K1so068participant_run.wav, Target: run, Base Prediction: whan, Large Prediction: wod
+File Name: K1pe044participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1so095participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: red
+File Name: K1pv038participant_wing.wav, Target: wing, Base Prediction: wink, Large Prediction: wink
+File Name: K1TK017participant_leg.wav, Target: leg, Base Prediction: fut, Large Prediction: floch
+File Name: K1cb011participant_shoe.wav, Target: shoe, Base Prediction: shall, Large Prediction: shell
+File Name: K1cb038participant_fox.wav, Target: fox, Base Prediction: akin, Large Prediction: far kim
+File Name: K1lt214participant_shoe.wav, Target: shoe, Base Prediction: she, Large Prediction: shier
+File Name: K1av122participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1OS013participant_sun.wav, Target: sun, Base Prediction: fild, Large Prediction: thow
+File Name: K1dd052participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: kit
+File Name: K1pe011participant_ship.wav, Target: ship, Base Prediction: she, Large Prediction: she
+File Name: K1qq111participant_leg.wav, Target: leg, Base Prediction: rike, Large Prediction: back
+File Name: K1pe154participant_sand.wav, Target: sand, Base Prediction: sa on, Large Prediction: saam
+File Name: K1pe154participant_fan.wav, Target: fan, Base Prediction: bom, Large Prediction: baaam
+File Name: K1lt247participant_rock.wav, Target: rock, Base Prediction: wha, Large Prediction: walk
+File Name: K1dd105participant_sun.wav, Target: sun, Base Prediction: sat, Large Prediction: saint
+File Name: K1pe162participant_leg.wav, Target: leg, Base Prediction: flect, Large Prediction: but
+File Name: K1pv046participant_leg.wav, Target: leg, Base Prediction: may, Large Prediction: made
+File Name: K1pb318participant_lock.wav, Target: lock, Base Prediction: luck, Large Prediction: wack
+File Name: K1zz017participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1dd114participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: son
+File Name: K1lt236participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1pe044participant_red.wav, Target: red, Base Prediction: glad, Large Prediction: bad
+File Name: K1pe044participant_lamp.wav, Target: lamp, Base Prediction: lame, Large Prediction: land
+File Name: K1lt038participant_leg.wav, Target: leg, Base Prediction: he have, Large Prediction: love
+File Name: K1zz017participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pe022participant_sick.wav, Target: sick, Base Prediction: seck, Large Prediction: sec
+File Name: K1lm018participant_red.wav, Target: red, Base Prediction: wit, Large Prediction: wite
+File Name: KT0BM544child_chick1.wav, Target: chick1, Base Prediction: wat that the da  i sick, Large Prediction: what's there notin now it's a chig chick
+File Name: K1cb011participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1dd033participant_ship.wav, Target: ship, Base Prediction: irlo, Large Prediction: ir loaf
+File Name: K1so112participant_fan.wav, Target: fan, Base Prediction: fa, Large Prediction: van
+File Name: K1lt236participant_leg.wav, Target: leg, Base Prediction: wag, Large Prediction: wag
+File Name: K1av111participant_zoo.wav, Target: zoo, Base Prediction: sill, Large Prediction: zu
+File Name: K1so011participant_shoe.wav, Target: shoe, Base Prediction: cill, Large Prediction: shoe
+File Name: K1av122participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1pe077participant_chip.wav, Target: chip, Base Prediction: kept, Large Prediction: cap
+File Name: KT0BM544child_walk1.wav, Target: walk1, Base Prediction: what's this one kwalk w, Large Prediction: what's this one ke wawk waw
+File Name: K1so036participant_fan.wav, Target: fan, Base Prediction: fair, Large Prediction: feein
+File Name: K1so068participant_red.wav, Target: red, Base Prediction: rab, Large Prediction: rab
+File Name: K1lt214researcher_thumb.wav, Target: thumb, Base Prediction: boun, Large Prediction: foun
+File Name: K1dd114participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1dd114participant_fox.wav, Target: fox, Base Prediction: bucks, Large Prediction: bucks
+File Name: K1so095participant_sand.wav, Target: sand, Base Prediction: fir, Large Prediction: fear
+File Name: K1pb016participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1cc023participant_wing.wav, Target: wing, Base Prediction: ming, Large Prediction: ling
+File Name: K1av111participant_sun.wav, Target: sun, Base Prediction: ent, Large Prediction: san
+File Name: K1pe154participant_one.wav, Target: one, Base Prediction: lowdy, Large Prediction: lady
+File Name: K1pe147participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: chip
+File Name: K1zz501participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: ring
+File Name: K1lt133participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: nek
+File Name: K1dd073participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: glean
+File Name: K1WA246participant_fox.wav, Target: fox, Base Prediction: foxs, Large Prediction: fox
+File Name: K1AM166participant_ring.wav, Target: ring, Base Prediction: rin, Large Prediction: reened
+File Name: K1xl011participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1cc067participant_sand.wav, Target: sand, Base Prediction: scant, Large Prediction: sant
+File Name: K1AM166participant_zoo.wav, Target: zoo, Base Prediction: fair, Large Prediction: fail
+File Name: K1cb024participant_lock.wav, Target: lock, Base Prediction: , Large Prediction: wa
+File Name: K1so083participant_sick.wav, Target: sick, Base Prediction: feter, Large Prediction: wet ber
+File Name: K1lt141participant_one.wav, Target: one, Base Prediction: whoney, Large Prediction: one
+File Name: K1sp611participant_zoo.wav, Target: zoo, Base Prediction: zeal, Large Prediction: zu
+File Name: K1so112participant_lock.wav, Target: lock, Base Prediction: lap, Large Prediction: lock
+File Name: K1cc067participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1so083participant_sun.wav, Target: sun, Base Prediction: fi, Large Prediction: fa
+File Name: K1cc067participant_rock.wav, Target: rock, Base Prediction: walk, Large Prediction: walk
+File Name: K1lt311participant_fan.wav, Target: fan, Base Prediction: frani, Large Prediction: fran
+File Name: K1cc014participant_sick.wav, Target: sick, Base Prediction: fock, Large Prediction: fock
+File Name: K1so104participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pv023participant_ramp.wav, Target: ramp, Base Prediction: mer, Large Prediction: linger
+File Name: K1pb304participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1av111participant_fox.wav, Target: fox, Base Prediction: ox, Large Prediction: fox
+File Name: K1WA246participant_lamp.wav, Target: lamp, Base Prediction: lar, Large Prediction: lamb
+File Name: KT0BM511child_rock1.wav, Target: rock1, Base Prediction: what's that tougout at, Large Prediction: was that e ract
+File Name: K1so095participant_ring.wav, Target: ring, Base Prediction: ren, Large Prediction: vourin
+File Name: K1pe088participant_shoe.wav, Target: shoe, Base Prediction: she'll, Large Prediction: shill
+File Name: K1pe113participant_fan.wav, Target: fan, Base Prediction: aon, Large Prediction: faon
+File Name: K1so036participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: 
+File Name: K1dd084participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1pb212participant_run.wav, Target: run, Base Prediction: rhimes, Large Prediction: mine
+File Name: K1sc011participant_sand.wav, Target: sand, Base Prediction: so, Large Prediction: so
+File Name: K1cb128participant_lock.wav, Target: lock, Base Prediction: what, Large Prediction: wack
+File Name: K1pe066participant_sand.wav, Target: sand, Base Prediction: worn, Large Prediction: horned
+File Name: K1WA246participant_ramp.wav, Target: ramp, Base Prediction: ral, Large Prediction: raoll
+File Name: K1cb128participant_sick.wav, Target: sick, Base Prediction: sat, Large Prediction: sat
+File Name: K1pe154participant_shoe.wav, Target: shoe, Base Prediction: sta, Large Prediction: stare
+File Name: K1cc014participant_sand.wav, Target: sand, Base Prediction: son, Large Prediction: sand
+File Name: K1pb318participant_ramp.wav, Target: ramp, Base Prediction: wa, Large Prediction: willyam
+File Name: K1zz301participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lt345participant_fan.wav, Target: fan, Base Prediction: , Large Prediction: bob
+File Name: K1cb132participant_sick.wav, Target: sick, Base Prediction: ilfi on, Large Prediction: alfing man
+File Name: K1cb128participant_fox.wav, Target: fox, Base Prediction: uc, Large Prediction: poc
+File Name: K1dd044participant_shoe.wav, Target: shoe, Base Prediction: shel, Large Prediction: show
+File Name: K1KM243participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1pe131participant_sand.wav, Target: sand, Base Prediction: sat, Large Prediction: say it
+File Name: K1pe162participant_shoe.wav, Target: shoe, Base Prediction: so, Large Prediction: so
+File Name: K1cc023participant_lock.wav, Target: lock, Base Prediction: rack, Large Prediction: lock
+File Name: K1dd073participant_sand.wav, Target: sand, Base Prediction: i, Large Prediction: only
+File Name: K1lt021participant_leg.wav, Target: leg, Base Prediction: , Large Prediction: 
+File Name: K1lt225participant_shoe.wav, Target: shoe, Base Prediction: chare, Large Prediction: shill
+File Name: K1pe066participant_wing.wav, Target: wing, Base Prediction: rain, Large Prediction: wing
+File Name: K1TEST1participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cb038participant_wing.wav, Target: wing, Base Prediction: faint, Large Prediction: ang
+File Name: K1cb128participant_ring.wav, Target: ring, Base Prediction: great, Large Prediction: fring
+File Name: K1pe088participant_lock.wav, Target: lock, Base Prediction: lak, Large Prediction: lie
+File Name: K1cb024participant_ring.wav, Target: ring, Base Prediction: rin, Large Prediction: reen
+File Name: K1OS013participant_rock.wav, Target: rock, Base Prediction: wrnar, Large Prediction: whaa
+File Name: K1So022participant_fox.wav, Target: fox, Base Prediction: fact, Large Prediction: farx
+File Name: K1lt202participant_red.wav, Target: red, Base Prediction: ad, Large Prediction: brad
+File Name: K1cb103participant_rock.wav, Target: rock, Base Prediction: , Large Prediction: rock
+File Name: K1pe055participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: lag
+File Name: K1dd105participant_red.wav, Target: red, Base Prediction: tat, Large Prediction: rack
+File Name: K1pb304participant_wing.wav, Target: wing, Base Prediction: wen, Large Prediction: wing
+File Name: K1lt328participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: amein
+File Name: K1cb024participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: heric
+File Name: K1lt202participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: shin
+File Name: K1dd021participant_one.wav, Target: one, Base Prediction: im not now, Large Prediction: i meat no
+File Name: K1AM166participant_red.wav, Target: red, Base Prediction: round, Large Prediction: rag
+File Name: K1pe022participant_wing.wav, Target: wing, Base Prediction: red, Large Prediction: weng
+File Name: K1mo011participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1pb227participant_sick.wav, Target: sick, Base Prediction: her, Large Prediction: herick
+File Name: K1zz301participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1AY244participant_shoe.wav, Target: shoe, Base Prediction: she, Large Prediction: sho
+File Name: K1OS013participant_one.wav, Target: one, Base Prediction: lide, Large Prediction: why
+File Name: K1cb038participant_sun.wav, Target: sun, Base Prediction: sag, Large Prediction: sag
+File Name: K1lm031participant_fan.wav, Target: fan, Base Prediction: rome, Large Prediction: ve
+File Name: K1qq021participant_leg.wav, Target: leg, Base Prediction: lek, Large Prediction: lake
+File Name: K1lt057participant_zoo.wav, Target: zoo, Base Prediction: sill, Large Prediction: veil
+File Name: K1pe131participant_lamp.wav, Target: lamp, Base Prediction: whem, Large Prediction: lant
+File Name: K1sp611participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1pe055participant_chip.wav, Target: chip, Base Prediction: shap, Large Prediction: shit
+File Name: K1cb116participant_shoe.wav, Target: shoe, Base Prediction: here, Large Prediction: seare
+File Name: K1xl011participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1dd114participant_shoe.wav, Target: shoe, Base Prediction: shos, Large Prediction: shoes
+File Name: K1so068participant_ring.wav, Target: ring, Base Prediction: ron, Large Prediction: run
+File Name: K1dd052participant_ship.wav, Target: ship, Base Prediction: zi, Large Prediction: her
+File Name: K1cc067participant_ring.wav, Target: ring, Base Prediction: queen, Large Prediction: wing
+File Name: K1zz501participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1zz017participant_shoe.wav, Target: shoe, Base Prediction: sur, Large Prediction: shur
+File Name: K1pv046participant_rock.wav, Target: rock, Base Prediction: arout, Large Prediction: oro
+File Name: K1lt121participant_one.wav, Target: one, Base Prediction: wha, Large Prediction: whit
+File Name: K1cb132participant_wing.wav, Target: wing, Base Prediction: ring, Large Prediction: green
+File Name: K1so072participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1sc011participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: ship
+File Name: K1so053participant_ring.wav, Target: ring, Base Prediction: ren, Large Prediction: reen
+File Name: K1SB174participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1cc067participant_chip.wav, Target: chip, Base Prediction: sha, Large Prediction: chi
+File Name: K1pb035participant_shoe.wav, Target: shoe, Base Prediction: jill, Large Prediction: shill
+File Name: K1dd044participant_sun.wav, Target: sun, Base Prediction: sad, Large Prediction: sout
+File Name: K1TEST1participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1jh011participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1lt112participant_fox.wav, Target: fox, Base Prediction: back, Large Prediction: box
+File Name: K1lt307participant_ship.wav, Target: ship, Base Prediction: shap, Large Prediction: shirt
+File Name: K1lt214participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: wen
+File Name: K1av977participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1RRI016participant_chick.wav, Target: chick, Base Prediction: kick, Large Prediction: check
+File Name: K1pb035participant_sick.wav, Target: sick, Base Prediction: were weere, Large Prediction: well we ere
+File Name: K1pv023participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: san
+File Name: K1cb116participant_fox.wav, Target: fox, Base Prediction: crock, Large Prediction: procks
+File Name: K1lt017participant_one.wav, Target: one, Base Prediction: wa, Large Prediction: on
+File Name: K1cb132participant_fox.wav, Target: fox, Base Prediction: far, Large Prediction: francs
+File Name: K1so036participant_lamp.wav, Target: lamp, Base Prediction: ray, Large Prediction: layat
+File Name: K1xl011participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1AY244participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: nam
+File Name: K1pe154participant_ring.wav, Target: ring, Base Prediction: rin, Large Prediction: ring
+File Name: K1lt307participant_shoe.wav, Target: shoe, Base Prediction: shill, Large Prediction: shield
+File Name: K1cc035participant_ramp.wav, Target: ramp, Base Prediction: rap, Large Prediction: rat
+File Name: K1pe162participant_red.wav, Target: red, Base Prediction: raff, Large Prediction: wave
+File Name: K1pv058participant_shoe.wav, Target: shoe, Base Prediction: here, Large Prediction: heu
+File Name: K1lt345participant_ramp.wav, Target: ramp, Base Prediction: r lamp, Large Prediction: lam
+File Name: K1pe044participant_fox.wav, Target: fox, Base Prediction: fogs, Large Prediction: fox
+File Name: K1TK026participant_ship.wav, Target: ship, Base Prediction: a ship, Large Prediction: a ship
+File Name: K1lt311participant_ship.wav, Target: ship, Base Prediction: , Large Prediction: chip
+File Name: K1so011participant_ramp.wav, Target: ramp, Base Prediction: ront, Large Prediction: ramp
+File Name: K1KM243participant_rainbow.wav, Target: rainbow, Base Prediction: mi bow, Large Prediction: rimbow
+File Name: K1pv023participant_zoo.wav, Target: zoo, Base Prediction: no, Large Prediction: hel
+File Name: K1pv058participant_zoo.wav, Target: zoo, Base Prediction: si, Large Prediction: fail
+File Name: K1lt202participant_ring.wav, Target: ring, Base Prediction: when, Large Prediction: red
+File Name: K1EB212participant_fan.wav, Target: fan, Base Prediction: ollow, Large Prediction: fall out
+File Name: K1So022participant_run.wav, Target: run, Base Prediction: rine, Large Prediction: vhine
+File Name: K1dd073participant_fox.wav, Target: fox, Base Prediction: work, Large Prediction: rock
+File Name: K1av122participant_fan.wav, Target: fan, Base Prediction: sand, Large Prediction: fan
+File Name: K1mo011participant_lock.wav, Target: lock, Base Prediction: luck, Large Prediction: luck
+File Name: K1lt214participant_lock.wav, Target: lock, Base Prediction: waf, Large Prediction: wa
+File Name: K1so095participant_sick.wav, Target: sick, Base Prediction: tor, Large Prediction: sick
+File Name: K1OS013participant_ramp.wav, Target: ramp, Base Prediction: rock, Large Prediction: mar
+File Name: K1pv023participant_sick.wav, Target: sick, Base Prediction: flock, Large Prediction: flec
+File Name: K1cb011participant_lamp.wav, Target: lamp, Base Prediction: i don't know what that is called, Large Prediction: i don't know what that's called
+File Name: K1av111participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1lt045participant_red.wav, Target: red, Base Prediction: wen, Large Prediction: ran
+File Name: K1cc067participant_wing.wav, Target: wing, Base Prediction: foy, Large Prediction: why
+File Name: K1dd105participant_wing.wav, Target: wing, Base Prediction: week, Large Prediction: ree
+File Name: K1dd092participant_leg.wav, Target: leg, Base Prediction: allow, Large Prediction: a log
+File Name: K1cc044participant_sun.wav, Target: sun, Base Prediction: sign, Large Prediction: son
+File Name: K1lt202participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sheck
+File Name: K1pe147participant_fox.wav, Target: fox, Base Prediction: foc, Large Prediction: fox
+File Name: K1dd052participant_zoo.wav, Target: zoo, Base Prediction: mary a vey, Large Prediction: a meria preti
+File Name: K1pv046participant_shoe.wav, Target: shoe, Base Prediction: ge, Large Prediction: shail
+File Name: K1zz301participant_leg.wav, Target: leg, Base Prediction: like, Large Prediction: like
+File Name: K1cc067participant_zoo.wav, Target: zoo, Base Prediction: still, Large Prediction: sill
+File Name: K1so041participant_lock.wav, Target: lock, Base Prediction: ta, Large Prediction: luck
+File Name: K1lt328participant_fan.wav, Target: fan, Base Prediction: thought t, Large Prediction: wack on
+File Name: K1pv058participant_sick.wav, Target: sick, Base Prediction: er, Large Prediction: jack
+File Name: K1so041participant_shoe.wav, Target: shoe, Base Prediction: sile, Large Prediction: sill woded
+File Name: K1cb103participant_fox.wav, Target: fox, Base Prediction: thout, Large Prediction: lot
+File Name: K1pb212participant_fox.wav, Target: fox, Base Prediction: , Large Prediction: sa
+File Name: K1pe044participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: shet
+File Name: K1pe077participant_shoe.wav, Target: shoe, Base Prediction: chill, Large Prediction: sheel
+File Name: K1pv058participant_run.wav, Target: run, Base Prediction: ridy, Large Prediction: radi
+File Name: K1pe154participant_fox.wav, Target: fox, Base Prediction: tan, Large Prediction: than
+File Name: K1dd073participant_sick.wav, Target: sick, Base Prediction: ho, Large Prediction: come
+File Name: K1TK026participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1pe131participant_one.wav, Target: one, Base Prediction: weg, Large Prediction: wagged
+File Name: K1pv016participant_rock.wav, Target: rock, Base Prediction: wa, Large Prediction: wask
+File Name: K1so041participant_lamp.wav, Target: lamp, Base Prediction: wom, Large Prediction: wan
+File Name: K1pb023participant_rock.wav, Target: rock, Base Prediction: what, Large Prediction: what
+File Name: K1cc056participant_chip.wav, Target: chip, Base Prediction: sr, Large Prediction: sep
+File Name: K1pv038participant_zoo.wav, Target: zoo, Base Prediction: sand, Large Prediction: samf
+File Name: K1lt214participant_one.wav, Target: one, Base Prediction: one, Large Prediction: wan
+File Name: K1pe011participant_sick.wav, Target: sick, Base Prediction: she, Large Prediction: shac
+File Name: K1lt307participant_red.wav, Target: red, Base Prediction: wrown, Large Prediction: where
+File Name: K1so083participant_rock.wav, Target: rock, Base Prediction: , Large Prediction: ac
+File Name: K1dd084participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1pv038participant_fox.wav, Target: fox, Base Prediction: bac, Large Prediction: fox
+File Name: K1cb011participant_wing.wav, Target: wing, Base Prediction: farde, Large Prediction: fadn
+File Name: K1pb318participant_ring.wav, Target: ring, Base Prediction: we, Large Prediction: wing
+File Name: K1sc011participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1So022participant_fan.wav, Target: fan, Base Prediction: feon, Large Prediction: faon
+File Name: K1TK017participant_red.wav, Target: red, Base Prediction: wed, Large Prediction: wed
+File Name: K1AY244participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1jh011participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1pe162participant_run.wav, Target: run, Base Prediction: reggy, Large Prediction: renning
+File Name: K1lt038participant_fox.wav, Target: fox, Base Prediction: bah, Large Prediction: facts
+File Name: K1lt214participant_ship.wav, Target: ship, Base Prediction: sop, Large Prediction: ship
+File Name: K1pv023participant_shoe.wav, Target: shoe, Base Prediction: , Large Prediction: shield
+File Name: K1lt057participant_leg.wav, Target: leg, Base Prediction: , Large Prediction: pe
+File Name: K1lm031participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1so036participant_leg.wav, Target: leg, Base Prediction: back, Large Prediction: fag
+File Name: K1cb011participant_run.wav, Target: run, Base Prediction: franma, Large Prediction: raddenn
+File Name: K1AY244participant_leg.wav, Target: leg, Base Prediction: blake, Large Prediction: bulaic
+File Name: K1lm026participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: like
+File Name: K1lt307participant_sun.wav, Target: sun, Base Prediction: firn, Large Prediction: furin
+File Name: K1OS013participant_ring.wav, Target: ring, Base Prediction: ran, Large Prediction: crang
+File Name: K1lt214participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: ryar
+File Name: K1so011participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: KT0BM511child_lock1.wav, Target: lock1, Base Prediction: what's that it's a ritch lock, Large Prediction: what's that it's a lotch lock
+File Name: K1so041participant_sun.wav, Target: sun, Base Prediction: sob the, Large Prediction: sad the
+File Name: K1lt345participant_red.wav, Target: red, Base Prediction: thet, Large Prediction: ret
+File Name: K1pb035participant_ring.wav, Target: ring, Base Prediction: water, Large Prediction: wevga
+File Name: K1lt328participant_run.wav, Target: run, Base Prediction: loud and, Large Prediction: wan
+File Name: K1lt133participant_run.wav, Target: run, Base Prediction: ren, Large Prediction: well
+File Name: K1pe055participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1pv023participant_ring.wav, Target: ring, Base Prediction: being, Large Prediction: lean
+File Name: K1lt214participant_zoo.wav, Target: zoo, Base Prediction: deu, Large Prediction: dou
+File Name: K1sc011participant_chip.wav, Target: chip, Base Prediction: ti, Large Prediction: chit
+File Name: K1lt328participant_chip.wav, Target: chip, Base Prediction: s, Large Prediction: hap
+File Name: K1pv038participant_shoe.wav, Target: shoe, Base Prediction: some, Large Prediction: im
+File Name: K1so104participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: KT0BM551child_rock1.wav, Target: rock1, Base Prediction: what ot yeur is gold ston, Large Prediction: what this here is cold stone
+File Name: K1xl011participant_red.wav, Target: red, Base Prediction: ray, Large Prediction: red
+File Name: K1pe011participant_zoo.wav, Target: zoo, Base Prediction: here, Large Prediction: yel
+File Name: K1lt133participant_zoo.wav, Target: zoo, Base Prediction: i, Large Prediction: as hill
+File Name: K1pe154participant_sick.wav, Target: sick, Base Prediction: scop, Large Prediction: scrap
+File Name: K1lt158participant_leg.wav, Target: leg, Base Prediction: wild, Large Prediction: that
+File Name: K1lt202participant_zoo.wav, Target: zoo, Base Prediction: jo, Large Prediction: jo
+File Name: K1lm081participant_run.wav, Target: run, Base Prediction: jam, Large Prediction: ham
+File Name: K1pb212participant_leg.wav, Target: leg, Base Prediction: rail, Large Prediction: raw
+File Name: K1WA246participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1dd052participant_shoe.wav, Target: shoe, Base Prediction: far, Large Prediction: fe
+File Name: K1dd073participant_zoo.wav, Target: zoo, Base Prediction: yho, Large Prediction: he
+File Name: K1pe113participant_zoo.wav, Target: zoo, Base Prediction: to, Large Prediction: zu
+File Name: K1pe088participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1dd052participant_red.wav, Target: red, Base Prediction: lae, Large Prediction: where
+File Name: K1cc056participant_sick.wav, Target: sick, Base Prediction: so, Large Prediction: soak
+File Name: K1pe162participant_zoo.wav, Target: zoo, Base Prediction: skill, Large Prediction: stan
+File Name: K1cb011participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: roct
+File Name: K1RRI016participant_red.wav, Target: red, Base Prediction: vad, Large Prediction: red
+File Name: K1cc044participant_fox.wav, Target: fox, Base Prediction: flocks, Large Prediction: flocks
+File Name: K1TK026participant_lock.wav, Target: lock, Base Prediction: mock, Large Prediction: mock
+File Name: K1WA246participant_chip.wav, Target: chip, Base Prediction: ship, Large Prediction: chip
+File Name: K1so095participant_shoe.wav, Target: shoe, Base Prediction: shil, Large Prediction: shill
+File Name: K1WA246participant_thumb.wav, Target: thumb, Base Prediction: tham, Large Prediction: thum
+File Name: K1qq011participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1zz017participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1pv046participant_sand.wav, Target: sand, Base Prediction: saon, Large Prediction: sin
+File Name: K1dd114participant_chip.wav, Target: chip, Base Prediction: just, Large Prediction: chet
+File Name: K1sc011participant_fox.wav, Target: fox, Base Prediction: a, Large Prediction: fa
+File Name: K1lt158participant_fan.wav, Target: fan, Base Prediction: one, Large Prediction: far
+File Name: K1pe044participant_wing.wav, Target: wing, Base Prediction: rang, Large Prediction: wang
+File Name: K1MW013participant_run.wav, Target: run, Base Prediction: why, Large Prediction: wan
+File Name: K1cc044participant_one.wav, Target: one, Base Prediction: why, Large Prediction: who id
+File Name: K1pe077participant_one.wav, Target: one, Base Prediction: why, Large Prediction: one
+File Name: K1lt225participant_rock.wav, Target: rock, Base Prediction: whalk, Large Prediction: wawk
+File Name: K1lt158participant_red.wav, Target: red, Base Prediction: rot, Large Prediction: rack
+File Name: K1cb024participant_sand.wav, Target: sand, Base Prediction: say, Large Prediction: isay
+File Name: K1av122participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1AM166participant_ship.wav, Target: ship, Base Prediction: shop, Large Prediction: ship
+File Name: K1cc056participant_run.wav, Target: run, Base Prediction: weran, Large Prediction: uann
+File Name: K1lt038participant_one.wav, Target: one, Base Prediction: oran, Large Prediction: ran
+File Name: K1so041participant_chip.wav, Target: chip, Base Prediction: she, Large Prediction: chi
+File Name: K1pe088participant_ship.wav, Target: ship, Base Prediction: shak, Large Prediction: ship
+File Name: K1cb038participant_red.wav, Target: red, Base Prediction: rali, Large Prediction: ralith
+File Name: K1av333participant_chip.wav, Target: chip, Base Prediction: chap, Large Prediction: chap
+File Name: K1pe154participant_wing.wav, Target: wing, Base Prediction: wink, Large Prediction: oing
+File Name: K1dd092participant_ramp.wav, Target: ramp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1lm018participant_one.wav, Target: one, Base Prediction: wine o, Large Prediction: wind e
+File Name: K1cb132participant_sun.wav, Target: sun, Base Prediction: sone, Large Prediction: san
+File Name: K1so095participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1lt225participant_lock.wav, Target: lock, Base Prediction: block, Large Prediction: lock
+File Name: K1KM243participant_sun.wav, Target: sun, Base Prediction: fan, Large Prediction: tan
+File Name: K1pb227participant_wing.wav, Target: wing, Base Prediction: deat, Large Prediction: that
+File Name: K1av977participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pe154participant_ship.wav, Target: ship, Base Prediction: to, Large Prediction: thou ch
+File Name: K1so041participant_ship.wav, Target: ship, Base Prediction: boll ward, Large Prediction: belwick
+File Name: K1lm026participant_sun.wav, Target: sun, Base Prediction: saden, Large Prediction: sudden
+File Name: K1dd044participant_chip.wav, Target: chip, Base Prediction: t, Large Prediction: chok
+File Name: K1TK017participant_zoo.wav, Target: zoo, Base Prediction: you, Large Prediction: zu
+File Name: K1pe022participant_sun.wav, Target: sun, Base Prediction: shan, Large Prediction: son
+File Name: K1dd114participant_ramp.wav, Target: ramp, Base Prediction: or, Large Prediction: work
+File Name: K1EB212participant_chick.wav, Target: chick, Base Prediction: tuch, Large Prediction: sarc
+File Name: K1pb035participant_one.wav, Target: one, Base Prediction: won, Large Prediction: wand
+File Name: K1lm031participant_red.wav, Target: red, Base Prediction: rob, Large Prediction: red
+File Name: K1lt121participant_run.wav, Target: run, Base Prediction: right, Large Prediction: rite
+File Name: K1lt332participant_zoo.wav, Target: zoo, Base Prediction: for, Large Prediction: for
+File Name: K1pb227participant_ring.wav, Target: ring, Base Prediction: raith, Large Prediction: raited
+File Name: K1cc035participant_sick.wav, Target: sick, Base Prediction: , Large Prediction: eent back
+File Name: K1av988participant_fox.wav, Target: fox, Base Prediction: oc, Large Prediction: fox
+File Name: K1cb103participant_sand.wav, Target: sand, Base Prediction: font, Large Prediction: fand
+File Name: KT0BM573child_lock1.wav, Target: lock1, Base Prediction: what's that wac a, Large Prediction: what's that wackmm a
+File Name: KT0BM584child_lick1.wav, Target: lick1, Base Prediction: ut that i don't know hat o tey, Large Prediction: bit's that don't know it's o bag
+File Name: K1cc035participant_sand.wav, Target: sand, Base Prediction: san, Large Prediction: san
+File Name: K1OS013participant_ship.wav, Target: ship, Base Prediction: so, Large Prediction: sir
+File Name: K1lt328participant_fox.wav, Target: fox, Base Prediction: priot, Large Prediction: prior
+File Name: K1lt311participant_leg.wav, Target: leg, Base Prediction: lank, Large Prediction: lank
+File Name: K1pb023participant_ring.wav, Target: ring, Base Prediction: gern, Large Prediction: a pemotem
+File Name: K1mo011participant_run.wav, Target: run, Base Prediction: bran, Large Prediction: bran
+File Name: K1so041participant_fox.wav, Target: fox, Base Prediction: facts, Large Prediction: facts
+File Name: K1xl011participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1lt021participant_run.wav, Target: run, Base Prediction: i, Large Prediction: right
+File Name: K1pe113participant_sun.wav, Target: sun, Base Prediction: sin, Large Prediction: san
+File Name: K1lt236participant_zoo.wav, Target: zoo, Base Prediction: za, Large Prediction: so
+File Name: K1SB174participant_leg.wav, Target: leg, Base Prediction: fa, Large Prediction: far
+File Name: K1pe044participant_leg.wav, Target: leg, Base Prediction: grave, Large Prediction: glaying
+File Name: K1av111participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1qq111participant_ring.wav, Target: ring, Base Prediction: urring, Large Prediction: ring
+File Name: K1pb035participant_ramp.wav, Target: ramp, Base Prediction: wamp, Large Prediction: whap
+File Name: K1cc023participant_shoe.wav, Target: shoe, Base Prediction: , Large Prediction: shue
+File Name: K1qq011participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: ship
+File Name: K1dd052participant_sand.wav, Target: sand, Base Prediction: ha, Large Prediction: haw
+File Name: K1lm081participant_one.wav, Target: one, Base Prediction: whide, Large Prediction: wide
+File Name: K1dd021participant_leg.wav, Target: leg, Base Prediction: i didn't know, Large Prediction: i don't know
+File Name: K1so068participant_shoe.wav, Target: shoe, Base Prediction: e, Large Prediction: sail
+File Name: K1pe066participant_chip.wav, Target: chip, Base Prediction: gip, Large Prediction: chip
+File Name: K1lt328participant_zoo.wav, Target: zoo, Base Prediction: ama mout, Large Prediction: amma mout
+File Name: KT0BM562child_chick1.wav, Target: chick1, Base Prediction: what's this one i gon thetin, Large Prediction: what's this one agona dono
+File Name: K1KM243participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: lag
+File Name: K1cb103participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: ramp
+File Name: K1AY244participant_ship.wav, Target: ship, Base Prediction: sharp, Large Prediction: shik
+File Name: K1av977participant_ring.wav, Target: ring, Base Prediction: ra, Large Prediction: re
+File Name: K1so068participant_one.wav, Target: one, Base Prediction: breg, Large Prediction: ag
+File Name: K1AY244participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: ring
+File Name: K1lt225participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1pe011participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: ring
+File Name: K1pe055participant_fan.wav, Target: fan, Base Prediction: ram, Large Prediction: friend
+File Name: K1pe077participant_lamp.wav, Target: lamp, Base Prediction: grant, Large Prediction: wamp
+File Name: K1lm018participant_sun.wav, Target: sun, Base Prediction: sande, Large Prediction: sanda
+File Name: K1qq111participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pe011participant_chip.wav, Target: chip, Base Prediction: chet, Large Prediction: trap
+File Name: K1pb318participant_fan.wav, Target: fan, Base Prediction: fear, Large Prediction: thor
+File Name: K1cb128participant_sun.wav, Target: sun, Base Prediction: man, Large Prediction: slan
+File Name: K1zz017participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1av988participant_leg.wav, Target: leg, Base Prediction: lag, Large Prediction: leg
+File Name: K1xl011participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1so011participant_fan.wav, Target: fan, Base Prediction: fo on, Large Prediction: frane
+File Name: K1AY244participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1cc044participant_rock.wav, Target: rock, Base Prediction: wa, Large Prediction: wha
+File Name: K1av111participant_leg.wav, Target: leg, Base Prediction: lake, Large Prediction: lake
+File Name: K1pe044participant_rock.wav, Target: rock, Base Prediction: rop, Large Prediction: rock
+File Name: K1lt202participant_leg.wav, Target: leg, Base Prediction: ralk, Large Prediction: wake
+File Name: K1AY244participant_socks.wav, Target: socks, Base Prediction: stack, Large Prediction: stocks
+File Name: K1pb212participant_rock.wav, Target: rock, Base Prediction: lot, Large Prediction: lock
+File Name: K1lt225participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: stand
+File Name: K1pv016participant_sand.wav, Target: sand, Base Prediction: , Large Prediction: taand
+File Name: K1OS013participant_leg.wav, Target: leg, Base Prediction: lad, Large Prediction: lad
+File Name: K1lt021participant_one.wav, Target: one, Base Prediction: why, Large Prediction: why
+File Name: K1dd021participant_ship.wav, Target: ship, Base Prediction: aa no, Large Prediction: anano
+File Name: K1sc011participant_leg.wav, Target: leg, Base Prediction: swan, Large Prediction: swim
+File Name: K1dd021participant_lock.wav, Target: lock, Base Prediction: lack, Large Prediction: mark
+File Name: K1so104participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ren
+File Name: K1pe162participant_lock.wav, Target: lock, Base Prediction: wa, Large Prediction: ua
+File Name: K1dd105participant_ring.wav, Target: ring, Base Prediction: greek, Large Prediction: greek
+File Name: K1pv046participant_run.wav, Target: run, Base Prediction: brown, Large Prediction: rang
+File Name: K1EB212participant_lamp.wav, Target: lamp, Base Prediction: lam, Large Prediction: lamp
+File Name: K1cb132participant_ramp.wav, Target: ramp, Base Prediction: ar, Large Prediction: i'll arm
+File Name: K1AY244participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chap
+File Name: K1lt121participant_leg.wav, Target: leg, Base Prediction: make, Large Prediction: meak
+File Name: K1AY244participant_zoo.wav, Target: zoo, Base Prediction: deal, Large Prediction: deu
+File Name: K1pe066participant_sick.wav, Target: sick, Base Prediction: thick, Large Prediction: thick
+File Name: K1pb023participant_lamp.wav, Target: lamp, Base Prediction: yaper, Large Prediction: yauper
+File Name: K1lt133participant_fox.wav, Target: fox, Base Prediction: fai, Large Prediction: fark is
+File Name: K1dd033participant_one.wav, Target: one, Base Prediction: guad, Large Prediction: wadty
+File Name: K1EB212participant_ship.wav, Target: ship, Base Prediction: sir, Large Prediction: sac
+File Name: K1lm031participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: sun
+File Name: K1cc056participant_lock.wav, Target: lock, Base Prediction: wha, Large Prediction: what
+File Name: K1RRI016participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: slak
+File Name: K1dd114participant_leg.wav, Target: leg, Base Prediction: but, Large Prediction: bat
+File Name: K1cb024participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: sa
+File Name: K1KM243participant_sand.wav, Target: sand, Base Prediction: sam, Large Prediction: saand
+File Name: K1qq111participant_ship.wav, Target: ship, Base Prediction: ship, Large Prediction: step
+File Name: K1lt307participant_ramp.wav, Target: ramp, Base Prediction: ram, Large Prediction: wam
+File Name: K1so068participant_ship.wav, Target: ship, Base Prediction: sirk, Large Prediction: step
+File Name: K1dd073participant_shoe.wav, Target: shoe, Base Prediction: shu, Large Prediction: sho
+File Name: K1so095participant_fan.wav, Target: fan, Base Prediction: , Large Prediction: 
+File Name: K1qq111participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1lt112participant_fan.wav, Target: fan, Base Prediction: lane, Large Prediction: lan
+File Name: K1pe147participant_one.wav, Target: one, Base Prediction: , Large Prediction: why
+File Name: K1TK017participant_sun.wav, Target: sun, Base Prediction: shan, Large Prediction: son
+File Name: K1so072participant_red.wav, Target: red, Base Prediction: red, Large Prediction: rag
+File Name: K1lm026participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pv038participant_leg.wav, Target: leg, Base Prediction: reak, Large Prediction: rank
+File Name: K1qq111participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1dd092participant_lock.wav, Target: lock, Base Prediction: anare, Large Prediction: and maccar
+File Name: K1pe011participant_ramp.wav, Target: ramp, Base Prediction: ban, Large Prediction: bank
+File Name: K1pv016participant_fox.wav, Target: fox, Base Prediction: parcs, Large Prediction: poks
+File Name: K1cb103participant_lamp.wav, Target: lamp, Base Prediction: , Large Prediction: arm
+File Name: K1lt236participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1qq011participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1EB212participant_wing.wav, Target: wing, Base Prediction: rings, Large Prediction: wings
+File Name: K1dd052participant_fox.wav, Target: fox, Base Prediction: o bock, Large Prediction: far
+File Name: K1so083participant_ramp.wav, Target: ramp, Base Prediction: whe, Large Prediction: wrap
+File Name: K1lm052participant_run.wav, Target: run, Base Prediction: why, Large Prediction: lag
+File Name: K1so083participant_lamp.wav, Target: lamp, Base Prediction: nen came, Large Prediction: len's cane
+File Name: K1KM243participant_sick.wav, Target: sick, Base Prediction: said, Large Prediction: se
+File Name: K1lt332participant_run.wav, Target: run, Base Prediction: oran, Large Prediction: who ran
+File Name: K1pe011participant_sand.wav, Target: sand, Base Prediction: shan, Large Prediction: sand
+File Name: K1lt345participant_sand.wav, Target: sand, Base Prediction: sad, Large Prediction: sand
+File Name: K1SB174participant_run.wav, Target: run, Base Prediction: why, Large Prediction: why
+File Name: K1lt236participant_red.wav, Target: red, Base Prediction: bad, Large Prediction: red
+File Name: K1pv023participant_chip.wav, Target: chip, Base Prediction: cant, Large Prediction: chap
+File Name: K1pe088participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lm067participant_red.wav, Target: red, Base Prediction: right, Large Prediction: right
+File Name: K1pe131participant_sun.wav, Target: sun, Base Prediction: sad, Large Prediction: sad
+File Name: K1qq021participant_zoo.wav, Target: zoo, Base Prediction: saim, Large Prediction: sib
+File Name: K1dd044participant_lock.wav, Target: lock, Base Prediction: lack, Large Prediction: lak
+File Name: K1qq011participant_fox.wav, Target: fox, Base Prediction: box, Large Prediction: fox
+File Name: K1SB174participant_zoo.wav, Target: zoo, Base Prediction: so, Large Prediction: so
+File Name: K1sc011participant_sun.wav, Target: sun, Base Prediction: so, Large Prediction: so
+File Name: K1cc023participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1dd092participant_run.wav, Target: run, Base Prediction: wi, Large Prediction: wine
+File Name: K1AY244participant_thumb.wav, Target: thumb, Base Prediction: some, Large Prediction: some
+File Name: K1so068participant_fox.wav, Target: fox, Base Prediction: shocks, Large Prediction: fax
+File Name: K1pe088participant_run.wav, Target: run, Base Prediction: roun, Large Prediction: ry
+File Name: K1cb038participant_sand.wav, Target: sand, Base Prediction: sam, Large Prediction: scamp
+File Name: K1so011participant_one.wav, Target: one, Base Prediction: why, Large Prediction: wind
+File Name: K1av977participant_red.wav, Target: red, Base Prediction: ret, Large Prediction: red
+File Name: K1EB212participant_sick.wav, Target: sick, Base Prediction: suck, Large Prediction: sack
+File Name: K1cb103participant_ring.wav, Target: ring, Base Prediction: run, Large Prediction: rong
+File Name: K1so041participant_fan.wav, Target: fan, Base Prediction: from, Large Prediction: fran
+File Name: K1lt121participant_fox.wav, Target: fox, Base Prediction: fo, Large Prediction: jok
+File Name: K1pe011participant_wing.wav, Target: wing, Base Prediction: ale, Large Prediction: futler
+File Name: K1pe113participant_run.wav, Target: run, Base Prediction: rand, Large Prediction: ran
+File Name: K1lt345participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: tep
+File Name: K1pe055participant_lamp.wav, Target: lamp, Base Prediction: lmp, Large Prediction: lyrm
+File Name: K1dd114participant_ship.wav, Target: ship, Base Prediction: gip, Large Prediction: chip
+File Name: K1EB212participant_fox.wav, Target: fox, Base Prediction: fats, Large Prediction: facts
+File Name: K1dd044participant_wing.wav, Target: wing, Base Prediction: fair, Large Prediction: fair
+File Name: K1so036participant_run.wav, Target: run, Base Prediction: whate, Large Prediction: whyadn't ther
+File Name: K1cb132participant_lock.wav, Target: lock, Base Prediction: war, Large Prediction: why
+File Name: K1pb016participant_lamp.wav, Target: lamp, Base Prediction: faul, Large Prediction: valin
+File Name: K1so053participant_fox.wav, Target: fox, Base Prediction: lock, Large Prediction: foccck
+File Name: K1lt121participant_red.wav, Target: red, Base Prediction: rant, Large Prediction: rat
+File Name: KT0BM544child_sick1.wav, Target: sick1, Base Prediction: wat that oh ow thick sot kc, Large Prediction: with that ah and thic sock
+File Name: K1dd052participant_lock.wav, Target: lock, Base Prediction: ba, Large Prediction: ra
+File Name: K1cb128participant_lamp.wav, Target: lamp, Base Prediction: fan, Large Prediction: the son
+File Name: K1KM243participant_chip.wav, Target: chip, Base Prediction: fame, Large Prediction: sande
+File Name: K1lt158participant_zoo.wav, Target: zoo, Base Prediction: there, Large Prediction: sail
+File Name: K1pv016participant_wing.wav, Target: wing, Base Prediction: , Large Prediction: o
+File Name: K1pe022participant_ramp.wav, Target: ramp, Base Prediction: rih out, Large Prediction: raw
+File Name: K1cb132participant_sand.wav, Target: sand, Base Prediction: forn, Large Prediction: form
+File Name: K1KM243participant_thumb.wav, Target: thumb, Base Prediction: humm, Large Prediction: fham
+File Name: K1pb304participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1lt202participant_fox.wav, Target: fox, Base Prediction: foxs, Large Prediction: fox
+File Name: K1lt328participant_sand.wav, Target: sand, Base Prediction: am, Large Prediction: thoarmt
+File Name: K1lt017participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1pe022participant_fox.wav, Target: fox, Base Prediction: flox, Large Prediction: fox
+File Name: K1pe131participant_ramp.wav, Target: ramp, Base Prediction: ray up, Large Prediction: ray up
+File Name: K1lt307participant_leg.wav, Target: leg, Base Prediction: rie, Large Prediction: te
+File Name: K1pv058participant_red.wav, Target: red, Base Prediction: mack, Large Prediction: mank
+File Name: K1so041participant_ring.wav, Target: ring, Base Prediction: lan, Large Prediction: gleen
+File Name: K1lt311participant_sick.wav, Target: sick, Base Prediction: shack, Large Prediction: shuck
+File Name: K1dd044participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lap
+File Name: K1pb016participant_sick.wav, Target: sick, Base Prediction: sir, Large Prediction: such
+File Name: K1pb016participant_sand.wav, Target: sand, Base Prediction: slam, Large Prediction: slom
+File Name: K1lt057participant_sun.wav, Target: sun, Base Prediction: sad, Large Prediction: sad
+File Name: K1mo011participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1lt112participant_sun.wav, Target: sun, Base Prediction: fand, Large Prediction: san
+File Name: K1pe131participant_sick.wav, Target: sick, Base Prediction: fac, Large Prediction: feck
+File Name: K1dd084participant_red.wav, Target: red, Base Prediction: ran, Large Prediction: red
+File Name: K1cc044participant_ring.wav, Target: ring, Base Prediction: leage, Large Prediction: link
+File Name: K1cb128participant_chip.wav, Target: chip, Base Prediction: start, Large Prediction: shat
+File Name: K1lt345participant_zoo.wav, Target: zoo, Base Prediction: to, Large Prediction: su
+File Name: K1dd052participant_one.wav, Target: one, Base Prediction: ma, Large Prediction: houa
+File Name: K1zz017participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1sp621participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1pb318participant_chip.wav, Target: chip, Base Prediction: cat, Large Prediction: chap
+File Name: K1av977participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: chip
+File Name: KT0BM511child_walk1.wav, Target: walk1, Base Prediction: what's that maybe a b, Large Prediction: what's that maybe abay
+File Name: K1cc044participant_fan.wav, Target: fan, Base Prediction: fac, Large Prediction: freon
+File Name: K1cc056participant_shoe.wav, Target: shoe, Base Prediction: sail, Large Prediction: sail
+File Name: K1cb103participant_ship.wav, Target: ship, Base Prediction: sent, Large Prediction: ship
+File Name: K1pe055participant_zoo.wav, Target: zoo, Base Prediction: sill, Large Prediction: zo
+File Name: K1pv023participant_ship.wav, Target: ship, Base Prediction: cip, Large Prediction: sip
+File Name: K1cb116participant_fan.wav, Target: fan, Base Prediction: ham, Large Prediction: flana
+File Name: K1pe125participant_wing.wav, Target: wing, Base Prediction: wen, Large Prediction: win
+File Name: K1pe066participant_leg.wav, Target: leg, Base Prediction: no, Large Prediction: nog
+File Name: K1zz301participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pe011participant_lock.wav, Target: lock, Base Prediction: vac, Large Prediction: walk
+File Name: K1av977participant_sand.wav, Target: sand, Base Prediction: scant, Large Prediction: stand
+File Name: K1pe011participant_fox.wav, Target: fox, Base Prediction: fo, Large Prediction: fox
+File Name: K1zz017participant_lock.wav, Target: lock, Base Prediction: lock, Large Prediction: lock
+File Name: K1lt332participant_sand.wav, Target: sand, Base Prediction: fam, Large Prediction: sam
+File Name: K1lm018participant_run.wav, Target: run, Base Prediction: huad the, Large Prediction: huada a
+File Name: K1so095participant_lamp.wav, Target: lamp, Base Prediction: fligt, Large Prediction: flight
+File Name: K1qq021participant_one.wav, Target: one, Base Prediction: one, Large Prediction: wanten
+File Name: K1dd044participant_one.wav, Target: one, Base Prediction: one, Large Prediction: what
+File Name: K1cb038participant_leg.wav, Target: leg, Base Prediction: i her me, Large Prediction: desant hear me
+File Name: K1lt214participant_wing.wav, Target: wing, Base Prediction: vik, Large Prediction: owing
+File Name: K1WA246participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1sc011participant_fan.wav, Target: fan, Base Prediction: foul, Large Prediction: fol
+File Name: K1so083participant_run.wav, Target: run, Base Prediction: ready, Large Prediction: oo allu
+File Name: K1pb035participant_ship.wav, Target: ship, Base Prediction: so, Large Prediction: sick
+File Name: K1lm031participant_leg.wav, Target: leg, Base Prediction: look, Large Prediction: leck
+File Name: K1cc023participant_chip.wav, Target: chip, Base Prediction: cp, Large Prediction: shet
+File Name: K1pv038participant_fan.wav, Target: fan, Base Prediction: bon, Large Prediction: fon
+File Name: K1pb227participant_sand.wav, Target: sand, Base Prediction: sath, Large Prediction: set
+File Name: K1pb227participant_fan.wav, Target: fan, Base Prediction: ley a draw, Large Prediction: land all
+File Name: K1sc011participant_shoe.wav, Target: shoe, Base Prediction: , Large Prediction: shou
+File Name: K1dd052participant_lamp.wav, Target: lamp, Base Prediction: sher, Large Prediction: shere
+File Name: K1lm026participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1pv058participant_sun.wav, Target: sun, Base Prediction: fa, Large Prediction: fand
+File Name: K1lt332participant_lamp.wav, Target: lamp, Base Prediction: i, Large Prediction: lie
+File Name: K1sc011participant_ramp.wav, Target: ramp, Base Prediction: ray, Large Prediction: ray
+File Name: K1so112participant_chip.wav, Target: chip, Base Prediction: cha, Large Prediction: chaked
+File Name: K1AM166participant_fan.wav, Target: fan, Base Prediction: fo, Large Prediction: fan
+File Name: K1qq021participant_ramp.wav, Target: ramp, Base Prediction: vant, Large Prediction: ramp
+File Name: K1lt332participant_fox.wav, Target: fox, Base Prediction: tha, Large Prediction: thought
+File Name: K1lt214participant_leg.wav, Target: leg, Base Prediction: what, Large Prediction: what
+File Name: K1pv016participant_red.wav, Target: red, Base Prediction: oh, Large Prediction: no
+File Name: K1so011participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: san
+File Name: K1av111participant_fan.wav, Target: fan, Base Prediction: san, Large Prediction: fan
+File Name: K1pe113participant_ring.wav, Target: ring, Base Prediction: gran, Large Prediction: gray and
+File Name: K1so068participant_sick.wav, Target: sick, Base Prediction: silk, Large Prediction: sick
+File Name: K1lt112participant_run.wav, Target: run, Base Prediction: ran, Large Prediction: orin
+File Name: K1pv023participant_run.wav, Target: run, Base Prediction: why, Large Prediction: why
+File Name: K1qq011participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1lt202participant_ship.wav, Target: ship, Base Prediction: sop, Large Prediction: sep
+File Name: K1lt057participant_red.wav, Target: red, Base Prediction: lad, Large Prediction: werd
+File Name: K1pb035participant_chip.wav, Target: chip, Base Prediction: cher, Large Prediction: chep
+File Name: K1lm052participant_red.wav, Target: red, Base Prediction: or out, Large Prediction: lad
+File Name: K1pe022participant_red.wav, Target: red, Base Prediction: ron, Large Prediction: ran
+File Name: K1lt345participant_rock.wav, Target: rock, Base Prediction: rac, Large Prediction: rock
+File Name: K1pv016participant_ring.wav, Target: ring, Base Prediction: ue, Large Prediction: luin
+File Name: K1qq011participant_run.wav, Target: run, Base Prediction: vine, Large Prediction: ran
+File Name: K1pe066participant_lock.wav, Target: lock, Base Prediction: nap, Large Prediction: knock
+File Name: K1cc023participant_ring.wav, Target: ring, Base Prediction: lady, Large Prediction: wing
+File Name: K1lt057participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1pe022participant_fan.wav, Target: fan, Base Prediction: fam, Large Prediction: pham
+File Name: K1dd084participant_sun.wav, Target: sun, Base Prediction: side, Large Prediction: sign
+File Name: K1EB212participant_rock.wav, Target: rock, Base Prediction: war, Large Prediction: mack
+File Name: K1mo011participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1lm067participant_one.wav, Target: one, Base Prediction: or i, Large Prediction: or i
+File Name: K1jh011participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lamp
+File Name: K1pe125participant_chip.wav, Target: chip, Base Prediction: sep, Large Prediction: ship
+File Name: K1pe125participant_shoe.wav, Target: shoe, Base Prediction: hugh, Large Prediction: shew
+File Name: K1lt158participant_run.wav, Target: run, Base Prediction: wound, Large Prediction: why
+File Name: K1so036participant_sun.wav, Target: sun, Base Prediction: sant ye, Large Prediction: sanle
+File Name: K1zz301participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sand
+File Name: K1pe055participant_run.wav, Target: run, Base Prediction: rung, Large Prediction: run
+File Name: K1cc056participant_sand.wav, Target: sand, Base Prediction: sam, Large Prediction: sam
+File Name: K1AM166participant_leg.wav, Target: leg, Base Prediction: lay, Large Prediction: may
+File Name: K1so011participant_sand.wav, Target: sand, Base Prediction: samd, Large Prediction: sand
+File Name: K1av122participant_zoo.wav, Target: zoo, Base Prediction: , Large Prediction: bat a fun
+File Name: K1KM243participant_shoe.wav, Target: shoe, Base Prediction: shom, Large Prediction: sho
+File Name: K1so072participant_sick.wav, Target: sick, Base Prediction: , Large Prediction: 
+File Name: K1pb304participant_sun.wav, Target: sun, Base Prediction: stal, Large Prediction: stan
+File Name: K1cc044participant_leg.wav, Target: leg, Base Prediction: make, Large Prediction: moke
+File Name: K1pb035participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1so011participant_run.wav, Target: run, Base Prediction: wine, Large Prediction: rhine
+File Name: K1dd092participant_zoo.wav, Target: zoo, Base Prediction: nly sale, Large Prediction: only sail
+File Name: K1pv046participant_one.wav, Target: one, Base Prediction: brint and, Large Prediction: bright
+File Name: K1pe131participant_fox.wav, Target: fox, Base Prediction: fas, Large Prediction: facts
+File Name: K1av022participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: ship
+File Name: K1lt307participant_lamp.wav, Target: lamp, Base Prediction: arm, Large Prediction: arm
+File Name: K1pb304participant_lamp.wav, Target: lamp, Base Prediction: ther, Large Prediction: there
+File Name: K1pv046participant_red.wav, Target: red, Base Prediction: wereout, Large Prediction: rout
+File Name: K1pb318participant_one.wav, Target: one, Base Prediction: when, Large Prediction: when
+File Name: K1cc067participant_red.wav, Target: red, Base Prediction: ragg, Large Prediction: wegg
+File Name: K1dd092participant_red.wav, Target: red, Base Prediction: brad, Large Prediction: rad
+File Name: K1cc056participant_sun.wav, Target: sun, Base Prediction: some, Large Prediction: san
+File Name: K1lm067participant_fan.wav, Target: fan, Base Prediction: o, Large Prediction: farm
+File Name: K1mo011participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: leg
+File Name: K1cb116participant_sun.wav, Target: sun, Base Prediction: some child, Large Prediction: san child
+File Name: K1cc044participant_lock.wav, Target: lock, Base Prediction: a, Large Prediction: ya
+File Name: K1dd084participant_chip.wav, Target: chip, Base Prediction: chi, Large Prediction: ship
+File Name: K1xl011participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1pb023participant_red.wav, Target: red, Base Prediction: rred, Large Prediction: rag
+File Name: K1lt247participant_ring.wav, Target: ring, Base Prediction: ri, Large Prediction: ly
+File Name: K1lt038participant_run.wav, Target: run, Base Prediction: glany, Large Prediction: frand
+File Name: K1qq021participant_chip.wav, Target: chip, Base Prediction: , Large Prediction: ji
+File Name: K1sp611participant_chip.wav, Target: chip, Base Prediction: chit, Large Prediction: chit
+File Name: K1dd052participant_ramp.wav, Target: ramp, Base Prediction: fair, Large Prediction: fair
+File Name: K1lm031participant_run.wav, Target: run, Base Prediction: one, Large Prediction: one
+File Name: K1AM166participant_socks.wav, Target: socks, Base Prediction: fac, Large Prediction: tax
+File Name: K1pe147participant_leg.wav, Target: leg, Base Prediction: lay, Large Prediction: rag
+File Name: K1pv058participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wig
+File Name: K1pb304participant_fan.wav, Target: fan, Base Prediction: faand, Large Prediction: san
+File Name: K1dd092participant_wing.wav, Target: wing, Base Prediction: , Large Prediction: ring
+File Name: K1dd073participant_ramp.wav, Target: ramp, Base Prediction: o, Large Prediction: o
+File Name: K1pe077participant_leg.wav, Target: leg, Base Prediction: rag, Large Prediction: wag
+File Name: K1lt202participant_chip.wav, Target: chip, Base Prediction: sop, Large Prediction: sop
+File Name: K1so053participant_one.wav, Target: one, Base Prediction: winely, Large Prediction: wyle
+File Name: K1lt247participant_shoe.wav, Target: shoe, Base Prediction: hel, Large Prediction: shew
+File Name: K1lt311participant_shoe.wav, Target: shoe, Base Prediction: hero, Large Prediction: hue
+File Name: K1dd105participant_fox.wav, Target: fox, Base Prediction: foct, Large Prediction: focked
+File Name: K1lt345participant_run.wav, Target: run, Base Prediction: mi, Large Prediction: blan
+File Name: K1cc035participant_fox.wav, Target: fox, Base Prediction: it has something in  lot o, Large Prediction: it has something a lot of
+File Name: K1pe125participant_red.wav, Target: red, Base Prediction: rat, Large Prediction: red
+File Name: K1dd105participant_lamp.wav, Target: lamp, Base Prediction: lap, Large Prediction: loup
+File Name: K1cb038participant_lamp.wav, Target: lamp, Base Prediction: wamp, Large Prediction: warmth
+File Name: K1qq011participant_rock.wav, Target: rock, Base Prediction: rock, Large Prediction: rock
+File Name: K1dd021participant_shoe.wav, Target: shoe, Base Prediction: sun, Large Prediction: she
+File Name: K1so083participant_chip.wav, Target: chip, Base Prediction: s, Large Prediction: si
+File Name: K1dd073participant_one.wav, Target: one, Base Prediction: ran, Large Prediction: when
+File Name: K1pb212participant_lock.wav, Target: lock, Base Prediction: an, Large Prediction: a
+File Name: K1so112participant_rock.wav, Target: rock, Base Prediction: wa, Large Prediction: walk
+File Name: K1lt133participant_sun.wav, Target: sun, Base Prediction: atan, Large Prediction: sun
+File Name: K1so083participant_wing.wav, Target: wing, Base Prediction: w, Large Prediction: wive
+File Name: K1dd105participant_shoe.wav, Target: shoe, Base Prediction: hew, Large Prediction: sheer
+File Name: K1pe162participant_ring.wav, Target: ring, Base Prediction: romu, Large Prediction: ring
+File Name: K1cb103participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: forn
+File Name: K1pe162participant_fan.wav, Target: fan, Base Prediction: form, Large Prediction: foll am
+File Name: K1pe088participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1cb024participant_sun.wav, Target: sun, Base Prediction: so, Large Prediction: so
+File Name: K1pb227participant_sun.wav, Target: sun, Base Prediction: fou, Large Prediction: stop
+File Name: K1cc035participant_shoe.wav, Target: shoe, Base Prediction: see, Large Prediction: and seal
+File Name: K1dd033participant_fan.wav, Target: fan, Base Prediction: irdo, Large Prediction: irla
+File Name: K1pe011participant_lamp.wav, Target: lamp, Base Prediction: lamp, Large Prediction: lank
+File Name: K1lt225participant_sick.wav, Target: sick, Base Prediction: sock, Large Prediction: sac
+File Name: K1cb132participant_leg.wav, Target: leg, Base Prediction: great, Large Prediction: wag
+File Name: K1pv016participant_ramp.wav, Target: ramp, Base Prediction: o, Large Prediction: amule
+File Name: K1cc044participant_shoe.wav, Target: shoe, Base Prediction: he, Large Prediction: shoe
+File Name: K1TK017participant_fox.wav, Target: fox, Base Prediction: froc, Large Prediction: fox
+File Name: K1so104participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: KT0BM584child_walk1.wav, Target: walk1, Base Prediction: without ne wha, Large Prediction: was that what
+File Name: K1lt202participant_wing.wav, Target: wing, Base Prediction: rang, Large Prediction: wen
+File Name: K1dd052participant_rock.wav, Target: rock, Base Prediction: la, Large Prediction: what
+File Name: K1pb304participant_shoe.wav, Target: shoe, Base Prediction: shall, Large Prediction: shill
+File Name: K1pb212participant_one.wav, Target: one, Base Prediction: learn, Large Prediction: man
+File Name: K1cb038participant_ring.wav, Target: ring, Base Prediction: well, Large Prediction: alanc
+File Name: K1so095participant_fox.wav, Target: fox, Base Prediction: fa, Large Prediction: fa
+File Name: K1mo011participant_sun.wav, Target: sun, Base Prediction: son, Large Prediction: son
+File Name: K1so072participant_lock.wav, Target: lock, Base Prediction: la, Large Prediction: lha a
+File Name: K1SB174participant_red.wav, Target: red, Base Prediction: rawl, Large Prediction: wab
+File Name: K1av977participant_ramp.wav, Target: ramp, Base Prediction: ret, Large Prediction: ret
+File Name: K1lt017participant_leg.wav, Target: leg, Base Prediction: like, Large Prediction: laze
+File Name: K1so112participant_sand.wav, Target: sand, Base Prediction: fand, Large Prediction: sand
+File Name: KT0BM522child_rock1.wav, Target: rock1, Base Prediction: what'it rac, Large Prediction: what's it rock
+File Name: K1av988participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1pe022participant_run.wav, Target: run, Base Prediction: rine and, Large Prediction: ran
+File Name: K1xl011participant_one.wav, Target: one, Base Prediction: why, Large Prediction: what
+File Name: K1pv046participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: ak your gows on
+File Name: K1pe125participant_sun.wav, Target: sun, Base Prediction: sign, Large Prediction: sin
+File Name: K1lt236participant_sun.wav, Target: sun, Base Prediction: in, Large Prediction: son
+File Name: K1dd021participant_sand.wav, Target: sand, Base Prediction: sand, Large Prediction: sad
+File Name: K1av111participant_wing.wav, Target: wing, Base Prediction: wing, Large Prediction: wing
+File Name: K1lt328participant_one.wav, Target: one, Base Prediction: ride, Large Prediction: wid
+File Name: K1so041participant_wing.wav, Target: wing, Base Prediction: re, Large Prediction: read
+File Name: K1lt202participant_shoe.wav, Target: shoe, Base Prediction: sho, Large Prediction: shell
+File Name: K1pe066participant_sun.wav, Target: sun, Base Prediction: fun, Large Prediction: fan
+File Name: K1pe154participant_chip.wav, Target: chip, Base Prediction: slepe, Large Prediction: saplu
+File Name: K1TK017participant_run.wav, Target: run, Base Prediction: one, Large Prediction: one
+File Name: K1lt311participant_sand.wav, Target: sand, Base Prediction: ran, Large Prediction: rand
+File Name: K1WA246participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1pe011participant_red.wav, Target: red, Base Prediction: red, Large Prediction: wored
+File Name: K1cb132participant_ship.wav, Target: ship, Base Prediction: sow, Large Prediction: sop
+File Name: K1cb128participant_sand.wav, Target: sand, Base Prediction: fan, Large Prediction: fan
+File Name: K1pe113participant_ramp.wav, Target: ramp, Base Prediction: ramp, Large Prediction: rap
+File Name: K1mo011participant_zoo.wav, Target: zoo, Base Prediction: still, Large Prediction: szu
+File Name: K1lm052participant_leg.wav, Target: leg, Base Prediction: rank, Large Prediction: lag
+File Name: K1lt328participant_red.wav, Target: red, Base Prediction: fa, Large Prediction: wa a
+File Name: K1TK026participant_fan.wav, Target: fan, Base Prediction: ban, Large Prediction: fan
+File Name: K1pe131participant_leg.wav, Target: leg, Base Prediction: rag, Large Prediction: leg
+File Name: K1lt017participant_run.wav, Target: run, Base Prediction: what, Large Prediction: one
+File Name: K1lt045participant_sun.wav, Target: sun, Base Prediction: sad, Large Prediction: sand
+File Name: K1lt045participant_one.wav, Target: one, Base Prediction: one, Large Prediction: one
+File Name: K1qq111participant_zoo.wav, Target: zoo, Base Prediction: there, Large Prediction: vile
+File Name: K1lt328participant_leg.wav, Target: leg, Base Prediction: whil, Large Prediction: wauk
+File Name: K1lt311participant_zoo.wav, Target: zoo, Base Prediction: hou, Large Prediction: hew
+File Name: K1dd114participant_wing.wav, Target: wing, Base Prediction: haut, Large Prediction: cart
+File Name: K1so068participant_rock.wav, Target: rock, Base Prediction: work, Large Prediction: wak
+File Name: K1lt112participant_leg.wav, Target: leg, Base Prediction: rand, Large Prediction: lake
+File Name: K1cc023participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fm
+File Name: K1zz017participant_chip.wav, Target: chip, Base Prediction: chip, Large Prediction: chip
+File Name: K1dd044participant_ship.wav, Target: ship, Base Prediction: boutand, Large Prediction: boat
+File Name: K1pe044participant_ramp.wav, Target: ramp, Base Prediction: rang, Large Prediction: ring o
+File Name: K1so104participant_rock.wav, Target: rock, Base Prediction: ra, Large Prediction: raha
+File Name: K1pe088participant_zoo.wav, Target: zoo, Base Prediction: you, Large Prediction: ell
+File Name: K1pe131participant_chip.wav, Target: chip, Base Prediction: top, Large Prediction: shap
+File Name: K1RRI016participant_thumb.wav, Target: thumb, Base Prediction: brown, Large Prediction: com
+File Name: KT0BM533child_rock1.wav, Target: rock1, Base Prediction: pra, Large Prediction: r
+File Name: K1mo011participant_fox.wav, Target: fox, Base Prediction: fox, Large Prediction: fox
+File Name: K1qq011participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1dd073participant_fan.wav, Target: fan, Base Prediction: o, Large Prediction: fump
+File Name: K1lt202participant_run.wav, Target: run, Base Prediction: body, Large Prediction: bod
+File Name: K1pb016participant_lock.wav, Target: lock, Base Prediction: olorat that on, Large Prediction: don't know at that one
+File Name: K1dd114participant_rock.wav, Target: rock, Base Prediction: work, Large Prediction: work
+File Name: K1lt307participant_sick.wav, Target: sick, Base Prediction: fer, Large Prediction: fair
+File Name: K1cb103participant_zoo.wav, Target: zoo, Base Prediction: till, Large Prediction: still
+File Name: K1pe125participant_lock.wav, Target: lock, Base Prediction: whack, Large Prediction: walk
+File Name: K1lt141participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: son
+File Name: K1zz017participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1pb304participant_ship.wav, Target: ship, Base Prediction: boat, Large Prediction: boat
+File Name: K1qq111participant_lock.wav, Target: lock, Base Prediction: alat, Large Prediction: lock
+File Name: K1pv016participant_sun.wav, Target: sun, Base Prediction: com, Large Prediction: tan
+File Name: K1so072participant_shoe.wav, Target: shoe, Base Prediction: sher, Large Prediction: shill
+File Name: K1pb016participant_zoo.wav, Target: zoo, Base Prediction: so, Large Prediction: so
+File Name: K1pb016participant_fox.wav, Target: fox, Base Prediction: but, Large Prediction: tots
+File Name: K1cc014participant_one.wav, Target: one, Base Prediction: y, Large Prediction: wy
+File Name: K1pe011participant_one.wav, Target: one, Base Prediction: won, Large Prediction: woon
+File Name: K1zz017participant_red.wav, Target: red, Base Prediction: red, Large Prediction: red
+File Name: K1AM166participant_window.wav, Target: window, Base Prediction: window, Large Prediction: window
+File Name: K1dd021participant_ring.wav, Target: ring, Base Prediction: rink, Large Prediction: wink
+File Name: K1dd033participant_shoe.wav, Target: shoe, Base Prediction: el, Large Prediction: sheel
+File Name: K1so072participant_fan.wav, Target: fan, Base Prediction: , Large Prediction: 
+File Name: K1dd114participant_ring.wav, Target: ring, Base Prediction: wanns, Large Prediction: winds
+File Name: K1pe125participant_ring.wav, Target: ring, Base Prediction: ragi, Large Prediction: rang
+File Name: K1pe066participant_run.wav, Target: run, Base Prediction: wone, Large Prediction: one
+File Name: K1pe113participant_rock.wav, Target: rock, Base Prediction: rob, Large Prediction: rock
+File Name: K1so072participant_chip.wav, Target: chip, Base Prediction: chu, Large Prediction: chip
+File Name: K1dd092participant_shoe.wav, Target: shoe, Base Prediction: till, Large Prediction: still
+File Name: K1lt133participant_red.wav, Target: red, Base Prediction: wreg, Large Prediction: reght
+File Name: K1lm067participant_zoo.wav, Target: zoo, Base Prediction: er, Large Prediction: fero
+File Name: K1pe077participant_ring.wav, Target: ring, Base Prediction: rng, Large Prediction: rang
+File Name: K1cb011participant_ring.wav, Target: ring, Base Prediction: rain, Large Prediction: rayden
+File Name: K1cc035participant_one.wav, Target: one, Base Prediction: li, Large Prediction: one
+File Name: K1pb035participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: sadn
+File Name: K1KM243participant_lock.wav, Target: lock, Base Prediction: lack, Large Prediction: lo
+File Name: K1pe125participant_zoo.wav, Target: zoo, Base Prediction: sail, Large Prediction: sail
+File Name: K1cb128participant_run.wav, Target: run, Base Prediction: raundyand, Large Prediction: randoling
+File Name: K1sp611participant_sick.wav, Target: sick, Base Prediction: sick, Large Prediction: sick
+File Name: K1sp611participant_run.wav, Target: run, Base Prediction: run, Large Prediction: run
+File Name: K1cb128participant_rock.wav, Target: rock, Base Prediction: ran, Large Prediction: ralph
+File Name: K1lt307participant_lock.wav, Target: lock, Base Prediction: law, Large Prediction: law
+File Name: K1WA246participant_zoo.wav, Target: zoo, Base Prediction: ville, Large Prediction: you
+File Name: K1pv038participant_one.wav, Target: one, Base Prediction: erin, Large Prediction: rand
+File Name: K1KM243participant_ship.wav, Target: ship, Base Prediction: shap, Large Prediction: shut
+File Name: K1lt332participant_wing.wav, Target: wing, Base Prediction: wig, Large Prediction: wang
+File Name: K1lt045participant_run.wav, Target: run, Base Prediction: wonin, Large Prediction: whaning
+File Name: K1lt332participant_lock.wav, Target: lock, Base Prediction: ilac, Large Prediction: e loc
+File Name: K1pv023participant_lock.wav, Target: lock, Base Prediction: wa, Large Prediction: what
+File Name: K1OS013participant_run.wav, Target: run, Base Prediction: ow, Large Prediction: 
+File Name: K1dd033participant_sick.wav, Target: sick, Base Prediction: very low, Large Prediction: ilo
+File Name: K1pv046participant_sun.wav, Target: sun, Base Prediction: sound, Large Prediction: sound
+File Name: K1EB212participant_red.wav, Target: red, Base Prediction: rab, Large Prediction: rab
+File Name: K1so011participant_leg.wav, Target: leg, Base Prediction: mad, Large Prediction: mag
+File Name: K1so083participant_one.wav, Target: one, Base Prediction: re, Large Prediction: wu
+File Name: K1zz017participant_fan.wav, Target: fan, Base Prediction: fan, Large Prediction: fan
+File Name: K1sp611participant_leg.wav, Target: leg, Base Prediction: less, Large Prediction: emus
+File Name: K1AY244participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: son
+File Name: K1so068participant_lock.wav, Target: lock, Base Prediction: lack, Large Prediction: lock
+File Name: K1cc023participant_run.wav, Target: run, Base Prediction: one, Large Prediction: wide
+File Name: K1pb035participant_rock.wav, Target: rock, Base Prediction: why, Large Prediction: why
+File Name: K1zz501participant_rock.wav, Target: rock, Base Prediction: raw, Large Prediction: raw
+File Name: KT0BM573child_lick1.wav, Target: lick1, Base Prediction: and this one wit, Large Prediction: and this one owet am
+File Name: K1dd021participant_lamp.wav, Target: lamp, Base Prediction: odout na, Large Prediction: at aunt now
+File Name: K1pv016participant_shoe.wav, Target: shoe, Base Prediction: here, Large Prediction: sker
+File Name: K1zz017participant_zoo.wav, Target: zoo, Base Prediction: ezieu, Large Prediction: zu
+File Name: K1dd092participant_fox.wav, Target: fox, Base Prediction: and fracts, Large Prediction: on facts
+File Name: K1lm031participant_zoo.wav, Target: zoo, Base Prediction: ero, Large Prediction: sou
+File Name: K1pe077participant_red.wav, Target: red, Base Prediction: wereat, Large Prediction: we're at
+File Name: K1_pe033participant_fan.wav, Target: fan, Base Prediction: sam, Large Prediction: fan
+File Name: K1pb227participant_one.wav, Target: one, Base Prediction: what, Large Prediction: what
+File Name: K1pe125participant_run.wav, Target: run, Base Prediction: why, Large Prediction: wide
+File Name: K1cb128participant_ship.wav, Target: ship, Base Prediction: bo, Large Prediction: bot
+File Name: K1so072participant_sun.wav, Target: sun, Base Prediction: san, Large Prediction: sam
+File Name: K1lt311participant_ramp.wav, Target: ramp, Base Prediction: lougid, Large Prediction: lamp
+File Name: K1dd105participant_sick.wav, Target: sick, Base Prediction: sirt, Large Prediction: si
+File Name: K1WA246participant_leg.wav, Target: leg, Base Prediction: leg, Large Prediction: lag
+File Name: K1dd021participant_red.wav, Target: red, Base Prediction: mura, Large Prediction: red
+File Name: K1mo011participant_ring.wav, Target: ring, Base Prediction: ring, Large Prediction: ring
+File Name: K1so095participant_zoo.wav, Target: zoo, Base Prediction: hero, Large Prediction: heno
+File Name: K1pv023participant_red.wav, Target: red, Base Prediction: rank, Large Prediction: rad
+File Name: K1so072participant_ramp.wav, Target: ramp, Base Prediction: , Large Prediction: 
+File Name: K1sp611participant_one.wav, Target: one, Base Prediction: er t recording, Large Prediction: her ears recording
+File Name: K1av122participant_shoe.wav, Target: shoe, Base Prediction: shoe, Large Prediction: shoe
+File Name: K1RRI016participant_one.wav, Target: one, Base Prediction: why, Large Prediction: wine
+File Name: K1pe022participant_chip.wav, Target: chip, Base Prediction: check, Large Prediction: shet
+File Name: K1KM243participant_chick.wav, Target: chick, Base Prediction: a chenk, Large Prediction: check
+File Name: K1pe022participant_leg.wav, Target: leg, Base Prediction: rak, Large Prediction: leg
+File Name: K1pb212participant_ramp.wav, Target: ramp, Base Prediction: who i fried a pull, Large Prediction: o i fit te pull
+File Name: K1AM166participant_fox.wav, Target: fox, Base Prediction: fact, Large Prediction: frocx
