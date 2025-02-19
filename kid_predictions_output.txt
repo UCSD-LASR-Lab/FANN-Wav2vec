@@ -1,0 +1,2846 @@
+file name, target, base prediction, large prediction
+K1pe011participant_leg.wav, leg, grak, lake
+K1lt332participant_fan.wav, fan, five, fob
+K1MW013participant_sand.wav, sand, farnd, farmed
+K1lt158participant_shoe.wav, shoe, sir, sham
+K1xl011participant_chip.wav, chip, chi, chip
+K1lm081participant_rainbow.wav, rainbow, grainbac, ranbow
+K1cb128participant_fan.wav, fan, well, wang
+K1cb011participant_sun.wav, sun, sam, san
+K1mo011participant_ramp.wav, ramp, ramp, ramp
+K1pe113participant_ship.wav, ship, ship, ship
+K1pe055participant_shoe.wav, shoe, she, shious
+K1cc014participant_wing.wav, wing, ming, ming
+K1so104participant_lamp.wav, lamp, here, lamp
+K1OS013participant_zoo.wav, zoo, nere, now
+K1dd092participant_sand.wav, sand, fn, armed
+K1RRI016participant_lamp.wav, lamp, lamp, lamp
+K1cb024participant_red.wav, red, wrath, re
+K1so112participant_ring.wav, ring, rain, wing
+K1pe125participant_sand.wav, sand, sand, sayand
+K1pb023participant_sand.wav, sand, side, sides
+K1lt045participant_chick.wav, chick, check, cheqk
+K1pb016participant_ship.wav, ship, bou in, bow
+K1pe088participant_rainbow.wav, rainbow, rainbow, rainbow
+K1pb016participant_sun.wav, sun, sale, salle
+K1zz017participant_sun.wav, sun, son, sun
+K1pv038participant_lock.wav, lock, a, lau
+K1sc011participant_wing.wav, wing, wing, wing
+K1lt214participant_ring.wav, ring, ek, wink
+K1lt247participant_window.wav, window, when go, any doubt
+K1so036participant_rock.wav, rock, wha, wa
+K1qq011participant_wing.wav, wing, wing, wing
+K1lm081participant_sun.wav, sun, sade, sadly
+K1dd092participant_window.wav, window, win g, an wind out
+K1cb103participant_sun.wav, sun, phom, thon
+K1lt121participant_lamp.wav, lamp, where, well
+K1WA246participant_sick.wav, sick, fo, thick
+KT0BM522child_walk1.wav, walk1, wa, wap
+K1so104participant_chick.wav, chick, jik, chick
+K1pe125participant_fox.wav, fox, foxs, fox
+K1dd092participant_ring.wav, ring, il, ring
+K1cb011participant_socks.wav, socks, nach, elack
+K1cc014participant_ring.wav, ring, thing, ing
+K1av111participant_shoe.wav, shoe, shoe, shoe
+K1pe066participant_zoo.wav, zoo, er, vew
+K1jh011participant_red.wav, red, red, red
+K1pe113participant_chick.wav, chick, ch, chet
+K1lt158participant_one.wav, one, y, wy
+K1pe077participant_sun.wav, sun, fun, fun
+K1pe113participant_shoe.wav, shoe, shill, shill
+K1lm081participant_sand.wav, sand, sad, san
+K1lt328participant_socks.wav, socks, dan, donch
+K1pe162participant_ship.wav, ship, stoc, shop
+K1pb227participant_chip.wav, chip, sipe, seba
+K1pb227participant_ramp.wav, ramp, ank ga god, etata
+K1pe162participant_window.wav, window, wen dou, uen deu
+K1RRI016participant_sand.wav, sand, sulent, sand
+K1pe066participant_ramp.wav, ramp, ramp, whimp
+K1lt214participant_sick.wav, sick, fair, fac
+K1pe011participant_fan.wav, fan, frand, fan
+K1dd021participant_window.wav, window, win dont, window
+K1av111participant_one.wav, one, why, what
+K1qq111participant_shoe.wav, shoe, still, sal
+K1SB174participant_chick.wav, chick, flock, frog
+K1OS013participant_wing.wav, wing, welm, wag
+K1dd033participant_lock.wav, lock, welk, walk
+K1pb023participant_chip.wav, chip, , 
+K1TK026participant_window.wav, window, window, window
+K1MW013participant_sun.wav, sun, fun, fun
+K1lt311participant_one.wav, one, lowe, naw
+K1lm052participant_chick.wav, chick, ke, she
+K1dd084participant_lamp.wav, lamp, lamp, lap
+K1pe113participant_red.wav, red, a, ra
+K1av988participant_sick.wav, sick, saf, sae
+K1lt345participant_fox.wav, fox, wh, ort
+K1pe154participant_window.wav, window, alede bar, the leaden dar
+KT0BM522child_chick1.wav, chick1, that jeck, that chick
+K1lt141participant_fan.wav, fan, farm, fan
+K1zz501participant_lamp.wav, lamp, lamp, lamp
+K1so041participant_window.wav, window, we go, ren gol
+K1cb128participant_chick.wav, chick, tet dan, chak him
+K1lt112participant_one.wav, one, why, white
+K1lt247participant_sand.wav, sand, sand, sand
+K1lt247participant_leg.wav, leg, lak, lake
+K1so095participant_chick.wav, chick, ho, he
+K1dd044participant_zoo.wav, zoo, is you, his heo
+K1pe125participant_sick.wav, sick, jinkin, jink
+K1so072participant_run.wav, run, ran, hram
+K1lt225participant_fox.wav, fox, flock, flocks
+K1so104participant_red.wav, red, grat, red
+K1dd105participant_ship.wav, ship, , jip
+K1so104participant_lock.wav, lock, rah, flo
+K1zz501participant_fox.wav, fox, box, fox
+K1TEST1participant_lock.wav, lock, lock, lock
+K1zz017participant_wing.wav, wing, owing, a wing
+K1so095participant_one.wav, one, why, why
+K1dd105participant_chick.wav, chick, cheek, chee
+K1so068participant_window.wav, window, rin o, ringing dow
+K1lt141participant_zoo.wav, zoo, sal, hill
+K1lm081participant_red.wav, red, grad, grad
+K1dd114participant_zoo.wav, zoo, jo, shew
+K1dd052participant_sun.wav, sun, er, her
+K1lt112participant_ramp.wav, ramp, rat, rack
+K1dd044participant_sick.wav, sick, sir, sik
+K1dd021participant_fox.wav, fox, ad i know, i dat know
+K1av111participant_ramp.wav, ramp, ramp, ramp
+K1pv058participant_sand.wav, sand, bar, fr
+K1cc023participant_sun.wav, sun, sten, san
+K1lm045participant_window.wav, window, mandi, and dill
+K1lm026participant_chick.wav, chick, chek, shek
+K1cb103participant_chick.wav, chick, , a
+K1lt021participant_ship.wav, ship, e, ship
+K1so053participant_rainbow.wav, rainbow, rar yumow, rainbow
+K1cb132participant_socks.wav, socks, farap, forx
+K1lt311participant_chip.wav, chip, cat, cat
+K1cb011participant_ramp.wav, ramp, ramp, ramp
+K1cc014participant_sun.wav, sun, sang, stan
+K1TK026participant_run.wav, run, reany, money
+K1lt141participant_red.wav, red, rag, wag
+K1av988participant_ring.wav, ring, rain, ring
+K1_pe033participant_chick.wav, chick, te, sher
+K1sp611participant_lock.wav, lock, lot, loth
+K1cb024participant_chick.wav, chick, su, sock
+K1pb227participant_chick.wav, chick, sine, snap
+K1lt311participant_rock.wav, rock, rock, walk
+K1so104participant_fox.wav, fox, fox, fox
+K1jh011participant_leg.wav, leg, leg, leg
+K1so053participant_fan.wav, fan, beine, firion
+K1_pe033participant_one.wav, one, win, wine
+K1lt038participant_wing.wav, wing, ren, ring
+K1so068participant_socks.wav, socks, sack, sock
+K1RRI016participant_ramp.wav, ramp, ramp, ramp
+K1so112participant_zoo.wav, zoo, here, jl
+K1lt332participant_chip.wav, chip, yit, cap the
+K1lt038participant_sun.wav, sun, farm, san
+K1lt057participant_ring.wav, ring, wait, wig
+K1so104participant_sand.wav, sand, sa, see
+K1SB174participant_lamp.wav, lamp, namp, namp
+K1pv016participant_socks.wav, socks, wox, walks
+K1OS013participant_shoe.wav, shoe, shout, shout
+K1so104participant_rainbow.wav, rainbow, vanbot, ranbow
+K1dd073participant_rock.wav, rock, lack, lac
+K1pe154participant_sun.wav, sun, sca now, stand siih
+K1lm031participant_lock.wav, lock, not, lock
+K1cb103participant_run.wav, run, en, run
+K1lt225participant_ship.wav, ship, shaper, shap
+K1pe131participant_socks.wav, socks, facts, facts
+K1pv038participant_ramp.wav, ramp, te up, viap
+K1lt133participant_window.wav, window, win gow, renny dow
+K1lt225participant_lamp.wav, lamp, , lamb
+K1pv023participant_wing.wav, wing, mean, wing
+K1lt112participant_chip.wav, chip, , shap
+K1pe044participant_sun.wav, sun, tine, san
+K1lt345participant_wing.wav, wing, ring, ream
+K1sp611participant_sand.wav, sand, san, san
+K1so095participant_rock.wav, rock, roc, rock
+K1lm067participant_thumb.wav, thumb, m, powvum
+K1lm067participant_run.wav, run, anning, funning
+K1pb318participant_run.wav, run, fi, fightin
+K1dd105participant_thumb.wav, thumb, stub, stob
+K1lt247participant_lamp.wav, lamp, lamp, lamp
+K1pe022participant_shoe.wav, shoe, shill, shoe
+K1pe044participant_window.wav, window, window, window
+K1xl011participant_ring.wav, ring, rain, ring
+K1lm026participant_fox.wav, fox, fox, fox
+K1pv016participant_fan.wav, fan, har, qite
+K1pe147participant_shoe.wav, shoe, shall, shiel
+K1TEST1participant_chip.wav, chip, chip, chip
+K1pb304participant_sick.wav, sick, tetu, seck
+K1dd084participant_lock.wav, lock, lock, locked
+K1dd021participant_socks.wav, socks, sa, sac
+K1pb318participant_window.wav, window, wingow, went out
+K1lm018participant_ring.wav, ring, oiin, waitin
+K1dd092participant_sick.wav, sick, sae, sake
+K1cc014participant_lock.wav, lock, la, lot
+K1av122participant_sick.wav, sick, sick, sick
+file name, target, base prediction, large predictionK1pe011participant_leg.wav, leg, grak, lake
+K1lt332participant_fan.wav, fan, five, fob
+K1MW013participant_sand.wav, sand, farnd, farmed
+K1lt158participant_shoe.wav, shoe, sir, sham
+K1xl011participant_chip.wav, chip, chi, chip
+K1lm081participant_rainbow.wav, rainbow, grainbac, ranbow
+K1cb128participant_fan.wav, fan, well, wang
+K1cb011participant_sun.wav, sun, sam, san
+K1mo011participant_ramp.wav, ramp, ramp, ramp
+K1pe113participant_ship.wav, ship, ship, ship
+K1pe055participant_shoe.wav, shoe, she, shious
+K1cc014participant_wing.wav, wing, ming, ming
+K1so104participant_lamp.wav, lamp, here, lamp
+K1OS013participant_zoo.wav, zoo, nere, now
+K1dd092participant_sand.wav, sand, fn, armed
+K1RRI016participant_lamp.wav, lamp, lamp, lamp
+K1cb024participant_red.wav, red, wrath, re
+K1so112participant_ring.wav, ring, rain, wing
+K1pe125participant_sand.wav, sand, sand, sayand
+K1pb023participant_sand.wav, sand, side, sides
+K1lt045participant_chick.wav, chick, check, cheqk
+K1pb016participant_ship.wav, ship, bou in, bow
+K1pe088participant_rainbow.wav, rainbow, rainbow, rainbow
+K1pb016participant_sun.wav, sun, sale, salle
+K1zz017participant_sun.wav, sun, son, sun
+K1pv038participant_lock.wav, lock, a, lau
+K1sc011participant_wing.wav, wing, wing, wing
+K1lt214participant_ring.wav, ring, ek, wink
+K1lt247participant_window.wav, window, when go, any doubt
+K1so036participant_rock.wav, rock, wha, wa
+K1qq011participant_wing.wav, wing, wing, wing
+K1lm081participant_sun.wav, sun, sade, sadly
+K1dd092participant_window.wav, window, win g, an wind out
+K1cb103participant_sun.wav, sun, phom, thon
+K1lt121participant_lamp.wav, lamp, where, well
+K1WA246participant_sick.wav, sick, fo, thick
+KT0BM522child_walk1.wav, walk1, wa, wap
+K1so104participant_chick.wav, chick, jik, chick
+K1pe125participant_fox.wav, fox, foxs, fox
+K1dd092participant_ring.wav, ring, il, ring
+K1cb011participant_socks.wav, socks, nach, elack
+K1cc014participant_ring.wav, ring, thing, ing
+K1av111participant_shoe.wav, shoe, shoe, shoe
+K1pe066participant_zoo.wav, zoo, er, vew
+K1jh011participant_red.wav, red, red, red
+K1pe113participant_chick.wav, chick, ch, chet
+K1lt158participant_one.wav, one, y, wy
+K1pe077participant_sun.wav, sun, fun, fun
+K1pe113participant_shoe.wav, shoe, shill, shill
+K1lm081participant_sand.wav, sand, sad, san
+K1lt328participant_socks.wav, socks, dan, donch
+K1pe162participant_ship.wav, ship, stoc, shop
+K1pb227participant_chip.wav, chip, sipe, seba
+K1pb227participant_ramp.wav, ramp, ank ga god, etata
+K1pe162participant_window.wav, window, wen dou, uen deu
+K1RRI016participant_sand.wav, sand, sulent, sand
+K1pe066participant_ramp.wav, ramp, ramp, whimp
+K1lt214participant_sick.wav, sick, fair, fac
+K1pe011participant_fan.wav, fan, frand, fan
+K1dd021participant_window.wav, window, win dont, window
+K1av111participant_one.wav, one, why, what
+K1qq111participant_shoe.wav, shoe, still, sal
+K1SB174participant_chick.wav, chick, flock, frog
+K1OS013participant_wing.wav, wing, welm, wag
+K1dd033participant_lock.wav, lock, welk, walk
+K1pb023participant_chip.wav, chip, , 
+K1TK026participant_window.wav, window, window, window
+K1MW013participant_sun.wav, sun, fun, fun
+K1lt311participant_one.wav, one, lowe, naw
+K1lm052participant_chick.wav, chick, ke, she
+K1dd084participant_lamp.wav, lamp, lamp, lap
+K1pe113participant_red.wav, red, a, ra
+K1av988participant_sick.wav, sick, saf, sae
+K1lt345participant_fox.wav, fox, wh, ort
+K1pe154participant_window.wav, window, alede bar, the leaden dar
+KT0BM522child_chick1.wav, chick1, that jeck, that chick
+K1lt141participant_fan.wav, fan, farm, fan
+K1zz501participant_lamp.wav, lamp, lamp, lamp
+K1so041participant_window.wav, window, we go, ren gol
+K1cb128participant_chick.wav, chick, tet dan, chak him
+K1lt112participant_one.wav, one, why, white
+K1lt247participant_sand.wav, sand, sand, sand
+K1lt247participant_leg.wav, leg, lak, lake
+K1so095participant_chick.wav, chick, ho, he
+K1dd044participant_zoo.wav, zoo, is you, his heo
+K1pe125participant_sick.wav, sick, jinkin, jink
+K1so072participant_run.wav, run, ran, hram
+K1lt225participant_fox.wav, fox, flock, flocks
+K1so104participant_red.wav, red, grat, red
+K1dd105participant_ship.wav, ship, , jip
+K1so104participant_lock.wav, lock, rah, flo
+K1zz501participant_fox.wav, fox, box, fox
+K1TEST1participant_lock.wav, lock, lock, lock
+K1zz017participant_wing.wav, wing, owing, a wing
+K1so095participant_one.wav, one, why, why
+K1dd105participant_chick.wav, chick, cheek, chee
+K1so068participant_window.wav, window, rin o, ringing dow
+K1lt141participant_zoo.wav, zoo, sal, hill
+K1lm081participant_red.wav, red, grad, grad
+K1dd114participant_zoo.wav, zoo, jo, shew
+K1dd052participant_sun.wav, sun, er, her
+K1lt112participant_ramp.wav, ramp, rat, rack
+K1dd044participant_sick.wav, sick, sir, sik
+K1dd021participant_fox.wav, fox, ad i know, i dat know
+K1av111participant_ramp.wav, ramp, ramp, ramp
+K1pv058participant_sand.wav, sand, bar, fr
+K1cc023participant_sun.wav, sun, sten, san
+K1lm045participant_window.wav, window, mandi, and dill
+K1lm026participant_chick.wav, chick, chek, shek
+K1cb103participant_chick.wav, chick, , a
+K1lt021participant_ship.wav, ship, e, ship
+K1so053participant_rainbow.wav, rainbow, rar yumow, rainbow
+K1cb132participant_socks.wav, socks, farap, forx
+K1lt311participant_chip.wav, chip, cat, cat
+K1cb011participant_ramp.wav, ramp, ramp, ramp
+K1cc014participant_sun.wav, sun, sang, stan
+K1TK026participant_run.wav, run, reany, money
+K1lt141participant_red.wav, red, rag, wag
+K1av988participant_ring.wav, ring, rain, ring
+K1_pe033participant_chick.wav, chick, te, sher
+K1sp611participant_lock.wav, lock, lot, loth
+K1cb024participant_chick.wav, chick, su, sock
+K1pb227participant_chick.wav, chick, sine, snap
+K1lt311participant_rock.wav, rock, rock, walk
+K1so104participant_fox.wav, fox, fox, fox
+K1jh011participant_leg.wav, leg, leg, leg
+K1so053participant_fan.wav, fan, beine, firion
+K1_pe033participant_one.wav, one, win, wine
+K1lt038participant_wing.wav, wing, ren, ring
+K1so068participant_socks.wav, socks, sack, sock
+K1RRI016participant_ramp.wav, ramp, ramp, ramp
+K1so112participant_zoo.wav, zoo, here, jl
+K1lt332participant_chip.wav, chip, yit, cap the
+K1lt038participant_sun.wav, sun, farm, san
+K1lt057participant_ring.wav, ring, wait, wig
+K1so104participant_sand.wav, sand, sa, see
+K1SB174participant_lamp.wav, lamp, namp, namp
+K1pv016participant_socks.wav, socks, wox, walks
+K1OS013participant_shoe.wav, shoe, shout, shout
+K1so104participant_rainbow.wav, rainbow, vanbot, ranbow
+K1dd073participant_rock.wav, rock, lack, lac
+K1pe154participant_sun.wav, sun, sca now, stand siih
+K1lm031participant_lock.wav, lock, not, lock
+K1cb103participant_run.wav, run, en, run
+K1lt225participant_ship.wav, ship, shaper, shap
+K1pe131participant_socks.wav, socks, facts, facts
+K1pv038participant_ramp.wav, ramp, te up, viap
+K1lt133participant_window.wav, window, win gow, renny dow
+K1lt225participant_lamp.wav, lamp, , lamb
+K1pv023participant_wing.wav, wing, mean, wing
+K1lt112participant_chip.wav, chip, , shap
+K1pe044participant_sun.wav, sun, tine, san
+K1lt345participant_wing.wav, wing, ring, ream
+K1sp611participant_sand.wav, sand, san, san
+K1so095participant_rock.wav, rock, roc, rock
+K1lm067participant_thumb.wav, thumb, m, powvum
+K1lm067participant_run.wav, run, anning, funning
+K1pb318participant_run.wav, run, fi, fightin
+K1dd105participant_thumb.wav, thumb, stub, stob
+K1lt247participant_lamp.wav, lamp, lamp, lamp
+K1pe022participant_shoe.wav, shoe, shill, shoe
+K1pe044participant_window.wav, window, window, window
+K1xl011participant_ring.wav, ring, rain, ring
+K1lm026participant_fox.wav, fox, fox, fox
+K1pv016participant_fan.wav, fan, har, qite
+K1pe147participant_shoe.wav, shoe, shall, shiel
+K1TEST1participant_chip.wav, chip, chip, chip
+K1pb304participant_sick.wav, sick, tetu, seck
+K1dd084participant_lock.wav, lock, lock, locked
+K1dd021participant_socks.wav, socks, sa, sac
+K1pb318participant_window.wav, window, wingow, went out
+K1lm018participant_ring.wav, ring, oiin, waitin
+K1dd092participant_sick.wav, sick, sae, sake
+K1cc014participant_lock.wav, lock, la, lot
+K1av122participant_sick.wav, sick, sick, sick
+K1dd073participant_sun.wav, sun, fun, fan
+K1lt112participant_lamp.wav, lamp, rap, rap
+K1qq111participant_sick.wav, sick, thick, thick
+K1pb318participant_rainbow.wav, rainbow, raing back, ran bout
+K1cb116participant_chip.wav, chip, chop, chap
+K1AM166participant_ramp.wav, ramp, hil, hill
+K1WA246participant_lock.wav, lock, lock, lach
+K1lt017participant_window.wav, window, win the, ren thou
+K1lt038participant_shoe.wav, shoe, ha, tero
+K1lt311participant_chick.wav, chick, kit, kik
+K1lt332participant_thumb.wav, thumb, fabli, sably
+K1pb227participant_fox.wav, fox, lock, wack
+K1pe077participant_fan.wav, fan, fan, fam
+K1so095participant_ship.wav, ship, valt, fault
+K1pv058participant_lock.wav, lock, whole, wa
+K1lt112participant_shoe.wav, shoe, share, shel
+K1EB212participant_zoo.wav, zoo, exi, exeo
+K1qq111participant_run.wav, run, van, ran
+K1lt332participant_one.wav, one, wine, one
+K1lt307participant_one.wav, one, war and, wine
+K1so095participant_sun.wav, sun, five, fit
+K1pe077participant_sick.wav, sick, tock, fec
+K1pe147participant_rock.wav, rock, rock, rock
+K1so104participant_fan.wav, fan, fair, fair
+K1lt328participant_sun.wav, sun, fon, fawn
+K1OS013participant_chick.wav, chick, animal, lite al
+K1av977participant_run.wav, run, ran, run
+K1av988participant_run.wav, run, bran, ran
+K1so053participant_leg.wav, leg, red, raged
+K1MW013participant_thumb.wav, thumb, farm, fam
+K1lt202participant_one.wav, one, oe, on
+K1lt311participant_run.wav, run, an, on
+K1pv046participant_wing.wav, wing, wrin, green
+K1qq021participant_wing.wav, wing, wing, wing
+K1so036participant_zoo.wav, zoo, stel, still
+K1so072participant_window.wav, window, an foul, or an  felo
+K1pv016participant_run.wav, run, blending, one name
+K1AM166participant_lamp.wav, lamp, lanp, lamp
+K1pb023participant_leg.wav, leg, theye, lege
+K1pe113participant_window.wav, window, windon, wend out
+K1lt214participant_chip.wav, chip, chalk, sure
+K1lt133participant_lamp.wav, lamp, lamp, lamp
+K1zz501participant_lock.wav, lock, lock, lock
+K1pe131participant_rock.wav, rock, rack, rock
+K1pe066participant_shoe.wav, shoe, you, shel
+K1cc014participant_zoo.wav, zoo, o, si
+KT0BM584child_chick1.wav, chick1, of this cheek, this cheek
+K1pe077participant_ramp.wav, ramp, plam, lamb
+K1sc011participant_one.wav, one, why, ry
+K1TK026participant_one.wav, one, one, one
+K1pe154participant_rock.wav, rock, all, all ugt
+K1RRI016participant_chip.wav, chip, chip, chap
+K1av988participant_wing.wav, wing, wind, wing
+K1pe131participant_lock.wav, lock, lackin, lack
+K1so104participant_sun.wav, sun, sen, san
+K1lt307participant_fan.wav, fan, faerand, f eren
+K1lt021participant_red.wav, red, rat, rat
+K1dd084participant_run.wav, run, line, line
+K1pe131participant_shoe.wav, shoe, hill, chew
+K1pv023participant_rock.wav, rock, wha, wack
+K1WA246participant_wing.wav, wing, wing, wing
+K1dd052participant_run.wav, run, la, hu a
+K1pe055participant_rainbow.wav, rainbow, rainbow, reindow
+KT0BM544child_rock1.wav, rock1, this la, that's lark
+K1pe131participant_fan.wav, fan, fer, fan
+K1av977participant_sick.wav, sick, sick, sick
+K1MW013participant_one.wav, one, why, one
+K1lt328participant_window.wav, window, prinka, prenta
+K1lt332participant_shoe.wav, shoe, sill, sheeld
+K1pe044participant_sick.wav, sick, sir, sick
+K1av988participant_red.wav, red, rid, ride
+K1mo011participant_chip.wav, chip, chip, shik
+K1pe162participant_wing.wav, wing, wen, we
+K1so072participant_ship.wav, ship, ship, ship
+K1pb304participant_zoo.wav, zoo, though, zo
+K1dd033participant_fox.wav, fox, rock, flox
+K1zz017participant_leg.wav, leg, legged, leg
+K1dd092participant_sun.wav, sun, son, son
+K1pb023participant_fox.wav, fox, frank, fax
+K1pe113participant_chip.wav, chip, chep, ship
+K1so036participant_ring.wav, ring, rina, ring
+K1lt236participant_ring.wav, ring, wng, winged
+K1so036participant_ship.wav, ship, s, ship
+K1so068participant_fan.wav, fan, , 
+K1so104participant_run.wav, run, run, run
+K1EB212participant_shoe.wav, shoe, saro, sail
+K1dd021participant_zoo.wav, zoo, ad on thot, idan no
+K1cc023participant_ship.wav, ship, ship, ship
+K1pe113participant_sand.wav, sand, say on, saon
+K1so104participant_chip.wav, chip, chip, chip
+K1pe066participant_thumb.wav, thumb, fam, qran
+K1lt311participant_ring.wav, ring, riing, lying
+K1OS013participant_red.wav, red, s tis right now the game is to say as on the stricke what o you say, what's death right now the game is to sing i's on the strickin what doyou siy
+K1lm026participant_wing.wav, wing, when, wing
+K1pb212participant_chip.wav, chip, sa, jap
+K1dd044participant_rock.wav, rock, walk, walk
+K1lt133participant_fan.wav, fan, fair, fair and
+K1lt021participant_thumb.wav, thumb, , tem
+K1lt141participant_rainbow.wav, rainbow, wane bell, wain bow
+K1lm067participant_sun.wav, sun, san, starling
+K1cb024participant_ramp.wav, ramp, voice, west
+K1pb016participant_shoe.wav, shoe, eshep, shere
+K1so053participant_sun.wav, sun, fine, fan
+K1TK026participant_red.wav, red, rat, laugh
+K1lt141participant_leg.wav, leg, tha, foot
+K1qq011participant_ramp.wav, ramp, ramp, ramp
+K1jh011participant_fan.wav, fan, fan, fan
+K1pb304participant_fox.wav, fox, fok, fark
+K1cc014participant_leg.wav, leg, green, wak
+K1cb128participant_zoo.wav, zoo, he, sher
+K1lt202participant_lamp.wav, lamp, ron, ron
+K1pv038participant_ring.wav, ring, rung, rank
+K1cc056participant_chick.wav, chick, sick, sick
+K1cb103participant_rainbow.wav, rainbow, rainbow, wainbow
+K1lt202participant_socks.wav, socks, shall, shol
+K1cb038participant_sick.wav, sick, sec, sack
+K1pe125participant_thumb.wav, thumb, some, sam
+K1lt247participant_ramp.wav, ramp, where, ramp
+K1pb016participant_rainbow.wav, rainbow, rainbow, rainbow
+K1EB212participant_socks.wav, socks, shaw, shac
+K1pe077participant_sand.wav, sand, sara, sar
+K1pe011participant_sun.wav, sun, fan, fran
+K1so095participant_wing.wav, wing, que, queen
+K1pb212participant_ring.wav, ring, mean, run
+K1so053participant_chick.wav, chick, o, chick
+K1RRI016participant_fox.wav, fox, fox, fog
+K1KM243participant_red.wav, red, reb, rab
+K1TK017participant_lamp.wav, lamp, , 
+K1pe055participant_lock.wav, lock, lock, lock
+K1pv046participant_fox.wav, fox, ingery, kingary
+K1lt247participant_chick.wav, chick, tuc, chek
+K1TK017participant_one.wav, one, one, one
+K1so095participant_leg.wav, leg, land, laugh
+K1lm018participant_fan.wav, fan, fan, van
+K1lt247participant_sun.wav, sun, son, san
+KT0BM533child_chick1.wav, chick1, ci, che
+K1qq111participant_fox.wav, fox, fox, fox
+K1pv016participant_thumb.wav, thumb, hal, hum
+K1pv046participant_lock.wav, lock, bac, wack
+K1cb024participant_sick.wav, sick, he, he
+K1TK026participant_lamp.wav, lamp, lantern, lantern
+K1lt112participant_rainbow.wav, rainbow, rinba, rain thou
+K1lm052participant_window.wav, window, wed dou, widdow
+K1lt311participant_fox.wav, fox, flock, flock
+K1cb024participant_wing.wav, wing, my, quis
+K1TK017participant_lock.wav, lock, sha, sheran
+K1cb128participant_leg.wav, leg, wank, whak
+K1pe154participant_thumb.wav, thumb, famine, fhama
+K1lt345participant_sick.wav, sick, sick, sick
+K1dd092participant_fan.wav, fan, pond, pond
+K1lm052participant_ring.wav, ring, owing, awing
+K1pe088participant_red.wav, red, brad, red
+K1so041participant_sand.wav, sand, son, sam
+K1zz501participant_red.wav, red, rit, red
+K1pb212participant_red.wav, red, rom, rab
+K1lt045participant_window.wav, window, rundau, on dou
+K1pe044participant_zoo.wav, zoo, e, you
+K1lt141participant_fox.wav, fox, fox, fox
+K1cc044participant_sick.wav, sick, sir, sick
+K1lt202participant_fan.wav, fan, fine, fire
+K1pb035participant_window.wav, window, wind do, windo
+K1lm067participant_shoe.wav, shoe, sel, steal
+K1OS013participant_sand.wav, sand, , that
+K1lt017participant_rainbow.wav, rainbow, rainbowgh, rainbow
+K1so083participant_shoe.wav, shoe, e, 
+K1jh011participant_ramp.wav, ramp, ramp, ramp
+K1RRI016participant_zoo.wav, zoo, sail, so
+K1pb023participant_window.wav, window, grindol, window
+K1pv016participant_leg.wav, leg, ay, lag
+K1av122participant_chip.wav, chip, chip, chip
+K1TK017participant_fan.wav, fan, fan, fan
+K1pe077participant_rock.wav, rock, blacked, rocked
+K1lm045participant_run.wav, run, one, run
+K1pe044participant_fan.wav, fan, fa, van
+K1pv038participant_rock.wav, rock, wap, wap
+KT0BM551child_walk1.wav, walk1, i what, faith wack
+K1So022participant_zoo.wav, zoo, her, you
+K1pb212participant_sun.wav, sun, got, kan
+K1cb038participant_lock.wav, lock, a, wa
+K1av111participant_rock.wav, rock, rock, rock
+K1lm031participant_chip.wav, chip, , 
+K1lt133participant_ship.wav, ship, shap, shap
+K1so053participant_ramp.wav, ramp, ramp, ramp
+K1So022participant_one.wav, one, hor and, one
+K1lm026participant_lock.wav, lock, la, lack
+K1lt021participant_sun.wav, sun, , fa
+K1dd073participant_chip.wav, chip, deep, tap
+K1lt236participant_shoe.wav, shoe, sh, sho
+K1lt328participant_rainbow.wav, rainbow, lan boun, rain bow
+K1TK026participant_ring.wav, ring, wing, win
+K1dd084participant_wing.wav, wing, feather, feather
+K1sc011participant_lamp.wav, lamp, la, layr
+K1pe044participant_run.wav, run, ran, ran
+K1AM166participant_run.wav, run, i, rid
+K1EB212participant_rainbow.wav, rainbow, reinbow, wainbow
+K1lt332participant_sick.wav, sick, fact, thec
+K1pe088participant_window.wav, window, window, window
+K1lt038participant_window.wav, window, lady gelr, ringo
+K1qq011participant_sun.wav, sun, son, son
+KT0BM562child_walk1.wav, walk1, is what i go long, tis what igon on
+K1lt133participant_chick.wav, chick, ju, ji un
+K1So022participant_red.wav, red, rac, rack
+K1KM243participant_fox.wav, fox, fa, foc
+K1lm052participant_lock.wav, lock, lon, or
+K1lm018participant_lamp.wav, lamp, lamb, lamp
+K1pe044participant_thumb.wav, thumb, found, tham
+K1dd033participant_ring.wav, ring, wing, ring
+K1pv046participant_lamp.wav, lamp, miamp, moyamph
+K1EB212participant_run.wav, run, whining, wawning
+K1pb212participant_zoo.wav, zoo, feel, fear or
+K1dd073participant_lock.wav, lock, oa, lac
+K1pv038participant_window.wav, window, rin down, rendo
+K1OS013participant_thumb.wav, thumb, a, va
+K1RRI016participant_ring.wav, ring, ting, ring
+K1lm081participant_wing.wav, wing, wagy, rages
+K1lt141participant_chip.wav, chip, ti, chip
+K1av988participant_shoe.wav, shoe, sho, shoe
+K1so112participant_run.wav, run, wine, one
+K1_pe033participant_leg.wav, leg, lat, lad
+K1TK026participant_ramp.wav, ramp, so like a gable like you go down a, alaw like ain't gaple like you go down ug
+K1pe154participant_run.wav, run, rawbin, raddy
+K1So022participant_wing.wav, wing, ring, ring
+K1lt202participant_rock.wav, rock, wa, walk
+K1dd084participant_sick.wav, sick, six, sec
+K1cb024participant_leg.wav, leg, we gi, rave gan
+K1pe055participant_ramp.wav, ramp, ramp, ramph
+K1EB212participant_one.wav, one, wine, rhine
+K1pb212participant_window.wav, window, when now, when thou
+K1RRI016participant_lock.wav, lock, reluc, lop
+K1pb227participant_shoe.wav, shoe, sure, so
+K1dd092participant_chip.wav, chip, tap, tamp
+K1pe125participant_socks.wav, socks, socks, sarks
+K1pe022participant_rainbow.wav, rainbow, i am bou, rein bow
+K1so072participant_socks.wav, socks, fact, farx
+K1lt328participant_ramp.wav, ramp, , 
+K1lt057participant_one.wav, one, rine, wine
+K1pb016participant_window.wav, window, went out, wentol
+K1cc056participant_lamp.wav, lamp, to, ther
+K1dd092participant_one.wav, one, wern, one
+K1_pe033participant_red.wav, red, wed, lad
+K1sc011participant_run.wav, run, ra, gra
+K1lt038participant_socks.wav, socks, sacs, senacs
+K1cc014participant_lamp.wav, lamp, me, lap
+K1cc044participant_zoo.wav, zoo, der, vew
+K1av988participant_chip.wav, chip, chip, chip
+K1xl011participant_run.wav, run, run, run
+K1AY244participant_wing.wav, wing, when, wing
+K1_pe033participant_sick.wav, sick, thik, fact
+K1zz301participant_lock.wav, lock, luck, lock
+K1pe162participant_lamp.wav, lamp, arp, lamp
+K1lt045participant_ring.wav, ring, ring, ring
+K1cc014participant_red.wav, red, rowd, rag
+K1zz501participant_run.wav, run, ran, run
+K1pv058participant_chip.wav, chip, said, set
+K1pe125participant_lamp.wav, lamp, way ump, way ump
+K1dd033participant_sand.wav, sand, irlo, erlow
+K1av988participant_sun.wav, sun, son, son
+K1lt214participant_fox.wav, fox, faf, far is
+K1lm031participant_thumb.wav, thumb, garm, gum
+K1WA246participant_chick.wav, chick, dick, cick
+K1pe162participant_one.wav, one, or any, waney
+K1dd044participant_rainbow.wav, rainbow, wabow, rainbow
+K1TEST1participant_one.wav, one, one, one
+K1sc011participant_thumb.wav, thumb, some, sam
+K1zz301participant_run.wav, run, run, run
+K1dd092participant_thumb.wav, thumb, van, m
+K1cb132participant_fan.wav, fan, farm, farm
+K1lt311participant_lamp.wav, lamp, vam, lam
+K1dd033participant_leg.wav, leg, big, vag
+K1cc044participant_run.wav, run, why, wid
+K1lt345participant_lamp.wav, lamp, damp, lamp
+K1pe066participant_socks.wav, socks, fout, fax
+K1cc056participant_red.wav, red, rout, rab
+K1mo011participant_red.wav, red, brit, red
+K1pe154participant_socks.wav, socks, sai, sacti
+K1so053participant_run.wav, run, rine, ride
+K1pe022participant_ship.wav, ship, sh, se
+K1cb116participant_one.wav, one, we, when
+K1xl011participant_sand.wav, sand, sea and, sand
+K1cb116participant_socks.wav, socks, shacks, shacks
+K1dd073participant_wing.wav, wing, ren, ran
+K1dd105participant_ramp.wav, ramp, pell, camp
+K1pe113participant_lock.wav, lock, lon, loc
+K1cc056participant_window.wav, window, went down, wenst thou
+K1dd033participant_rock.wav, rock, ran, rock
+K1lt038participant_thumb.wav, thumb, tan, fan
+K1_pe033participant_ship.wav, ship, se, si
+K1zz501participant_leg.wav, leg, lay, lake
+K1so072participant_wing.wav, wing, ren, wing
+K1av988participant_ramp.wav, ramp, ram, ramp
+K1lt214participant_red.wav, red, w be, wag
+K1pe154participant_red.wav, red, , aa
+K1WA246participant_fan.wav, fan, faeon, fan
+K1lt057participant_fox.wav, fox, fox, fox
+K1cc023participant_lamp.wav, lamp, rap, rap
+K1cb024participant_rock.wav, rock, , a an
+K1KM243participant_rock.wav, rock, walk, walked
+K1_pe033participant_zoo.wav, zoo, though, fail
+K1pe125participant_ship.wav, ship, she, ship
+K1cb011participant_one.wav, one, went, white
+K1EB212participant_leg.wav, leg, log, lalga
+K1lt057participant_rainbow.wav, rainbow, wainbo, wainbow
+K1lt038participant_fan.wav, fan, ful on, inwom
+K1jh011participant_sick.wav, sick, sick, six
+K1qq111participant_sand.wav, sand, fand, fanned
+K1lm067participant_chick.wav, chick, so, sick
+K1lt121participant_zoo.wav, zoo, dew, two
+K1cc023participant_leg.wav, leg, wig, wage
+K1so011participant_rock.wav, rock, la, wak
+K1cc044participant_chip.wav, chip, check, chek
+K1lt202participant_ramp.wav, ramp, round, wamp
+K1lm018participant_rock.wav, rock, wha, wak
+K1WA246participant_rock.wav, rock, whack, wack
+K1zz501participant_zoo.wav, zoo, sue, sou
+K1pe055participant_one.wav, one, why, wine
+K1OS013participant_window.wav, window, that, tat
+K1RRI016participant_rock.wav, rock, loc, the lock
+K1pe022participant_one.wav, one, why, what
+K1pe147participant_sun.wav, sun, tine, fun
+K1pb318participant_fox.wav, fox, box, locks
+K1so036participant_lock.wav, lock, fool, ool
+K1pb035participant_lamp.wav, lamp, wamp, lap
+K1cc044participant_window.wav, window, manca, lend go
+K1cb132participant_rainbow.wav, rainbow, be bown, rain bowe
+K1pv023participant_lamp.wav, lamp, , wamb
+K1cc067participant_ramp.wav, ramp, ean, way up
+K1av111participant_lamp.wav, lamp, lamp, lamp
+K1cb116participant_sand.wav, sand, form, lamp
+K1qq021participant_ship.wav, ship, ship, ship
+K1cb011participant_lock.wav, lock, h i don't know what i called, ahh i don't know what it's called
+K1lt057participant_run.wav, run, what, wid
+K1dd084participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lt141participant_thumb.wav, thumb, dum, tum
+KT0BM584child_lock1.wav, lock1, this letter ne, this one no
+K1pe125participant_chick.wav, chick, so, sort
+K1so068participant_lamp.wav, lamp, or nam, lamp
+K1KM243participant_socks.wav, socks, sot, sot
+K1cc014participant_ramp.wav, ramp, ramp, ramp
+K1cc035participant_wing.wav, wing, a wan, a weeng
+K1cc035participant_window.wav, window, and own, and dout
+K1cb116participant_ramp.wav, ramp, sh am, m
+K1lt133participant_one.wav, one, why, why
+KT0BM533child_walk1.wav, walk1, what, wack
+K1pv023participant_one.wav, one, blind, wine
+K1pe077participant_window.wav, window, window, wendel
+K1lt017participant_ship.wav, ship, , surt
+K1mo011participant_shoe.wav, shoe, sho, shu
+K1pe131participant_red.wav, red, rab, rout
+K1lt307participant_rock.wav, rock, what, wak
+K1lt158participant_sun.wav, sun, sarmy h, sa
+KT0BM562child_lick1.wav, lick1, thank tetkes o one i don't know, think ye that's right  thar one i don no so
+K1pb016participant_wing.wav, wing, i don't blow it thou earliest, i don't know it that or lis
+K1cb024participant_run.wav, run, , 
+K1pb212participant_fan.wav, fan, shamp, fam
+K1zz017participant_fox.wav, fox, fox, fox
+K1pe147participant_rainbow.wav, rainbow, rainbo, rainbom
+K1lt225participant_leg.wav, leg, huay, or wave
+K1SB174participant_sand.wav, sand, say is, sald
+K1pe131participant_chick.wav, chick, sac, check
+K1pb035participant_zoo.wav, zoo, dow, giwa
+K1lt345participant_ring.wav, ring, we, queen
+K1so083participant_sand.wav, sand, for, waopt
+K1lt021participant_lamp.wav, lamp, lap, lap
+K1pe113participant_lamp.wav, lamp, lamp, lamp
+K1cc056participant_wing.wav, wing, bide, bud
+K1pe088participant_leg.wav, leg, lake, leg
+K1_pe033participant_window.wav, window, rendau, wendou
+K1lt236participant_ship.wav, ship, bot, boat
+K1cc023participant_sick.wav, sick, sick, sick
+K1pb304participant_ring.wav, ring, wing, ring
+K1pb318participant_socks.wav, socks, soc, sak
+K1lt017participant_sun.wav, sun, sa, sad
+K1qq011participant_shoe.wav, shoe, sho, shoe
+K1pv058participant_lamp.wav, lamp, nap, loud
+K1pb227participant_lock.wav, lock, gos, gos
+K1lm067participant_rainbow.wav, rainbow, alabro, alainbo
+K1lt328participant_sick.wav, sick, gerda, gurb
+K1lm031participant_wing.wav, wing, ro, ree
+K1pv058participant_fan.wav, fan, fair, there
+K1cb128participant_one.wav, one, clan, one
+K1pe011participant_window.wav, window, onder, window
+K1_pe033participant_sun.wav, sun, sign, sign
+K1dd092participant_ship.wav, ship, bout, belt
+K1qq011participant_leg.wav, leg, leg, lag
+K1lt141participant_lamp.wav, lamp, afago again, i forgo again
+K1MW013participant_window.wav, window, when doll, gwendolp
+K1cc044participant_wing.wav, wing, o, lean
+K1TK026participant_sun.wav, sun, a fine, a fan
+K1av111participant_ship.wav, ship, ship, ship
+K1cb128participant_shoe.wav, shoe, shill, shel
+K1sp611participant_fan.wav, fan, fan, fan
+K1lt038participant_red.wav, red, rat, racked
+K1av122participant_rock.wav, rock, rauph, raw
+K1lt141participant_window.wav, window, winny doue, win do
+K1OS013participant_rainbow.wav, rainbow, rabout, ribe ou
+K1lm052participant_sick.wav, sick, cir, sick
+K1so068participant_ramp.wav, ramp, reim, rim
+K1av122participant_run.wav, run, ren, ren
+K1pe131participant_run.wav, run, ran, rad
+K1cc035participant_rainbow.wav, rainbow, rimbulg, rembog
+K1cc056participant_ramp.wav, ramp, and, and
+K1cb011participant_leg.wav, leg, lake, like
+K1pe113participant_leg.wav, leg, led, lag
+K1dd052participant_fan.wav, fan, a, o
+K1pb023participant_wing.wav, wing, wing, rin
+K1lm067participant_socks.wav, socks, socks, socks
+K1pb304participant_rock.wav, rock, rock, rock
+K1zz301participant_rock.wav, rock, roc, rock
+K1pe077participant_wing.wav, wing, ran, lang
+K1lt121participant_thumb.wav, thumb, shamp, fap
+K1dd105participant_window.wav, window, rindow, window
+K1pb212participant_thumb.wav, thumb, flam, fham
+KT0BM551child_lick1.wav, lick1, what mis e ham, what's this  am cla
+K1cb128participant_thumb.wav, thumb, bam, bam
+K1cb116participant_ring.wav, ring, gray, rain
+K1TK017participant_sand.wav, sand, sand, sand
+K1pb035participant_socks.wav, socks, docks, sarks
+K1cb038participant_one.wav, one, ap, awar
+K1pv016participant_sick.wav, sick, lik, smoke
+K1lt045participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lt141participant_sand.wav, sand, sand, saon
+K1pb023participant_socks.wav, socks, sat, sat
+K1TK026participant_shoe.wav, shoe, a shoe, a shoe
+K1pv058participant_ramp.wav, ramp, rare, rap
+K1so072participant_ring.wav, ring, rain, whain
+K1lm031participant_ring.wav, ring, a, ring
+K1lm045participant_red.wav, red, red, red
+K1lm067participant_window.wav, window, minga, ring doll
+K1cc023participant_ramp.wav, ramp, lamp, nap
+K1pb304participant_chip.wav, chip, ceck, chap
+K1dd033participant_ramp.wav, ramp, irlo, arle
+K1so104participant_leg.wav, leg, lot, bes love
+K1pe055participant_ship.wav, ship, si, ship
+K1RRI016participant_socks.wav, socks, shocks, shops
+K1lt141participant_ship.wav, ship, ship, si
+K1av977participant_fan.wav, fan, fain, fair
+K1lt236participant_fan.wav, fan, peon, fan
+K1lm052participant_sun.wav, sun, stan, sad
+K1dd044participant_red.wav, red, a the, wheres
+K1_pe033participant_run.wav, run, whon, what
+K1lt311participant_wing.wav, wing, am, am
+K1pb227participant_zoo.wav, zoo, so, so
+K1dd105participant_fan.wav, fan, ad, he owed
+K1so083participant_ship.wav, ship, sh, sa
+K1TK026participant_wing.wav, wing, reng her bact, ringing her back
+K1jh011participant_shoe.wav, shoe, shoe, shoe
+K1dd052participant_wing.wav, wing, ce, cheer
+K1lt202participant_chick.wav, chick, sock, sik
+K1WA246participant_ship.wav, ship, ship, ship
+K1lt311participant_socks.wav, socks, looked, locked
+K1so011participant_fox.wav, fox, fox, fox
+K1lt247participant_chip.wav, chip, , chup
+K1AY244participant_run.wav, run, o i, hurai
+K1MW013participant_red.wav, red, bread, red
+K1pb035participant_fan.wav, fan, frend, frind
+K1AM166participant_wing.wav, wing, wee, wel
+K1pe066participant_fan.wav, fan, fear, fear and
+K1pv038participant_red.wav, red, rab, rab
+K1pe113participant_rainbow.wav, rainbow, winbow, rainbow
+K1cc067participant_lock.wav, lock, ar, what
+K1So022participant_leg.wav, leg, blake, lake
+K1pb023participant_shoe.wav, shoe, , she
+K1lt158participant_ring.wav, ring, grim, grown
+K1pe077participant_ship.wav, ship, het, ship
+K1pb035participant_rainbow.wav, rainbow, a bo, by bow
+K1pe088participant_sand.wav, sand, so on, sand
+K1lt225participant_chick.wav, chick, doubt, doup
+K1cb132participant_one.wav, one, in, around
+K1pe088participant_sick.wav, sick, sack, sank
+K1zz501participant_sick.wav, sick, sick, sick
+K1lt225participant_ring.wav, ring, gren, ring
+K1dd033participant_red.wav, red, red, red
+K1dd052participant_sick.wav, sick, sa, the
+K1lm045participant_sun.wav, sun, san, san
+K1so053participant_window.wav, window, wai ow, waiting up
+K1AY244participant_rock.wav, rock, rac, rock
+K1pe055participant_ring.wav, ring, great, ring and
+K1lt225participant_wing.wav, wing, mi, mean
+K1qq021participant_rock.wav, rock, roc, rock
+K1AM166participant_shoe.wav, shoe, hew, shee
+K1cb038participant_shoe.wav, shoe, you, seal
+K1cb038participant_chip.wav, chip, , 
+K1dd105participant_leg.wav, leg, teh, teach
+K1dd073participant_ship.wav, ship, ye, sha
+K1SB174participant_ramp.wav, ramp, lamp, way in
+K1So022participant_socks.wav, socks, suc, shart
+K1so072participant_lamp.wav, lamp, , 
+K1cc023participant_fox.wav, fox, pox, fox
+K1so112participant_thumb.wav, thumb, found, fam
+K1pe011participant_rock.wav, rock, ah, rock
+K1MW013participant_ramp.wav, ramp, well, well
+KT0BM511child_chick1.wav, chick1, chick, what's the cheqk
+K1lt121participant_sun.wav, sun, sad, sad
+K1sp611participant_red.wav, red, brat, rat
+K1mo011participant_wing.wav, wing, win, wing
+K1lm081participant_window.wav, window, ling go, wing dow
+K1cb132participant_rock.wav, rock, fo, tar
+K1pe147participant_lamp.wav, lamp, lane, lamp
+K1cc067participant_shoe.wav, shoe, sil, shew
+K1lm026participant_thumb.wav, thumb, come, tum
+K1cb038participant_ramp.wav, ramp, what, whyne
+K1lm031participant_lamp.wav, lamp, lap, lap
+K1pv023participant_leg.wav, leg, red, wag
+K1pe077participant_fox.wav, fox, buns, faos
+K1TK026participant_chick.wav, chick, cit, trickle
+K1cc035participant_chip.wav, chip, to, cip
+K1dd033participant_chip.wav, chip, chep the, chap
+K1cc044participant_red.wav, red, rag, rat
+KT0BM533child_sick1.wav, sick1, sick, sick
+K1pb016participant_ring.wav, ring, great, ring
+K1dd084participant_fan.wav, fan, vin, van
+K1pe088participant_lamp.wav, lamp, lamp, lamb
+K1lt332participant_sun.wav, sun, sidin, esidin
+K1av988participant_sand.wav, sand, the sand, the sand
+K1zz501participant_ship.wav, ship, ship, ship
+K1xl011participant_lock.wav, lock, lock, lock
+K1pe147participant_fan.wav, fan, fa, they
+K1pe066participant_fox.wav, fox, cok, hocks
+K1pe113participant_fox.wav, fox, fox, fox
+K1AM166participant_chip.wav, chip, chopin, toppin
+K1lt225participant_one.wav, one, wine, one
+K1pb212participant_shoe.wav, shoe, heor, shelor
+K1sc011participant_zoo.wav, zoo, he, he
+K1lt332participant_ramp.wav, ramp, r, rih
+K1AM166participant_sun.wav, sun, fave, frad
+K1lt021participant_rock.wav, rock, roc, rock
+K1dd021participant_rock.wav, rock, roc, rock
+K1cc044participant_lamp.wav, lamp, ramp, whem
+K1pv058participant_window.wav, window, rigout, wig out
+K1so041participant_zoo.wav, zoo, lit, jon
+K1lm045participant_chick.wav, chick, suc, seck
+K1pv016participant_one.wav, one, mine, mon
+K1pb023participant_fan.wav, fan, y, cry
+K1pe055participant_rock.wav, rock, rock, rock
+K1pb227participant_run.wav, run, what, what
+K1dd044participant_leg.wav, leg, fact, fat
+K1dd114participant_thumb.wav, thumb, , 
+K1dd084participant_window.wav, window, wen dout, went out
+K1qq011participant_fan.wav, fan, fann, fan
+K1qq021participant_lock.wav, lock, luck, lock
+K1mo011participant_rock.wav, rock, rough, rock
+K1pe125participant_one.wav, one, wine, on
+K1lt345participant_one.wav, one, wen, flene
+K1lm018participant_lock.wav, lock, lock, lock
+K1pe055participant_sick.wav, sick, sick, sick
+K1pe022participant_lamp.wav, lamp, ray up, wa el
+K1TK026participant_rock.wav, rock, ronk, oa
+K1cb038participant_thumb.wav, thumb, arm, ham
+K1pe162participant_ramp.wav, ramp, wamp, wamp
+K1cb116participant_run.wav, run, ran, ran
+K1lt225participant_chip.wav, chip, chap, chap
+K1so112participant_window.wav, window, window, window
+K1lt045participant_zoo.wav, zoo, you, do
+K1lt017participant_sand.wav, sand, sea and, sea and
+K1av122participant_ramp.wav, ramp, ram, ramp
+K1so041participant_sick.wav, sick, seek, seek
+K1lm031participant_one.wav, one, ron, one
+K1dd033participant_sun.wav, sun, ad, said
+K1dd044participant_sand.wav, sand, time, ffire
+K1EB212participant_sun.wav, sun, sign, sign
+K1zz301participant_zoo.wav, zoo, zu, zu
+K1lt045participant_fox.wav, fox, fox, fox
+K1cb128participant_window.wav, window, random, well don
+K1pe022participant_ring.wav, ring, ray, reg
+K1pv038participant_run.wav, run, hum, hum
+K1pv058participant_fox.wav, fox, but, faulack
+K1pe147participant_socks.wav, socks, fok, flock
+K1zz301participant_fox.wav, fox, fox, fox
+K1lm018participant_chick.wav, chick, chack, check
+K1pb016participant_rock.wav, rock, rah, ra
+K1lm052participant_fan.wav, fan, found, fowl
+K1cb011participant_fox.wav, fox, t, thot
+K1TK017participant_sick.wav, sick, sick, sick
+K1EB212participant_ramp.wav, ramp, mor, warmth
+K1qq021participant_ring.wav, ring, ring, ring
+K1so011participant_zoo.wav, zoo, zill, zo
+K1av977participant_leg.wav, leg, lag, lag
+K1lt045participant_ship.wav, ship, ship, ship
+K1lm052participant_wing.wav, wing, wick, wick
+K1_pe033participant_socks.wav, socks, fa, than
+K1so112participant_lamp.wav, lamp, lant, lamp
+K1dd114participant_run.wav, run, laugh, or half
+K1dd084participant_sand.wav, sand, sand, sand
+K1lt121participant_sand.wav, sand, sta, stay up
+K1so112participant_shoe.wav, shoe, shill, show
+K1lt236participant_wing.wav, wing, when, winga
+K1lm052participant_fox.wav, fox, fox, farks
+K1av977participant_zoo.wav, zoo, do, zou
+K1qq021participant_sick.wav, sick, sick, sick
+K1lt202participant_sand.wav, sand, sant, sient
+K1lm018participant_leg.wav, leg, lak, wak
+K1pe022participant_lock.wav, lock, lock, lock
+K1lt307participant_zoo.wav, zoo, ama mau, amma mowl
+K1so068participant_wing.wav, wing, ring, wing
+K1av122participant_wing.wav, wing, wing, wing
+K1lt345participant_thumb.wav, thumb, ow, found
+K1av122participant_fox.wav, fox, box, fox
+K1lt247participant_fan.wav, fan, van, fain
+K1cc056participant_rock.wav, rock, wha, what
+K1pe154participant_leg.wav, leg, lam, lug
+K1cc035participant_fan.wav, fan, five, five
+K1so053participant_lamp.wav, lamp, lamp, lamb
+K1lt332participant_window.wav, window, weady now, wedding doll
+K1so095participant_run.wav, run, brat, broad
+K1qq111participant_sun.wav, sun, san, san
+K1cb024participant_fan.wav, fan, lls maca, tles and cock
+K1cc023participant_red.wav, red, red, who had
+K1pe044participant_ring.wav, ring, am raing, amren
+K1AM166participant_lock.wav, lock, se, t
+K1pe162participant_socks.wav, socks, fact, starks
+K1cc023participant_sand.wav, sand, stand, sand
+K1lt017participant_ramp.wav, ramp, them, puam
+K1lt247participant_lock.wav, lock, lock, lock
+K1pb035participant_leg.wav, leg, ragge, rag or
+K1pe113participant_one.wav, one, one, one
+K1WA246participant_sun.wav, sun, don, sun
+K1lt236participant_run.wav, run, in, wind
+K1dd105participant_run.wav, run, higed, lag
+K1pb212participant_wing.wav, wing, bite, bite
+K1so068participant_leg.wav, leg, lake, loak
+K1dd033participant_window.wav, window, ldo, window
+K1AY244participant_sand.wav, sand, sar, san
+K1lt158participant_fox.wav, fox, walk, walks
+K1pb035participant_run.wav, run, badn, balda
+K1So022participant_thumb.wav, thumb, dam, dumb
+K1sc011participant_window.wav, window, weend, win da
+K1lm067participant_sand.wav, sand, sant, fant
+K1lt247participant_sick.wav, sick, seck, sick
+K1cb128participant_red.wav, red, rat, rag
+K1lt307participant_ring.wav, ring, r, we
+K1OS013participant_sick.wav, sick, sad, an saw
+K1lt121participant_ramp.wav, ramp, , rere
+K1lm045participant_fan.wav, fan, fine, fan
+K1av111participant_run.wav, run, ren, ren
+K1sc011participant_sick.wav, sick, sirk, sick
+K1zz017participant_run.wav, run, ran, run
+K1cb024participant_socks.wav, socks, torts, tharks
+K1av111participant_sand.wav, sand, sand, sand
+K1lt225participant_run.wav, run, waney, wanin
+K1dd073participant_run.wav, run, whan, when
+K1qq011participant_sick.wav, sick, seck, sec
+K1AY244participant_fox.wav, fox, flax, fax
+K1pv023participant_sand.wav, sand, a, stare
+K1pe088participant_rock.wav, rock, rack, rark
+K1dd084participant_one.wav, one, bi, li
+K1cb024participant_one.wav, one, do, timm
+K1pb304participant_run.wav, run, bran, ran
+K1lt158participant_chick.wav, chick, sir, sek
+K1lm026participant_shoe.wav, shoe, shill, shill
+K1lt158participant_lock.wav, lock, mark, ark
+K1dd073participant_rainbow.wav, rainbow, ma am, where bow
+K1_pe033participant_ring.wav, ring, whearing, wearin
+K1pb023participant_sun.wav, sun, stand, stan
+K1cc014participant_chip.wav, chip, cet, sopped
+K1lt247participant_wing.wav, wing, win, wen
+K1so083participant_ring.wav, ring, river, ra
+K1cb128participant_wing.wav, wing, bav, babbed
+K1RRI016participant_rainbow.wav, rainbow, rainbow, rainbow
+K1AY244participant_lamp.wav, lamp, mair, ramp
+K1cb116participant_lock.wav, lock, walk, walk
+K1av111participant_ring.wav, ring, ring, ring
+K1lm052participant_lamp.wav, lamp, ramp, wap
+K1pb016participant_leg.wav, leg, e, hew
+K1qq111participant_red.wav, red, red, red
+K1cb011participant_sand.wav, sand, sar, stand
+K1KM243participant_lamp.wav, lamp, lamp, lamp
+K1lt225participant_socks.wav, socks, sock, soc
+K1pb318participant_ship.wav, ship, ship, ship
+K1dd114participant_sand.wav, sand, so, dam
+K1pv046participant_ship.wav, ship, i, a
+K1cb116participant_wing.wav, wing, ring, ring
+K1lt332participant_ring.wav, ring, ready, raidy
+K1cc035participant_lock.wav, lock, ly, ma
+K1av977participant_sun.wav, sun, , sun
+K1So022participant_chip.wav, chip, sir, ship
+K1cc035participant_rock.wav, rock, rock, rock
+K1pe088participant_fox.wav, fox, ba, pa
+K1pb227participant_lamp.wav, lamp, abef god, berga
+K1so068participant_zoo.wav, zoo, here, huw
+K1pe154participant_ramp.wav, ramp, o wing, lou lanene
+K1pv046participant_zoo.wav, zoo, sar, sail
+K1cb128participant_ramp.wav, ramp, da, dame
+K1pe077participant_socks.wav, socks, chae, sop
+K1pv046participant_chip.wav, chip, sir, shap
+K1so083participant_socks.wav, socks, a, xankly
+K1pb016participant_chip.wav, chip, , sir
+K1So022participant_rock.wav, rock, glock, lock
+K1dd044participant_run.wav, run, why, white
+K1xl011participant_leg.wav, leg, lake, lake
+K1cb011participant_ship.wav, ship, , sha
+K1RRI016participant_sun.wav, sun, some, some
+K1lt345participant_window.wav, window, wel to, wen to
+K1lm018participant_fox.wav, fox, fors, fox
+K1pb318participant_lamp.wav, lamp, ly, leave
+K1av111participant_chip.wav, chip, chip, chip
+K1pe147participant_sand.wav, sand, van, there
+K1dd044participant_window.wav, window, when there, wendel
+KT0BM573child_chick1.wav, chick1, what's that chick, what's that chick
+K1pe077participant_thumb.wav, thumb, fom, fami
+K1pe077participant_lock.wav, lock, lac, rock
+K1pv038participant_rainbow.wav, rainbow, leanpile, the impero
+K1OS013participant_fox.wav, fox, god, the hog
+K1lt225participant_sun.wav, sun, fan, san
+K1SB174participant_fan.wav, fan, tay i, feale
+K1so095participant_ramp.wav, ramp, , 
+K1lm045participant_leg.wav, leg, rel, rap
+K1so068participant_chip.wav, chip, sa, tep
+K1pb304participant_chick.wav, chick, sirto, talkin
+K1lt214participant_run.wav, run, r, rank
+K1zz501participant_fan.wav, fan, fann, fan
+K1dd021participant_chick.wav, chick, ci, i
+K1sp611participant_ramp.wav, ramp, ramp, orramp
+K1cb116participant_lamp.wav, lamp, a, camp
+K1pe154participant_rainbow.wav, rainbow, ambae, ram baa
+K1lt158participant_wing.wav, wing, rain, ring
+K1so072participant_one.wav, one, fine, wan
+K1dd084participant_shoe.wav, shoe, shil, sheeld
+K1lt112participant_sand.wav, sand, sta, sands
+K1RRI016participant_fan.wav, fan, follower, feller
+K1WA246participant_shoe.wav, shoe, shoe, shoe
+K1so072participant_thumb.wav, thumb, tond, troun
+K1lt021participant_socks.wav, socks, fact, sapch
+K1lt214participant_thumb.wav, thumb, gam, dom
+K1dd073participant_red.wav, red, gra, rag
+K1lt328participant_shoe.wav, shoe, jall, jew
+K1pb016participant_red.wav, red, rat, rop
+K1lt345participant_lock.wav, lock, black, roc
+K1lt045participant_lock.wav, lock, walk, walk
+K1pe055participant_sand.wav, sand, saant, stand
+K1pe088participant_chip.wav, chip, jack, champ
+K1xl011participant_zoo.wav, zoo, ill, zo
+K1cb024participant_zoo.wav, zoo, diseum, diseu
+K1so036participant_red.wav, red, rar and, ra and
+K1AM166participant_rock.wav, rock, rock, rock
+K1pe147participant_zoo.wav, zoo, sound, sail
+K1so083participant_zoo.wav, zoo, r, a
+K1dd033participant_lamp.wav, lamp, man, lamp
+K1so083participant_leg.wav, leg, rak, r
+K1so036participant_wing.wav, wing, er a, am gow
+K1lt311participant_red.wav, red, rat, lat
+K1lm067participant_rock.wav, rock, rac, loc
+K1WA246participant_ring.wav, ring, ring, wing
+K1pe022participant_socks.wav, socks, thock, socks
+K1qq111participant_ramp.wav, ramp, ramp, ramp
+K1KM243participant_ramp.wav, ramp, ramp, ramp
+K1dd021participant_run.wav, run, van, drin
+K1zz501participant_wing.wav, wing, wing, wing
+K1sp611participant_ship.wav, ship, ship, ship
+K1cc056participant_ship.wav, ship, se, sit
+K1so083participant_fox.wav, fox, , va
+K1pv038participant_lamp.wav, lamp, lorp, lort
+K1dd052participant_socks.wav, socks, jack, jack
+K1lt236participant_lock.wav, lock, alf, hark
+KT0BM551child_lock1.wav, lock1, and what's you lacke, and what's year rack
+K1so011participant_wing.wav, wing, buried, buried
+K1cb011participant_rainbow.wav, rainbow, grain barb, raiba
+K1zz501participant_chip.wav, chip, chep, chip
+K1pe066participant_ring.wav, ring, ring, wing
+K1pb016participant_ramp.wav, ramp, loow at that i, know at that one
+K1lt328participant_wing.wav, wing, browso brush, rather by
+K1lt112participant_window.wav, window, and, wende arsen
+K1dd084participant_leg.wav, leg, late, lake
+K1zz301participant_ship.wav, ship, ship, ship
+K1lt247participant_run.wav, run, one, what
+K1zz301participant_sun.wav, sun, son, son
+K1lt158participant_ship.wav, ship, sap, sap
+K1so112participant_ramp.wav, ramp, gant, vamp
+K1dd021participant_sun.wav, sun, stane, stein
+K1cb038participant_fan.wav, fan, farm, florm
+K1cb132participant_zoo.wav, zoo, hen, sam
+K1cb103participant_lock.wav, lock, lac, yacht
+K1lt017participant_fan.wav, fan, fear, phea
+K1so053participant_chip.wav, chip, , chok
+K1dd033participant_run.wav, run, ren, ren
+KT0BM522child_lick1.wav, lick1, lac, mark
+K1pe131participant_window.wav, window, redde, weddough
+K1pe147participant_ring.wav, ring, ring, ring
+K1pv058participant_rock.wav, rock, rock, rock
+K1WA246participant_window.wav, window, window, window
+K1lt141participant_socks.wav, socks, sor, solk
+K1so053participant_ship.wav, ship, , phip
+K1lm045participant_lamp.wav, lamp, one, want
+K1lm067participant_leg.wav, leg, forout, or out
+K1pb318participant_chick.wav, chick, chick, chikt
+K1so112participant_ship.wav, ship, shop, shep
+K1cc067participant_lamp.wav, lamp, wap, welp
+K1qq021participant_red.wav, red, red, rad
+K1lt141participant_chick.wav, chick, cick, check
+K1lt038participant_zoo.wav, zoo, stare, ter
+K1so036participant_sand.wav, sand, sulant, siland
+K1lm067participant_fox.wav, fox, foxs, fox
+K1av122participant_leg.wav, leg, lake, lake
+K1pv046participant_socks.wav, socks, soc, socked
+K1mo011participant_ship.wav, ship, ship, ship
+K1sp611participant_lamp.wav, lamp, blaum, blam
+K1pv046participant_chick.wav, chick, , ta
+K1lt158participant_ramp.wav, ramp, an, lan p
+K1lt017participant_chip.wav, chip, sat, sac
+K1TK026participant_zoo.wav, zoo, leu, vu
+K1lt121participant_window.wav, window, widou, wit tou
+K1lt345participant_ship.wav, ship, sit, sik
+K1pe162participant_fox.wav, fox, faxs, fox
+KT0BM584child_rock1.wav, rock1, with this one placa, which this one plac u
+K1dd105participant_lock.wav, lock, flork, mark
+K1av101participant_chick.wav, chick, chick, chick
+K1so041participant_leg.wav, leg, wreak, freat
+K1AM166participant_chick.wav, chick, t, cik
+K1pb035participant_lock.wav, lock, walk, wawk
+K1pe088participant_one.wav, one, why, why
+K1av101participant_chip.wav, chip, chet, chip
+K1pv038participant_thumb.wav, thumb, burn, found
+K1dd084participant_rock.wav, rock, rock, frot
+K1lt141participant_rock.wav, rock, ras, wafk
+K1pb212participant_ship.wav, ship, ship, ship
+K1so011participant_red.wav, red, rag, rag
+K1dd092participant_rainbow.wav, rainbow, grainbow, uanbou
+K1lm081participant_ship.wav, ship, shir, ship
+K1pe147participant_ramp.wav, ramp, ran, ra
+K1pe147participant_thumb.wav, thumb, found, foul
+K1av988participant_lock.wav, lock, lock, lock
+K1so036participant_chip.wav, chip, t, chip
+K1KM243participant_run.wav, run, wine, uan
+K1EB212participant_lock.wav, lock, loc, gloc
+K1sp611participant_wing.wav, wing, wing, wing
+K1lt247participant_one.wav, one, oe, want
+K1pb227participant_ship.wav, ship, bo, po
+K1qq011participant_chip.wav, chip, chip, chep
+K1cc023participant_zoo.wav, zoo, do, siou
+K1pb023participant_ship.wav, ship, , sep
+K1pe162participant_rock.wav, rock, ront, rocks
+K1cb116participant_rock.wav, rock, wel, quam
+K1so053participant_lock.wav, lock, long, lock
+K1TK017participant_chip.wav, chip, shi, cheep
+K1cc056participant_fan.wav, fan, fm, fall om
+KT0BM562child_lock1.wav, lock1, what's this one hagano, what's this one hagana
+K1lt133participant_chip.wav, chip, clate, catter
+K1lt236participant_ramp.wav, ramp, rail, ring
+K1cb024participant_shoe.wav, shoe, sal, stare
+K1pb318participant_leg.wav, leg, rake, lake
+K1cc035participant_ring.wav, ring, re, reading
+K1lm052participant_ship.wav, ship, sheer, she
+KT0BM562child_sick1.wav, sick1, i ganli, what's that i don no
+K1sp611participant_shoe.wav, shoe, shill, shoe
+K1pb227participant_window.wav, window, where no, redolth
+K1lt332participant_red.wav, red, ract, red
+K1lt247participant_ship.wav, ship, sect, sip
+K1lm031participant_sick.wav, sick, sick, sick
+K1dd114participant_fan.wav, fan, going and then, ring and danc
+K1lt158participant_thumb.wav, thumb, farn, fan
+K1pe088participant_socks.wav, socks, to, top
+K1so011participant_rainbow.wav, rainbow, vanbau, rainbow
+K1cc014participant_chick.wav, chick, da, tap
+K1EB212participant_window.wav, window, window, window
+KT0BM544child_lock1.wav, lock1, what's that an don't kno chem it's a lock a, what's that dan don't know e it's a law a
+K1dd044participant_ring.wav, ring, ring, winga
+K1pb016participant_run.wav, run, ran, or a
+K1dd044participant_fox.wav, fox, fox, fox
+K1_pe033participant_fox.wav, fox, tha, fak
+K1av988participant_fan.wav, fan, fan, fan
+K1cc067participant_one.wav, one, vi an, lyan
+K1cb116participant_zoo.wav, zoo, here, sear
+K1lm031participant_socks.wav, socks, toc, thox
+K1pb227participant_rock.wav, rock, lot, wack
+K1dd073participant_leg.wav, leg, vec, vat
+K1pb035participant_red.wav, red, rabe, where the
+K1dd021participant_fan.wav, fan, i dad now, i don't know
+K1pv023participant_rainbow.wav, rainbow, mama, ranwell
+K1so041participant_rock.wav, rock, rock, rork
+K1dd021participant_sick.wav, sick, sir, sick
+K1lt121participant_rainbow.wav, rainbow, rabau, ray bow
+K1so095participant_chip.wav, chip, , che
+K1lt307participant_run.wav, run, waran, wan
+K1av977participant_lamp.wav, lamp, then, that
+K1AY244participant_window.wav, window, we ye do, will ye go
+K1pb227participant_red.wav, red, then, road
+K1pb023participant_zoo.wav, zoo, soon, shewn
+K1lt021participant_fox.wav, fox, fox, fock
+K1dd044participant_fan.wav, fan, farm, far
+K1zz301participant_ring.wav, ring, ring, ring
+K1qq021participant_run.wav, run, ran, ran
+K1pe044participant_sand.wav, sand, a on, sand
+K1dd105participant_socks.wav, socks, stock, stock
+K1pe147participant_lock.wav, lock, lock, lock
+K1pb023participant_sick.wav, sick, so, sick
+K1dd084participant_thumb.wav, thumb, pam, pum
+K1pe154participant_chick.wav, chick, your, where
+K1lt112participant_socks.wav, socks, , sock
+K1dd052participant_leg.wav, leg, but, foot
+K1dd114participant_lock.wav, lock, fir, fire
+K1pb227participant_thumb.wav, thumb, dat, dab
+K1lt307participant_chip.wav, chip, sha, sir
+K1pe011participant_run.wav, run, ban, bron
+K1dd105participant_rock.wav, rock, , ock
+K1av988participant_zoo.wav, zoo, so, zio
+K1pv023participant_fan.wav, fan, san, fin
+K1lt057participant_shoe.wav, shoe, sher, sheel
+K1pe125participant_window.wav, window, when go, window
+K1So022participant_lamp.wav, lamp, vamp, vamp
+K1so053participant_sick.wav, sick, , fit
+K1lt345participant_sun.wav, sun, san, son
+K1lt021participant_fan.wav, fan, fan, fair
+K1lt236participant_chip.wav, chip, chap, shirp
+K1EB212participant_thumb.wav, thumb, fan, fan
+K1so041participant_one.wav, one, ow, wa
+K1pb023participant_run.wav, run, way, wunny
+K1pv023participant_fox.wav, fox, fa, fox
+K1lm045participant_ramp.wav, ramp, ran, ramp
+K1SB174participant_ring.wav, ring, , 
+K1So022participant_ship.wav, ship, sicp, ship
+K1cb132participant_thumb.wav, thumb, gown, gowm
+K1av977participant_lock.wav, lock, luck, lack
+K1pv046participant_sick.wav, sick, , sick
+K1OS013participant_chip.wav, chip, sop, sap
+K1cc035participant_lamp.wav, lamp, lamp, lamp
+K1cc067participant_run.wav, run, lian, wyn
+K1lt214participant_chick.wav, chick, sher, sure
+K1lt307participant_fox.wav, fox, box, fox
+K1lt045participant_fan.wav, fan, van, fan
+K1SB174participant_sick.wav, sick, folk, fog
+K1sc011participant_chick.wav, chick, tick, chak
+K1lt214researcher_socks.wav, socks, socks, socks
+K1AM166participant_sick.wav, sick, folk, sixth
+K1MW013participant_zoo.wav, zoo, fill, thilwa
+K1_pe033participant_ramp.wav, ramp, wak, where
+K1lt236participant_window.wav, window, wait though, wadow
+K1pe066participant_lamp.wav, lamp, e, lamp
+K1zz017participant_rock.wav, rock, rock, rock
+K1so083participant_red.wav, red, ra, rock
+K1TK017participant_shoe.wav, shoe, sho, hew
+K1cb132participant_ring.wav, ring, on, mon
+K1so068participant_sun.wav, sun, fam, tan
+K1pb318participant_shoe.wav, shoe, still, shoe
+K1qq021participant_fan.wav, fan, van, vam
+K1so112participant_one.wav, one, wine, one
+K1cc056participant_zoo.wav, zoo, sail, sail
+K1pe022participant_sand.wav, sand, say on, sal on
+K1pe044participant_chick.wav, chick, ch, therk
+K1AY244participant_lock.wav, lock, la, hla
+K1KM243participant_zoo.wav, zoo, to, zou
+K1pb304participant_ramp.wav, ramp, ram, ram
+K1cb038participant_run.wav, run, tat, bat
+K1AM166participant_sand.wav, sand, fort, fat
+K1pe113participant_sick.wav, sick, sir, sick
+K1dd092participant_rock.wav, rock, walk, walked
+K1cc014participant_socks.wav, socks, jop, jop
+K1cc035participant_sun.wav, sun, san, sand
+KT0BM511child_sick1.wav, sick1, es that  si yousee, is that ssick you see
+K1lt225participant_ramp.wav, ramp, ram, wem
+K1lt225participant_zoo.wav, zoo, dell, zel
+K1lm081participant_shoe.wav, shoe, hi, hello
+K1pe077participant_run.wav, run, rangl, ranging
+K1TK017participant_thumb.wav, thumb, some, some
+K1pe162participant_sick.wav, sick, sup, sec
+K1MW013participant_sick.wav, sick, fever, tefare
+K1pb227participant_leg.wav, leg, , hree two
+K1EB212participant_ring.wav, ring, rin, wing
+K1zz017participant_lamp.wav, lamp, limp, lamp
+K1lm018participant_chip.wav, chip, chip, chip
+K1TK026participant_fox.wav, fox, fack, farx
+K1so104participant_one.wav, one, why, hy
+K1lt141participant_shoe.wav, shoe, shill, shill
+K1TEST1participant_lamp.wav, lamp, lamp, lamp
+K1zz501participant_ramp.wav, ramp, ram, ramp
+K1cc067participant_chick.wav, chick, soken, shooken
+K1lt236participant_chick.wav, chick, shock, shick
+K1so104participant_ramp.wav, ramp, n, orianna
+K1KM243participant_ring.wav, ring, rin, ring
+K1TK026participant_sick.wav, sick, thick, fick
+K1pb318participant_sick.wav, sick, s, sick
+K1xl011participant_sick.wav, sick, sick, sick
+K1lm018participant_window.wav, window, wor dou, werrant dough
+K1lm026participant_ship.wav, ship, ship, ship
+K1cb132participant_lamp.wav, lamp, why, why
+K1pv058participant_ship.wav, ship, sir, shear
+K1dd052participant_thumb.wav, thumb, ga, u
+K1EB212participant_chip.wav, chip, cloca, quacko
+K1lt236participant_sand.wav, sand, sa ond, sand
+K1cc067participant_ship.wav, ship, sip, sip
+K1cc014participant_run.wav, run, clearing, glearing
+K1lt236participant_fox.wav, fox, fox, farx
+K1RRI016participant_run.wav, run, vine, vine
+K1lt328participant_ship.wav, ship, a, tha
+K1zz301participant_ramp.wav, ramp, rap, ramp
+K1TK017participant_ring.wav, ring, win, wing
+K1lt214participant_sun.wav, sun, ham, sam
+K1AY244participant_rainbow.wav, rainbow, rainbow, rainbow
+KT0BM511child_lick1.wav, lick1, what's that let im, what's that w
+K1cb024participant_window.wav, window, rit don, read thou
+K1So022participant_ramp.wav, ramp, lin, lamp
+K1av122participant_one.wav, one, what, one
+K1pb318participant_rock.wav, rock, what, wark
+K1lm081participant_ring.wav, ring, waid, waity
+K1zz301participant_red.wav, red, wright, ret
+K1cb132participant_shoe.wav, shoe, see him, shear
+K1dd105participant_sand.wav, sand, sad, soud
+K1lt158participant_rock.wav, rock, wat, wap
+K1so068participant_thumb.wav, thumb, fem, fam
+K1cc067participant_sun.wav, sun, , sam
+K1cc035participant_thumb.wav, thumb, gown, com
+K1cc014participant_fox.wav, fox, what, farks
+K1av111participant_red.wav, red, ret, red
+K1jh011participant_zoo.wav, zoo, zeal, zu
+K1lm018participant_ramp.wav, ramp, oh ram, ol way up
+K1pe147participant_wing.wav, wing, ring, wing
+K1lt332participant_rainbow.wav, rainbow, raybow, raybow
+K1dd052participant_ring.wav, ring, le, our
+K1pe125participant_ramp.wav, ramp, wam, leam
+K1_lm026participant_red.wav, red, red, red
+K1lm081participant_fan.wav, fan, come, time
+K1dd114participant_red.wav, red, wet, wet
+K1pv058participant_ring.wav, ring, great, great
+K1so072participant_rock.wav, rock, ra, ra
+K1So022participant_window.wav, window, orindo, window
+K1pv038participant_ship.wav, ship, jep, stap
+K1TK017participant_window.wav, window, window, window
+K1pe162participant_sand.wav, sand, form, sfoll down
+K1pe055participant_fox.wav, fox, fox, fox
+K1cb116participant_sick.wav, sick, u, donk
+K1dd114participant_lamp.wav, lamp, , oh they
+K1pv016participant_zoo.wav, zoo, , sear
+K1RRI016participant_window.wav, window, when d, wind u
+K1zz301participant_chip.wav, chip, chep, chep
+K1lm026participant_ring.wav, ring, ring, ring
+K1zz501participant_one.wav, one, one, one
+K1lt141participant_lock.wav, lock, wa, walk
+K1dd052participant_chick.wav, chick, t, tu
+K1cc035participant_zoo.wav, zoo, tezea, ze
+K1RRI016participant_ship.wav, ship, sup, ship
+K1so041participant_run.wav, run, round, ra
+K1av122participant_sun.wav, sun, son, son
+K1cc014participant_fan.wav, fan, f, fin
+K1so072participant_leg.wav, leg, ra, lat
+K1WA246participant_rainbow.wav, rainbow, wainbow, wainbow
+K1So022participant_ring.wav, ring, run, ring
+K1jh011participant_sand.wav, sand, sand, sand
+K1pe011participant_socks.wav, socks, soc, soc
+K1lm067participant_lock.wav, lock, lock, lock
+K1pb212participant_lamp.wav, lamp, lamp, ramph
+K1pv038participant_sand.wav, sand, ful, florenc
+K1cc023participant_rock.wav, rock, huac, walk
+K1cc023participant_socks.wav, socks, stock, socks
+K1so083participant_lock.wav, lock, la, lock
+K1lt247participant_red.wav, red, wet, wait
+K1av977participant_wing.wav, wing, wing, wing
+K1lm026participant_lamp.wav, lamp, lamp, lamp
+K1pe066participant_ship.wav, ship, bout, out
+K1lm026participant_rainbow.wav, rainbow, rainbell, rainbow
+K1pe044participant_shoe.wav, shoe, show, sho
+K1pv046participant_fan.wav, fan, barn, van
+K1pe162participant_sun.wav, sun, found, found
+K1mo011participant_one.wav, one, one, one
+K1qq111participant_rock.wav, rock, rac, rac
+K1pe055participant_wing.wav, wing, we, wen
+K1lt328participant_ring.wav, ring, lot, nald
+K1lt112participant_thumb.wav, thumb, ram, from
+K1so036participant_socks.wav, socks, sa, saw
+K1qq021participant_sun.wav, sun, son, son
+K1xl011participant_sun.wav, sun, , son
+K1sp611participant_rock.wav, rock, ro, raw
+K1lt307participant_wing.wav, wing, win, weeing
+K1SB174participant_chip.wav, chip, that, thop
+K1cb011participant_sick.wav, sick, , wo wotch
+K1pv023participant_window.wav, window, wind a, wenda
+K1lt021participant_sick.wav, sick, sick, sec
+K1SB174participant_one.wav, one, why o u, why
+K1pe147participant_run.wav, run, run, ry
+K1lt328participant_lock.wav, lock, my, wite
+K1dd052participant_window.wav, window, on that day, alredy
+K1cb116participant_leg.wav, leg, mag, lack
+KT0BM522child_sick1.wav, sick1, thick, thick
+K1So022participant_sun.wav, sun, sign, shin
+K1dd044participant_ramp.wav, ramp, be latis e, apelodes i
+K1lt247participant_zoo.wav, zoo, still, still
+K1_pe033participant_thumb.wav, thumb, fan, fan
+K1pb318participant_zoo.wav, zoo, you, helo
+K1cc067participant_sick.wav, sick, thick, sick
+K1pb023participant_one.wav, one, and why, and one
+K1lm031participant_rock.wav, rock, lack, walk
+K1dd105participant_one.wav, one, good, wy
+K1pe131participant_ship.wav, ship, se, s
+K1qq011participant_sand.wav, sand, sand, sand
+K1dd092participant_socks.wav, socks, aps, sacs
+K1sp611participant_fox.wav, fox, fox, fox
+K1dd033participant_wing.wav, wing, erlen, erlu
+K1pe147participant_red.wav, red, rap, rek
+K1so041participant_ramp.wav, ramp, roc, rock
+K1SB174participant_thumb.wav, thumb, gan, can
+K1lm045participant_socks.wav, socks, si, sa
+K1lt225participant_fan.wav, fan, van, van
+K1pe088participant_sun.wav, sun, fond, fan
+K1so053participant_wing.wav, wing, well, wing
+K1pe113participant_wing.wav, wing, sato, frado
+K1lm026participant_zoo.wav, zoo, ville, zu
+K1pv038participant_chip.wav, chip, ta, kick
+K1qq021participant_lamp.wav, lamp, lanp, lamp
+K1TK026participant_socks.wav, socks, tho, thought
+K1av333participant_fan.wav, fan, fan, fan
+K1lt112participant_lock.wav, lock, lack, wawk
+K1KM243participant_window.wav, window, when thou, when thou
+K1cc056participant_ring.wav, ring, ru, ven
+K1pv058participant_leg.wav, leg, ho, cow
+K1cc056participant_rainbow.wav, rainbow, rainbou, rain bow
+K1lt202participant_rainbow.wav, rainbow, wain bout, rainbow
+K1pb035participant_fox.wav, fox, thought i, fox
+K1lt017participant_fox.wav, fox, far to, fogts
+K1pv058participant_thumb.wav, thumb, fer, fair
+K1qq021participant_fox.wav, fox, fox, fox
+K1lm081participant_rock.wav, rock, ra, roc
+K1pb035participant_sand.wav, sand, gade, sad
+K1so112participant_red.wav, red, ra, rack
+K1lm026participant_run.wav, run, ran, run
+K1lt307participant_sand.wav, sand, farn, feim
+K1lt021participant_zoo.wav, zoo, don't, sill
+KT0BM533child_lick1.wav, lick1, , e
+K1so072participant_zoo.wav, zoo, sail, so
+K1so112participant_wing.wav, wing, wing, ring
+K1lt236participant_lamp.wav, lamp, write, white
+K1lm081participant_fox.wav, fox, ux, fox
+K1pe131participant_zoo.wav, zoo, mazele, so
+K1pe055participant_window.wav, window, mondo, window
+K1pb023participant_thumb.wav, thumb, same, shum
+K1pe077participant_chick.wav, chick, check, chek
+K1dd114participant_one.wav, one, way, when
+K1TK026participant_leg.wav, leg, lack, lack
+K1lt332participant_socks.wav, socks, thought, to
+K1pe022participant_zoo.wav, zoo, ville, ville
+K1so011participant_ship.wav, ship, ship, ship
+K1pe113participant_thumb.wav, thumb, fand, fam
+K1MW013participant_wing.wav, wing, wing, wing
+KT0BM573child_sick1.wav, sick1, tis one sac, atsays one sec
+K1lt121participant_fan.wav, fan, fair, pheoc
+K1dd073participant_lamp.wav, lamp, fi, fir
+K1dd105participant_chip.wav, chip, chip, chip
+K1dd021participant_ramp.wav, ramp, ramp, ram
+K1lt311participant_lock.wav, lock, bac, part
+K1OS013participant_lamp.wav, lamp, nh, hut
+K1lt214participant_fan.wav, fan, sar, frm
+K1lt214participant_rock.wav, rock, what, awas
+K1pe011participant_shoe.wav, shoe, her, how
+K1so036participant_sick.wav, sick, sir, sec
+K1cb132participant_red.wav, red, bdam, blane
+K1AY244participant_chick.wav, chick, , check
+KT0BM584child_sick1.wav, sick1, a, park
+KT0BM522child_lock1.wav, lock1, luck, lock
+K1cb103participant_sick.wav, sick, sac, suc
+K1so036participant_fox.wav, fox, wha, ma
+K1dd033participant_chick.wav, chick, da, duk
+K1lm018participant_socks.wav, socks, sa, sock
+KT0BM551child_sick1.wav, sick1, what's that oh o you don't know he's sick hik, what's that em i  e home you know how he's sick sick
+K1so104participant_shoe.wav, shoe, shill, shael
+K1pe066participant_rock.wav, rock, lack, walk
+K1so053participant_shoe.wav, shoe, you, hew
+K1lm081participant_leg.wav, leg, titea, he and take edinma
+K1RRI016participant_leg.wav, leg, lab, leg
+K1lm045participant_fox.wav, fox, rocks, fax
+K1lm067participant_sick.wav, sick, stoke, steak
+K1pb212participant_sand.wav, sand, fam, fom
+K1lt328participant_thumb.wav, thumb, barn, gab
+K1lt045participant_rock.wav, rock, loct, walked
+K1so104participant_zoo.wav, zoo, sal, esham
+K1lt214researcher_chick.wav, chick, check, check
+K1lm018participant_zoo.wav, zoo, as jo, as though
+K1pe088participant_ring.wav, ring, ring, rang
+K1so036participant_shoe.wav, shoe, shel, shew
+K1zz501participant_shoe.wav, shoe, shill, shiel
+K1lt214participant_sand.wav, sand, sino and, sing rand
+K1lt332participant_rock.wav, rock, roh, rock
+K1so011participant_sick.wav, sick, sick, sick
+K1so041participant_chick.wav, chick, ba, that
+K1cb011participant_zoo.wav, zoo, ther, isel
+K1lt345participant_shoe.wav, shoe, so, so
+K1lt038participant_ramp.wav, ramp, , er
+K1so053participant_sand.wav, sand, fand, tand
+KT0BM533child_lock1.wav, lock1, lac, luck
+K1pv058participant_socks.wav, socks, soic, sock
+K1pe066participant_red.wav, red, red, wed
+K1pe147participant_ship.wav, ship, sir, shut
+K1lm067participant_lamp.wav, lamp, ram, ramp
+K1cc067participant_leg.wav, leg, great, wake
+K1lm045participant_shoe.wav, shoe, to, chew
+K1lt247participant_fox.wav, fox, loch, fox
+K1cc044participant_sand.wav, sand, fuller, firing
+K1av977participant_rock.wav, rock, rock, rock
+K1cc014participant_shoe.wav, shoe, him, sheel
+K1pb318participant_wing.wav, wing, wing, wing
+K1lt328participant_chick.wav, chick, far, tar
+K1dd021participant_wing.wav, wing, lad, wath
+K1pe055participant_chick.wav, chick, , chik
+K1lt158participant_sick.wav, sick, sir, seck
+K1lm052participant_chip.wav, chip, chip, ship
+K1av122participant_ring.wav, ring, ring, ring
+K1so036participant_one.wav, one, why l, wand
+K1pe011participant_rainbow.wav, rainbow, renda, ranbow
+K1AY244participant_red.wav, red, bread, rat
+K1pe044participant_socks.wav, socks, socks, socks
+K1cb116participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lt247participant_rainbow.wav, rainbow, rain bow, wain bow
+K1cb103participant_chip.wav, chip, t, chap
+K1cc035participant_red.wav, red, an, ran
+K1cc067participant_thumb.wav, thumb, down, dum
+K1lt045participant_chip.wav, chip, chep, chep
+K1pb318participant_sand.wav, sand, sarec, sarants
+K1pv058participant_one.wav, one, wat, wide
+K1OS013participant_fan.wav, fan, bout, bow
+K1sc011participant_red.wav, red, ret, rab
+K1pe125participant_leg.wav, leg, oerhead, eg
+K1cc014participant_rock.wav, rock, rot, rock te
+K1lt158participant_chip.wav, chip, sa, sir
+KT0BM573child_rock1.wav, rock1, this one wack, this one  wakm
+K1OS013participant_lock.wav, lock, wt, wawk
+K1pe162participant_chip.wav, chip, shop, shop
+K1lm081participant_lamp.wav, lamp, mame, lamb
+K1WA246participant_run.wav, run, wunning, wunning
+K1so112participant_sun.wav, sun, sit, son
+K1cb116participant_ship.wav, ship, s, sap
+K1cc044participant_ship.wav, ship, sir, sir
+K1pb035participant_chick.wav, chick, ciec, cheank
+K1cb103participant_wing.wav, wing, n, rond
+K1lt017participant_rock.wav, rock, whar, wa
+KT0BM544child_lick1.wav, lick1, whis this one o it al no said te wi they ca, who it's this one you i it ou mol and fli ta
+K1so053participant_rock.wav, rock, not, rock
+K1so104participant_socks.wav, socks, a, sock
+K1cb038participant_rock.wav, rock, fact a, rot
+K1lt345participant_leg.wav, leg, way, way
+K1pb304participant_red.wav, red, ran, ran
+K1dd084participant_zoo.wav, zoo, pnal, brezil
+K1av977participant_one.wav, one, what, one
+K1so072participant_sand.wav, sand, far, fo
+K1pe044participant_chip.wav, chip, chair, chap
+K1lm052participant_ramp.wav, ramp, lap, lap
+K1pe147participant_sick.wav, sick, fat, thack
+K1AY244participant_fan.wav, fan, there, van
+K1qq011participant_zoo.wav, zoo, zeal, zeo
+K1pb318participant_red.wav, red, rot, red
+K1RRI016participant_shoe.wav, shoe, shere, sheer
+K1lt311participant_thumb.wav, thumb, pram, plam
+K1RRI016participant_wing.wav, wing, win, wing
+K1pe066participant_one.wav, one, wone, one
+K1xl011participant_wing.wav, wing, wing, wing
+K1pe154participant_lock.wav, lock, want, want
+K1cb103participant_one.wav, one, an, wen
+KT0BM551child_chick1.wav, chick1, what's that here analls teking, what's that here am  ols te king
+K1KM243participant_fan.wav, fan, fam, san
+K1AM166participant_one.wav, one, when, what
+K1pe044participant_rainbow.wav, rainbow, rainbow, rainbow
+K1SB174participant_shoe.wav, shoe, she, she'll
+K1MW013participant_ring.wav, ring, way, way
+K1lt112participant_zoo.wav, zoo, der, zera
+K1jh011participant_ship.wav, ship, ship, ship
+K1MW013participant_ship.wav, ship, ship, ship
+K1TK017participant_socks.wav, socks, stack, stock
+K1lt225participant_window.wav, window, rand down, on dow
+K1WA246participant_socks.wav, socks, ha, fox
+K1pb023participant_ramp.wav, ramp, rop theem, rapped up
+K1so053participant_red.wav, red, rab, rag
+K1lm045participant_zoo.wav, zoo, su, show
+K1AM166participant_rainbow.wav, rainbow, vanma, renbow
+K1so072participant_rainbow.wav, rainbow, rained ba, grange bar
+K1sc011participant_lock.wav, lock, lock, lock
+K1pb227participant_socks.wav, socks, o, hark
+K1av988participant_lamp.wav, lamp, lamp, land
+K1dd021participant_chip.wav, chip, ec, chap
+K1lt236participant_sick.wav, sick, sort, sir
+K1lt332participant_leg.wav, leg, let, mack
+K1pe131participant_ring.wav, ring, reg, ragged
+K1dd084participant_fox.wav, fox, fox, fox
+K1so041participant_red.wav, red, ra, ra
+K1cb116participant_red.wav, red, brown, prow
+K1sp611participant_ring.wav, ring, ring, ring
+K1mo011participant_fan.wav, fan, fan, friend
+K1pv016participant_ship.wav, ship, so, cop
+K1pe022participant_thumb.wav, thumb, fah, tob
+K1qq111participant_one.wav, one, one, one
+K1cc035participant_ship.wav, ship, , shider
+K1pe125participant_fan.wav, fan, far un, phaeon
+K1pb016participant_thumb.wav, thumb, fieler, finder
+K1lm052participant_zoo.wav, zoo, you, zu
+K1cc056participant_leg.wav, leg, reak, wait
+K1av977participant_shoe.wav, shoe, shoe, shoe
+K1dd084participant_ramp.wav, ramp, au, al
+K1sc011participant_ring.wav, ring, ring, ray
+K1pb304participant_thumb.wav, thumb, grama, famma
+K1pv038participant_sick.wav, sick, for, sac
+K1pb023participant_lock.wav, lock, ya, yamica
+K1pe044participant_lock.wav, lock, law, lock
+K1_pe033participant_shoe.wav, shoe, shell, shrill
+K1lt202participant_lock.wav, lock, wack, walk
+K1pv046participant_ring.wav, ring, rain, rain
+K1lm052participant_rainbow.wav, rainbow, alaid baw, ladebell
+K1cc035participant_leg.wav, leg, my, light
+K1lt017participant_lock.wav, lock, go, naw
+K1so011participant_lamp.wav, lamp, mere, land
+K1pb304participant_sand.wav, sand, sand, stand
+K1lm052participant_one.wav, one, wide, wag
+K1cc014participant_ship.wav, ship, cat, shat the
+K1lm031participant_chick.wav, chick, , se
+K1xl011participant_lamp.wav, lamp, layump, limp
+K1qq111participant_chip.wav, chip, chep, chep
+K1cb038participant_ship.wav, ship, set, sap
+K1av022participant_fan.wav, fan, fan, fan
+K1zz301participant_shoe.wav, shoe, shoe, shoe
+K1lt311participant_sun.wav, sun, ham, sun
+K1lm045participant_one.wav, one, when, when
+K1pv046participant_window.wav, window, one dit, one deck
+K1dd105participant_zoo.wav, zoo, sayou, tal
+K1lm045participant_chip.wav, chip, ta, cap
+K1so041participant_rainbow.wav, rainbow, rainbow, rainbow
+K1TEST1participant_leg.wav, leg, lack, lack
+K1pb304participant_leg.wav, leg, rat, ret
+K1lt112participant_red.wav, red, ret, red
+K1pe055participant_red.wav, red, wreck, rad
+K1cc044participant_thumb.wav, thumb, fram, farm
+K1so068participant_chick.wav, chick, , si
+K1cc044participant_ramp.wav, ramp, ram, ram
+K1pb318participant_sun.wav, sun, se, sai
+K1cc056participant_socks.wav, socks, sunk, sac
+K1cc056participant_fox.wav, fox, fact, fox
+K1pe154participant_lamp.wav, lamp, ay lan, ray lamp
+K1cc014participant_thumb.wav, thumb, arm, arm
+K1AM166participant_thumb.wav, thumb, vam, fam
+K1jh011participant_chip.wav, chip, chip, chip
+K1lt045participant_leg.wav, leg, wake, wake
+K1lm045participant_rainbow.wav, rainbow, rainbow, rainbow
+K1so053participant_zoo.wav, zoo, no, new
+K1lm081participant_thumb.wav, thumb, y, e
+K1lt307participant_window.wav, window, when dull, when tou
+K1pv016participant_lock.wav, lock, lo, ols
+K1lt141participant_run.wav, run, one, one
+K1dd092participant_lamp.wav, lamp, farm, lamp
+K1av988participant_ship.wav, ship, ship, ship
+K1cb103participant_leg.wav, leg, yeg, land
+K1so112participant_fox.wav, fox, fox, fox
+K1cb132participant_chip.wav, chip, te, 
+K1pv046participant_rainbow.wav, rainbow, nan bell, rambev
+K1qq021participant_sand.wav, sand, sand, sand
+K1so041participant_thumb.wav, thumb, dam, dop
+K1so083participant_fan.wav, fan, , fene
+K1lt332participant_ship.wav, ship, sic, sha
+K1pe077participant_zoo.wav, zoo, here, sail
+K1cb024participant_fox.wav, fox, whac, warks
+K1av122participant_lamp.wav, lamp, lant, lamp
+K1so112participant_chick.wav, chick, chuck, chock
+K1cc035participant_run.wav, run, o, ha
+KT0BM573child_walk1.wav, walk1, hetat wa, she sat walking
+K1cc056participant_one.wav, one, rout ye, wit
+K1cb103participant_shoe.wav, shoe, , shill
+K1cb024participant_thumb.wav, thumb, sap, a famp
+K1pv016participant_lamp.wav, lamp, wild, ad
+K1so041participant_socks.wav, socks, shacks, sacks
+K1SB174participant_sun.wav, sun, tide, tido
+K1pe022participant_rock.wav, rock, rock, rock
+K1dd044participant_chick.wav, chick, ta, 
+K1so095participant_window.wav, window, winin doll, one doll
+K1lm081participant_zoo.wav, zoo, still, son
+K1lt057participant_chick.wav, chick, check, chick
+K1so011participant_chip.wav, chip, yet, chip
+K1lt141participant_wing.wav, wing, leak, me wonk
+K1so011participant_lock.wav, lock, mark, mawk
+K1pb212participant_sick.wav, sick, for, thick
+K1cc067participant_fan.wav, fan, former, forn
+K1av988participant_rock.wav, rock, rock, rock
+K1qq021participant_shoe.wav, shoe, ship, shoe
+K1KM243participant_wing.wav, wing, wing, wing
+K1lm081participant_lock.wav, lock, sha, clark
+K1av122participant_sand.wav, sand, sent, sand
+K1EB212participant_sand.wav, sand, fm, tholand
+K1lt057participant_thumb.wav, thumb, fra, for
+K1qq011participant_lock.wav, lock, lock, lock
+K1pe131participant_thumb.wav, thumb, e, sug
+K1so112participant_leg.wav, leg, wi, wagged
+K1zz301participant_sick.wav, sick, sick, sec
+K1so083participant_thumb.wav, thumb, , f
+K1zz501participant_sun.wav, sun, son, sun
+K1pe125participant_rock.wav, rock, whack, walk
+K1cb011participant_fan.wav, fan, foam, fa m
+K1cb011participant_chip.wav, chip, top, top
+K1pv038participant_sun.wav, sun, find, on
+K1lt017participant_zoo.wav, zoo, ping, snim
+K1lm031participant_rainbow.wav, rainbow, wing bow, rainbow
+K1cb024participant_lamp.wav, lamp, s, som
+K1pe154participant_zoo.wav, zoo, is y, yell
+K1zz301participant_one.wav, one, one, one
+K1dd033participant_zoo.wav, zoo, evail, ville
+K1So022participant_sick.wav, sick, sock, shick
+K1lt045participant_ramp.wav, ramp, where, ramp
+K1so068participant_sand.wav, sand, saan, saad
+K1pb016participant_fan.wav, fan, bian, fian
+K1cb132participant_run.wav, run, on, brown
+K1cb103participant_red.wav, red, ract, ract
+K1cb038participant_zoo.wav, zoo, so, saro
+KT0BM562child_rock1.wav, rock1, what was that i don'e now, what was that i don't know
+K1pv016participant_chip.wav, chip, h, ta
+K1so112participant_sick.wav, sick, set, sat
+K1so068participant_run.wav, run, whan, wod
+K1pe044participant_one.wav, one, one, one
+K1lt017participant_wing.wav, wing, gren, green
+K1so095participant_red.wav, red, rat, red
+K1pv038participant_wing.wav, wing, wink, wink
+K1TK017participant_leg.wav, leg, fut, floch
+K1lt112participant_ring.wav, ring, rank, rank
+K1cb011participant_shoe.wav, shoe, shall, shell
+K1cb038participant_fox.wav, fox, akin, far kim
+K1lt214participant_shoe.wav, shoe, she, shier
+K1av122participant_ship.wav, ship, ship, ship
+K1OS013participant_sun.wav, sun, fild, thow
+K1dd052participant_chip.wav, chip, , kit
+K1pe011participant_ship.wav, ship, she, she
+K1qq111participant_leg.wav, leg, rike, back
+K1pe154participant_sand.wav, sand, sa on, saam
+K1pe154participant_fan.wav, fan, bom, baaam
+K1lt247participant_rock.wav, rock, wha, walk
+K1pv023participant_thumb.wav, thumb, tham, from
+K1lt133participant_wing.wav, wing, ring, wing
+K1dd105participant_sun.wav, sun, sat, saint
+K1pe162participant_leg.wav, leg, flect, but
+K1pe147participant_chick.wav, chick, jack, jeck
+K1lt112participant_ship.wav, ship, setful, she had food
+K1pv046participant_leg.wav, leg, may, made
+K1pb318participant_lock.wav, lock, luck, wack
+K1zz017participant_ramp.wav, ramp, ramp, ramp
+K1So022participant_sand.wav, sand, soon, so longed
+K1dd114participant_sun.wav, sun, san, son
+K1lt045participant_wing.wav, wing, flatter, fatter
+K1lt236participant_one.wav, one, one, one
+K1TK017participant_ship.wav, ship, ship, ship
+K1pe044participant_red.wav, red, glad, bad
+K1pe044participant_lamp.wav, lamp, lame, land
+K1lt038participant_leg.wav, leg, he have, love
+K1lt307participant_socks.wav, socks, stop, saw
+K1zz017participant_ship.wav, ship, ship, ship
+K1pe022participant_sick.wav, sick, seck, sec
+K1lm018participant_red.wav, red, wit, wite
+KT0BM544child_chick1.wav, chick1, wat that the da  i sick, what's there notin now it's a chig chick
+K1cb011participant_red.wav, red, red, red
+K1dd033participant_ship.wav, ship, irlo, ir loaf
+K1so112participant_fan.wav, fan, fa, van
+K1lt236participant_leg.wav, leg, wag, wag
+K1lm052participant_sand.wav, sand, sound, sout
+K1av111participant_zoo.wav, zoo, sill, zu
+K1lt133participant_ramp.wav, ramp, ram, ram
+K1lm045participant_sick.wav, sick, su, sank
+K1so011participant_shoe.wav, shoe, cill, shoe
+K1av122participant_red.wav, red, red, red
+K1pe077participant_chip.wav, chip, kept, cap
+KT0BM544child_walk1.wav, walk1, what's this one kwalk w, what's this one ke wawk waw
+K1so036participant_fan.wav, fan, fair, feein
+K1so068participant_red.wav, red, rab, rab
+K1lm018participant_sand.wav, sand, say at, say at
+K1lt214researcher_thumb.wav, thumb, boun, foun
+K1dd114participant_sick.wav, sick, sick, sick
+K1cb132participant_window.wav, window, hetter, cloak door
+K1dd114participant_fox.wav, fox, bucks, bucks
+K1so095participant_sand.wav, sand, fir, fear
+K1lm018participant_sick.wav, sick, sick, sick
+K1pe077participant_rainbow.wav, rainbow, rainbow, rainbow
+K1pb016participant_one.wav, one, one, one
+K1cc023participant_wing.wav, wing, ming, ling
+K1pb016participant_chick.wav, chick, , ha
+K1SB174participant_wing.wav, wing, whales, wales
+K1av111participant_sun.wav, sun, ent, san
+K1pe154participant_one.wav, one, lowdy, lady
+K1pe147participant_chip.wav, chip, , chip
+K1zz501participant_ring.wav, ring, rain, ring
+K1lt133participant_leg.wav, leg, lake, nek
+K1dd073participant_ring.wav, ring, ring, glean
+K1WA246participant_fox.wav, fox, foxs, fox
+K1AM166participant_ring.wav, ring, rin, reened
+K1pv016participant_chick.wav, chick, , 
+K1cb038participant_window.wav, window, i no, window
+K1xl011participant_shoe.wav, shoe, shoe, shoe
+K1cc067participant_sand.wav, sand, scant, sant
+K1AM166participant_zoo.wav, zoo, fair, fail
+K1cb024participant_lock.wav, lock, , wa
+K1so083participant_sick.wav, sick, feter, wet ber
+K1SB174participant_ship.wav, ship, sa, that
+K1lt038participant_lock.wav, lock, hila, hina
+K1lt021participant_ramp.wav, ramp, , wisk
+K1cb116participant_window.wav, window, when now, wind ow
+K1so011participant_socks.wav, socks, shocks, socks
+K1lt141participant_one.wav, one, whoney, one
+K1sp611participant_zoo.wav, zoo, zeal, zu
+K1cb103participant_thumb.wav, thumb, from, fam
+K1so112participant_lock.wav, lock, lap, lock
+K1cc067participant_fox.wav, fox, fox, fox
+K1so083participant_sun.wav, sun, fi, fa
+K1cc067participant_rock.wav, rock, walk, walk
+K1lt311participant_fan.wav, fan, frani, fran
+K1TEST1participant_rainbow.wav, rainbow, ringboll, ringbow
+K1pe131participant_wing.wav, wing, grigg, wegg
+K1lt247participant_socks.wav, socks, sock, sock
+K1cb103participant_window.wav, window, bac, and byre
+K1cc014participant_sick.wav, sick, fock, fock
+K1so104participant_ship.wav, ship, ship, ship
+K1lt057participant_window.wav, window, rendol, window
+K1lt057participant_sand.wav, sand, stat, sap
+K1pv023participant_ramp.wav, ramp, mer, linger
+K1pb304participant_one.wav, one, one, one
+K1lt045participant_shoe.wav, shoe, shell, sheel
+K1av111participant_fox.wav, fox, ox, fox
+K1WA246participant_lamp.wav, lamp, lar, lamb
+KT0BM511child_rock1.wav, rock1, what's that tougout at, was that e ract
+K1so095participant_ring.wav, ring, ren, vourin
+K1pe088participant_shoe.wav, shoe, she'll, shill
+K1pe113participant_fan.wav, fan, aon, faon
+K1so036participant_ramp.wav, ramp, , 
+K1lm026participant_ramp.wav, ramp, i don't know, i don't know
+K1dd084participant_ship.wav, ship, ship, ship
+K1pb212participant_run.wav, run, rhimes, mine
+K1sc011participant_sand.wav, sand, so, so
+K1cb128participant_lock.wav, lock, what, wack
+K1pe066participant_sand.wav, sand, worn, horned
+K1WA246participant_ramp.wav, ramp, ral, raoll
+K1cb128participant_sick.wav, sick, sat, sat
+K1dd033participant_thumb.wav, thumb, eerlo, i der know
+K1_pe033participant_sand.wav, sand, fan, fan
+K1pe154participant_shoe.wav, shoe, sta, stare
+K1lt045participant_sick.wav, sick, not failing good, not failing good
+K1cc014participant_sand.wav, sand, son, sand
+K1pb318participant_ramp.wav, ramp, wa, willyam
+K1zz301participant_wing.wav, wing, wing, wing
+K1pv038participant_socks.wav, socks, sach, sac
+K1lt345participant_fan.wav, fan, , bob
+K1cb128participant_rainbow.wav, rainbow, grainbow, rabe
+K1cb132participant_sick.wav, sick, ilfi on, alfing man
+K1pe162participant_chick.wav, chick, cae, chatu
+K1cb128participant_fox.wav, fox, uc, poc
+K1dd044participant_shoe.wav, shoe, shel, show
+K1KM243participant_one.wav, one, one, one
+K1pe131participant_sand.wav, sand, sat, say it
+K1pe162participant_shoe.wav, shoe, so, so
+K1pe147participant_window.wav, window, waited up, whet thou
+K1cc023participant_lock.wav, lock, rack, lock
+K1dd073participant_sand.wav, sand, i, only
+K1lt021participant_leg.wav, leg, , 
+K1lt225participant_shoe.wav, shoe, chare, shill
+K1pe066participant_wing.wav, wing, rain, wing
+K1TEST1participant_fox.wav, fox, fox, fox
+K1cb038participant_wing.wav, wing, faint, ang
+K1lt038participant_sick.wav, sick, such, sick
+K1cb128participant_ring.wav, ring, great, fring
+K1pe088participant_lock.wav, lock, lak, lie
+K1lt021participant_chip.wav, chip, , sep
+K1lt021participant_rainbow.wav, rainbow, an mo, and now
+K1cb024participant_ring.wav, ring, rin, reen
+K1OS013participant_rock.wav, rock, wrnar, whaa
+K1So022participant_fox.wav, fox, fact, farx
+K1lt202participant_red.wav, red, ad, brad
+K1cb103participant_rock.wav, rock, , rock
+K1pe055participant_leg.wav, leg, leg, lag
+K1dd105participant_red.wav, red, tat, rack
+K1pb304participant_wing.wav, wing, wen, wing
+K1lt328participant_lamp.wav, lamp, , amein
+K1sc011participant_rainbow.wav, rainbow, rainbur, rainbow
+K1cb024participant_ship.wav, ship, , heric
+K1lt202participant_sun.wav, sun, san, shin
+K1dd021participant_one.wav, one, im not now, i meat no
+K1lt311participant_rainbow.wav, rainbow, mam bau, lin beau
+K1AM166participant_red.wav, red, round, rag
+K1pe022participant_wing.wav, wing, red, weng
+K1mo011participant_sand.wav, sand, sand, sand
+K1lt345participant_socks.wav, socks, soc, socks
+K1dd033participant_socks.wav, socks, focx, shocks
+K1pb227participant_sick.wav, sick, her, herick
+K1zz301participant_lamp.wav, lamp, lamp, lamp
+K1AY244participant_shoe.wav, shoe, she, sho
+K1OS013participant_one.wav, one, lide, why
+K1cb038participant_sun.wav, sun, sag, sag
+K1lm067participant_ring.wav, ring, fu, gin
+K1lm031participant_fan.wav, fan, rome, ve
+K1qq021participant_leg.wav, leg, lek, lake
+K1lt057participant_zoo.wav, zoo, sill, veil
+K1lt214participant_rainbow.wav, rainbow, wan bow, win beu
+K1TK017participant_rock.wav, rock, lock, lock
+K1pe131participant_lamp.wav, lamp, whem, lant
+K1sp611participant_sun.wav, sun, son, son
+K1pe055participant_chip.wav, chip, shap, shit
+K1cb116participant_shoe.wav, shoe, here, seare
+K1pb304participant_socks.wav, socks, sout, sock
+K1xl011participant_ramp.wav, ramp, ramp, ramp
+K1lm067participant_ship.wav, ship, said, sip
+K1dd114participant_shoe.wav, shoe, shos, shoes
+K1so068participant_ring.wav, ring, ron, run
+K1dd052participant_ship.wav, ship, zi, her
+K1cc067participant_ring.wav, ring, queen, wing
+K1zz501participant_sand.wav, sand, sand, sand
+K1lt158participant_lamp.wav, lamp, onor, allar
+K1zz017participant_shoe.wav, shoe, sur, shur
+K1lt202participant_window.wav, window, window, wind out
+K1pv046participant_rock.wav, rock, arout, oro
+K1lt121participant_one.wav, one, wha, whit
+K1cb132participant_wing.wav, wing, ring, green
+K1so072participant_fox.wav, fox, fox, fox
+K1lt021participant_chick.wav, chick, , cek
+K1sc011participant_ship.wav, ship, , ship
+K1lm026participant_socks.wav, socks, sax, sacs
+K1so053participant_ring.wav, ring, ren, reen
+K1SB174participant_fox.wav, fox, fox, fox
+K1lt057participant_ramp.wav, ramp, well, were
+K1SB174participant_window.wav, window, window, wen tou
+K1cc067participant_chip.wav, chip, sha, chi
+K1pb035participant_shoe.wav, shoe, jill, shill
+K1dd044participant_sun.wav, sun, sad, sout
+K1dd084participant_chick.wav, chick, chik, chek
+K1TEST1participant_fan.wav, fan, fan, fan
+K1jh011participant_fox.wav, fox, fox, fox
+K1lt112participant_fox.wav, fox, back, box
+K1lt307participant_ship.wav, ship, shap, shirt
+K1pe131participant_rainbow.wav, rainbow, , 
+K1lt214participant_ramp.wav, ramp, , wen
+K1cc023participant_window.wav, window, men go, men go
+K1av977participant_ship.wav, ship, ship, ship
+K1RRI016participant_chick.wav, chick, kick, check
+K1TK026participant_thumb.wav, thumb, come that dear, from that ye
+K1pb035participant_sick.wav, sick, were weere, well we ere
+K1pv023participant_sun.wav, sun, san, san
+K1cb116participant_fox.wav, fox, crock, procks
+K1lt017participant_one.wav, one, wa, on
+K1cb132participant_fox.wav, fox, far, francs
+K1pv058participant_rainbow.wav, rainbow, rabe, brave bow
+K1so036participant_lamp.wav, lamp, ray, layat
+K1pe088participant_thumb.wav, thumb, fom, fahm
+K1xl011participant_ship.wav, ship, ship, ship
+K1AY244participant_ramp.wav, ramp, ram, nam
+K1so083participant_window.wav, window, when he don, we go
+K1pe154participant_ring.wav, ring, rin, ring
+K1lt307participant_shoe.wav, shoe, shill, shield
+K1cc035participant_ramp.wav, ramp, rap, rat
+K1pe162participant_red.wav, red, raff, wave
+K1pv058participant_shoe.wav, shoe, here, heu
+K1lt017participant_ring.wav, ring, wind, weaned
+K1lt345participant_ramp.wav, ramp, r lamp, lam
+K1pe044participant_fox.wav, fox, fogs, fox
+K1TK026participant_ship.wav, ship, a ship, a ship
+K1lt311participant_ship.wav, ship, , chip
+K1so011participant_ramp.wav, ramp, ront, ramp
+K1lt121participant_ship.wav, ship, she, ship
+K1KM243participant_rainbow.wav, rainbow, mi bow, rimbow
+K1pv023participant_zoo.wav, zoo, no, hel
+K1pv058participant_zoo.wav, zoo, si, fail
+K1lt202participant_ring.wav, ring, when, red
+K1lm026participant_sick.wav, sick, sick, sick
+K1lt057participant_lock.wav, lock, walk, wawk
+K1EB212participant_fan.wav, fan, ollow, fall out
+K1So022participant_run.wav, run, rine, vhine
+K1dd073participant_fox.wav, fox, work, rock
+K1av122participant_fan.wav, fan, sand, fan
+K1mo011participant_lock.wav, lock, luck, luck
+K1lt214participant_lock.wav, lock, waf, wa
+K1so095participant_sick.wav, sick, tor, sick
+K1OS013participant_ramp.wav, ramp, rock, mar
+K1pv023participant_sick.wav, sick, flock, flec
+K1cb011participant_lamp.wav, lamp, i don't know what that is called, i don't know what that's called
+K1av111participant_lock.wav, lock, lock, lock
+K1lt045participant_red.wav, red, wen, ran
+K1lt158participant_sand.wav, sand, fai, faret
+K1MW013participant_rock.wav, rock, raim, ra em
+K1lt133participant_rock.wav, rock, frank, fac
+K1_pe033participant_lamp.wav, lamp, lay ot, waa
+K1cc067participant_wing.wav, wing, foy, why
+K1dd105participant_wing.wav, wing, week, ree
+K1dd092participant_leg.wav, leg, allow, a log
+K1lm045participant_ship.wav, ship, both, both
+K1so104participant_thumb.wav, thumb, fram, from
+K1cc044participant_sun.wav, sun, sign, son
+K1lt202participant_sick.wav, sick, sick, sheck
+K1pe147participant_fox.wav, fox, foc, fox
+K1dd052participant_zoo.wav, zoo, mary a vey, a meria preti
+K1pv046participant_shoe.wav, shoe, ge, shail
+K1zz301participant_leg.wav, leg, like, like
+K1lt038participant_chick.wav, chick, , sick
+K1lt021participant_ring.wav, ring, ai, oee
+K1cc067participant_zoo.wav, zoo, still, sill
+K1so041participant_lock.wav, lock, ta, luck
+K1lt328participant_fan.wav, fan, thought t, wack on
+K1pv058participant_sick.wav, sick, er, jack
+K1so041participant_shoe.wav, shoe, sile, sill woded
+K1cb103participant_fox.wav, fox, thout, lot
+K1pb212participant_fox.wav, fox, , sa
+K1pe044participant_ship.wav, ship, ship, shet
+K1so036participant_chick.wav, chick, she, sure
+K1pe077participant_shoe.wav, shoe, chill, sheel
+K1lt121participant_ring.wav, ring, bak, bate
+K1pv058participant_run.wav, run, ridy, radi
+K1pe154participant_fox.wav, fox, tan, than
+K1dd073participant_sick.wav, sick, ho, come
+K1TK026participant_sand.wav, sand, sand, sand
+K1pe131participant_one.wav, one, weg, wagged
+K1pv016participant_rock.wav, rock, wa, wask
+K1lm031participant_shoe.wav, shoe, sill, sou
+K1so041participant_lamp.wav, lamp, wom, wan
+K1pb023participant_rock.wav, rock, what, what
+K1so011participant_chick.wav, chick, ta, check
+K1cc056participant_chip.wav, chip, sr, sep
+K1pv038participant_zoo.wav, zoo, sand, samf
+K1lt214participant_one.wav, one, one, wan
+K1lt038participant_rock.wav, rock, what, walk
+K1pe162participant_thumb.wav, thumb, family, fam
+K1pe011participant_sick.wav, sick, she, shac
+K1lt038participant_sand.wav, sand, soyong, san yung
+K1lt307participant_red.wav, red, wrown, where
+K1so083participant_rock.wav, rock, , ac
+K1dd084participant_ring.wav, ring, ring, ring
+K1dd021participant_rainbow.wav, rainbow, men bo, leen bow
+K1pv038participant_fox.wav, fox, bac, fox
+K1cb011participant_wing.wav, wing, farde, fadn
+K1pb212participant_rainbow.wav, rainbow, mahem, mabel
+K1pb318participant_ring.wav, ring, we, wing
+K1sc011participant_rock.wav, rock, rock, rock
+K1lm052participant_shoe.wav, shoe, shill, shew
+K1lt141participant_ring.wav, ring, man, wan
+K1So022participant_fan.wav, fan, feon, faon
+K1cb011participant_thumb.wav, thumb, fan, fabon
+K1TK017participant_red.wav, red, wed, wed
+K1lm018participant_rainbow.wav, rainbow, wain bow, way in bow
+K1AY244participant_one.wav, one, one, one
+K1pe011participant_chick.wav, chick, dricken, dricken
+K1jh011participant_sun.wav, sun, son, son
+K1pe162participant_run.wav, run, reggy, renning
+K1lt038participant_fox.wav, fox, bah, facts
+K1lt214participant_ship.wav, ship, sop, ship
+K1pv023participant_shoe.wav, shoe, , shield
+K1lt057participant_leg.wav, leg, , pe
+K1pv046participant_thumb.wav, thumb, bon, batten
+K1lm031participant_fox.wav, fox, fox, fox
+K1so036participant_leg.wav, leg, back, fag
+K1pe125participant_rainbow.wav, rainbow, rain bow, rain bow
+K1cb011participant_run.wav, run, franma, raddenn
+K1pv016participant_window.wav, window, reny now, run loud
+K1AY244participant_leg.wav, leg, blake, bulaic
+K1lm026participant_leg.wav, leg, leg, like
+K1lt307participant_sun.wav, sun, firn, furin
+K1OS013participant_ring.wav, ring, ran, crang
+K1lt214participant_lamp.wav, lamp, , ryar
+K1lm018participant_thumb.wav, thumb, am, ham
+K1so011participant_ring.wav, ring, ring, ring
+K1pe055participant_thumb.wav, thumb, done, dan
+K1lt112participant_sick.wav, sick, sick, sick
+K1pe022participant_chick.wav, chick, ju, chek
+KT0BM511child_lock1.wav, lock1, what's that it's a ritch lock, what's that it's a lotch lock
+K1so041participant_sun.wav, sun, sob the, sad the
+K1lm067participant_ramp.wav, ramp, lamp, lamp
+K1lt345participant_red.wav, red, thet, ret
+K1pb035participant_ring.wav, ring, water, wevga
+K1lt328participant_run.wav, run, loud and, wan
+K1lt133participant_run.wav, run, ren, well
+K1pe055participant_sun.wav, sun, son, son
+K1pv023participant_ring.wav, ring, being, lean
+K1cc044participant_socks.wav, socks, sox, socks
+K1lt214participant_zoo.wav, zoo, deu, dou
+K1sc011participant_chip.wav, chip, ti, chit
+K1lt328participant_chip.wav, chip, s, hap
+K1pv038participant_shoe.wav, shoe, some, im
+K1so104participant_sick.wav, sick, sick, sick
+K1so053participant_socks.wav, socks, tau, tho
+K1cb116participant_chick.wav, chick, , chip
+KT0BM551child_rock1.wav, rock1, what ot yeur is gold ston, what this here is cold stone
+K1xl011participant_red.wav, red, ray, red
+K1pe011participant_zoo.wav, zoo, here, yel
+K1lt133participant_zoo.wav, zoo, i, as hill
+K1pe154participant_sick.wav, sick, scop, scrap
+K1lt158participant_leg.wav, leg, wild, that
+K1lt202participant_zoo.wav, zoo, jo, jo
+K1lm081participant_run.wav, run, jam, ham
+K1pb212participant_leg.wav, leg, rail, raw
+K1WA246participant_one.wav, one, one, one
+K1_pe033participant_lock.wav, lock, wha, wa
+K1dd052participant_shoe.wav, shoe, far, fe
+K1dd073participant_zoo.wav, zoo, yho, he
+K1lm031participant_sand.wav, sand, soon, san
+K1pe113participant_zoo.wav, zoo, to, zu
+K1pe088participant_ramp.wav, ramp, ramp, ramp
+K1dd052participant_red.wav, red, lae, where
+K1cc056participant_sick.wav, sick, so, soak
+K1pe162participant_zoo.wav, zoo, skill, stan
+K1cb011participant_rock.wav, rock, rock, roct
+K1RRI016participant_red.wav, red, vad, red
+K1cc023participant_chick.wav, chick, to, chick
+K1so095participant_rainbow.wav, rainbow, ranvel, greenlow
+K1cc044participant_fox.wav, fox, flocks, flocks
+K1TK026participant_lock.wav, lock, mock, mock
+K1WA246participant_chip.wav, chip, ship, chip
+K1so095participant_shoe.wav, shoe, shil, shill
+K1WA246participant_thumb.wav, thumb, tham, thum
+K1qq011participant_ring.wav, ring, ring, ring
+K1zz017participant_sick.wav, sick, sick, sick
+K1pb023participant_chick.wav, chick, to, jak
+K1lt214participant_socks.wav, socks, saw, sowks
+K1pv046participant_sand.wav, sand, saon, sin
+K1dd114participant_chip.wav, chip, just, chet
+K1sc011participant_fox.wav, fox, a, fa
+K1lt158participant_fan.wav, fan, one, far
+K1pe044participant_wing.wav, wing, rang, wang
+K1MW013participant_run.wav, run, why, wan
+K1pe022participant_window.wav, window, when go, window
+K1lt057participant_socks.wav, socks, sacks, socks
+K1cc044participant_one.wav, one, why, who id
+K1lm045participant_sand.wav, sand, frand, frand
+K1lt038participant_ring.wav, ring, re, rum
+K1pe077participant_one.wav, one, why, one
+K1lt057participant_lamp.wav, lamp, way out, weiy up
+K1lt225participant_rock.wav, rock, whalk, wawk
+K1lt158participant_red.wav, red, rot, rack
+K1cb024participant_sand.wav, sand, say, isay
+K1av122participant_lock.wav, lock, lock, lock
+K1TK026participant_chip.wav, chip, chip, chip
+K1AM166participant_ship.wav, ship, shop, ship
+K1cc056participant_run.wav, run, weran, uann
+K1lt038participant_one.wav, one, oran, ran
+K1so041participant_chip.wav, chip, she, chi
+K1pe088participant_ship.wav, ship, shak, ship
+K1so036participant_thumb.wav, thumb, tatma, fatma
+K1cb038participant_red.wav, red, rali, ralith
+K1av333participant_chip.wav, chip, chap, chap
+K1pe154participant_wing.wav, wing, wink, oing
+K1lt225participant_rainbow.wav, rainbow, wen bou, when bow
+K1dd092participant_ramp.wav, ramp, lamp, lamp
+K1lm018participant_one.wav, one, wine o, wind e
+K1lt236participant_rainbow.wav, rainbow, rain bout, ren bou
+K1cc056participant_thumb.wav, thumb, fam, dam
+K1cb132participant_sun.wav, sun, sone, san
+K1so095participant_lock.wav, lock, lock, lock
+K1pb212participant_chick.wav, chick, sic, thick
+K1lt225participant_lock.wav, lock, block, lock
+K1KM243participant_sun.wav, sun, fan, tan
+K1lt112participant_chick.wav, chick, sock, sock
+K1pb227participant_wing.wav, wing, deat, that
+K1av977participant_fox.wav, fox, fox, fox
+K1pe154participant_ship.wav, ship, to, thou ch
+K1so041participant_ship.wav, ship, boll ward, belwick
+K1lt017participant_shoe.wav, shoe, still, sill
+K1cc067participant_window.wav, window, when go, wen do
+K1SB174participant_socks.wav, socks, charks, chalks
+K1lm026participant_sun.wav, sun, saden, sudden
+K1TEST1participant_chick.wav, chick, chake, chick
+K1dd044participant_chip.wav, chip, t, chok
+K1TK017participant_zoo.wav, zoo, you, zu
+K1pe022participant_sun.wav, sun, shan, son
+K1dd114participant_ramp.wav, ramp, or, work
+K1EB212participant_chick.wav, chick, tuch, sarc
+K1pb035participant_one.wav, one, won, wand
+K1lm031participant_red.wav, red, rob, red
+K1lt121participant_run.wav, run, right, rite
+K1lt332participant_zoo.wav, zoo, for, for
+K1pb227participant_ring.wav, ring, raith, raited
+K1cc035participant_sick.wav, sick, , eent back
+K1av988participant_fox.wav, fox, oc, fox
+K1cb103participant_sand.wav, sand, font, fand
+K1MW013participant_socks.wav, socks, thar, thar
+K1lt133participant_sick.wav, sick, sick, sick
+KT0BM573child_lock1.wav, lock1, what's that wac a, what's that wackmm a
+KT0BM584child_lick1.wav, lick1, ut that i don't know hat o tey, bit's that don't know it's o bag
+K1cc035participant_sand.wav, sand, san, san
+K1OS013participant_ship.wav, ship, so, sir
+K1lt328participant_fox.wav, fox, priot, prior
+K1lm081participant_chip.wav, chip, her, shear
+K1lt133participant_sand.wav, sand, srit, straat
+K1lt311participant_leg.wav, leg, lank, lank
+K1lt045participant_thumb.wav, thumb, fun, fun
+K1pb023participant_ring.wav, ring, gern, a pemotem
+K1mo011participant_run.wav, run, bran, bran
+K1so041participant_fox.wav, fox, facts, facts
+K1cc014participant_window.wav, window, wen, window
+K1xl011participant_rock.wav, rock, rock, rock
+K1lt021participant_run.wav, run, i, right
+K1pe113participant_sun.wav, sun, sin, san
+K1lt236participant_zoo.wav, zoo, za, so
+K1SB174participant_leg.wav, leg, fa, far
+K1pe044participant_leg.wav, leg, grave, glaying
+K1av111participant_sick.wav, sick, sick, sick
+K1qq111participant_ring.wav, ring, urring, ring
+K1pb035participant_ramp.wav, ramp, wamp, whap
+K1cc023participant_shoe.wav, shoe, , shue
+K1MW013participant_shoe.wav, shoe, shill, shoe
+K1qq011participant_ship.wav, ship, ship, ship
+K1dd052participant_sand.wav, sand, ha, haw
+K1lm081participant_one.wav, one, whide, wide
+K1lt045participant_lamp.wav, lamp, lant, lamp
+K1dd021participant_leg.wav, leg, i didn't know, i don't know
+K1so068participant_shoe.wav, shoe, e, sail
+K1lm018participant_shoe.wav, shoe, shill, shell
+K1pe066participant_chip.wav, chip, gip, chip
+K1lm052participant_socks.wav, socks, stac, sa
+K1lt328participant_zoo.wav, zoo, ama mout, amma mout
+KT0BM562child_chick1.wav, chick1, what's this one i gon thetin, what's this one agona dono
+K1dd114participant_rainbow.wav, rainbow, wabo, rabeu
+K1KM243participant_leg.wav, leg, lake, lag
+K1cb103participant_ramp.wav, ramp, ramp, ramp
+K1lt017participant_sick.wav, sick, sec, sec
+K1AY244participant_ship.wav, ship, sharp, shik
+K1lt057participant_wing.wav, wing, wing, wing
+K1av977participant_ring.wav, ring, ra, re
+K1so068participant_one.wav, one, breg, ag
+K1AY244participant_ring.wav, ring, rain, ring
+K1lt225participant_red.wav, red, red, red
+K1dd073participant_socks.wav, socks, fa, thach
+K1sc011participant_socks.wav, socks, thact, ta
+K1pe011participant_ring.wav, ring, rain, ring
+K1pv023participant_socks.wav, socks, such, socks
+K1pe055participant_fan.wav, fan, ram, friend
+K1pe077participant_lamp.wav, lamp, grant, wamp
+K1cb038participant_socks.wav, socks, nocim, hac
+K1lm018participant_sun.wav, sun, sande, sanda
+K1_pe033participant_wing.wav, wing, fada, fada
+K1qq111participant_fan.wav, fan, fan, fan
+K1pe011participant_chip.wav, chip, chet, trap
+K1lt133participant_socks.wav, socks, stock, sac
+K1so011participant_thumb.wav, thumb, from, from
+K1pb318participant_fan.wav, fan, fear, thor
+K1cb128participant_sun.wav, sun, man, slan
+K1zz017participant_one.wav, one, one, one
+K1av988participant_leg.wav, leg, lag, leg
+K1xl011participant_fan.wav, fan, fan, fan
+K1so011participant_fan.wav, fan, fo on, frane
+K1AY244participant_sick.wav, sick, sick, sick
+K1cc044participant_rock.wav, rock, wa, wha
+K1av111participant_leg.wav, leg, lake, lake
+K1pe044participant_rock.wav, rock, rop, rock
+K1lt121participant_socks.wav, socks, sox, socks
+K1lt141participant_ramp.wav, ramp, of hegar, of hergor
+K1lt121participant_wing.wav, wing, till, till
+K1lt202participant_leg.wav, leg, ralk, wake
+K1AY244participant_socks.wav, socks, stack, stocks
+K1pb212participant_rock.wav, rock, lot, lock
+K1lt225participant_sand.wav, sand, sand, stand
+K1pv016participant_sand.wav, sand, , taand
+K1OS013participant_leg.wav, leg, lad, lad
+K1lt021participant_one.wav, one, why, why
+K1lt112participant_wing.wav, wing, wink, weks
+K1dd021participant_ship.wav, ship, aa no, anano
+K1sc011participant_leg.wav, leg, swan, swim
+K1lt021participant_wing.wav, wing, apaca, apaca
+K1dd021participant_lock.wav, lock, lack, mark
+K1so104participant_ring.wav, ring, ring, ren
+K1pe162participant_lock.wav, lock, wa, ua
+K1dd105participant_ring.wav, ring, greek, greek
+K1lt045participant_sand.wav, sand, sand, sand
+K1pv046participant_run.wav, run, brown, rang
+K1EB212participant_lamp.wav, lamp, lam, lamp
+K1cb132participant_ramp.wav, ramp, ar, i'll arm
+K1AY244participant_chip.wav, chip, chip, chap
+K1lt121participant_leg.wav, leg, make, meak
+K1AY244participant_zoo.wav, zoo, deal, deu
+K1pe066participant_sick.wav, sick, thick, thick
+K1pb023participant_lamp.wav, lamp, yaper, yauper
+K1lt133participant_fox.wav, fox, fai, fark is
+K1dd033participant_one.wav, one, guad, wadty
+K1lt121participant_sick.wav, sick, sak, sick
+K1EB212participant_ship.wav, ship, sir, sac
+K1pe066participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lm031participant_sun.wav, sun, son, sun
+K1pb318participant_thumb.wav, thumb, , sun
+K1cc035participant_chick.wav, chick, what can, what anna
+K1cc056participant_lock.wav, lock, wha, what
+K1RRI016participant_sick.wav, sick, sir, slak
+K1dd114participant_leg.wav, leg, but, bat
+K1OS013participant_socks.wav, socks, tat, tho
+K1cb024participant_chip.wav, chip, , sa
+K1lt311participant_window.wav, window, run down, one doug
+K1TK017participant_ramp.wav, ramp, i don't know, i don't know
+K1KM243participant_sand.wav, sand, sam, saand
+K1qq111participant_ship.wav, ship, ship, step
+K1dd114participant_window.wav, window, rindol, rindo
+K1lt307participant_ramp.wav, ramp, ram, wam
+K1dd073participant_thumb.wav, thumb, hul, ug
+K1so068participant_ship.wav, ship, sirk, step
+K1dd073participant_shoe.wav, shoe, shu, sho
+K1lt133participant_shoe.wav, shoe, shill, suu
+K1so095participant_fan.wav, fan, , 
+K1qq111participant_lamp.wav, lamp, lamp, lamp
+K1lt112participant_fan.wav, fan, lane, lan
+K1lm045participant_thumb.wav, thumb, am, cum
+K1pe147participant_one.wav, one, , why
+K1so053participant_thumb.wav, thumb, fame, thum
+K1lt038participant_lamp.wav, lamp, ore, holor
+K1TK017participant_sun.wav, sun, shan, son
+K1so072participant_red.wav, red, red, rag
+K1lm026participant_fan.wav, fan, fan, fan
+K1pv038participant_leg.wav, leg, reak, rank
+K1qq111participant_wing.wav, wing, wing, wing
+K1cc067participant_socks.wav, socks, salks, socks
+K1dd092participant_lock.wav, lock, anare, and maccar
+K1lt057participant_chip.wav, chip, ship, ship
+K1pe011participant_ramp.wav, ramp, ban, bank
+K1pv016participant_fox.wav, fox, parcs, poks
+K1cb103participant_lamp.wav, lamp, , arm
+K1lt236participant_rock.wav, rock, rock, rock
+K1qq011participant_one.wav, one, one, one
+K1EB212participant_wing.wav, wing, rings, wings
+K1dd052participant_fox.wav, fox, o bock, far
+K1lt057participant_rock.wav, rock, walk, lock
+K1so083participant_ramp.wav, ramp, whe, wrap
+K1lm052participant_run.wav, run, why, lag
+K1lm045participant_wing.wav, wing, ran, rom
+K1so083participant_lamp.wav, lamp, nen came, len's cane
+K1KM243participant_sick.wav, sick, said, se
+K1cb038participant_chick.wav, chick, ti, suc dopamemo
+K1cb038participant_rainbow.wav, rainbow, abo, m be
+K1lt332participant_run.wav, run, oran, who ran
+K1pv023participant_chick.wav, chick, t, jork
+K1pe011participant_sand.wav, sand, shan, sand
+K1lt345participant_sand.wav, sand, sad, sand
+K1SB174participant_run.wav, run, why, why
+K1lt236participant_red.wav, red, bad, red
+K1pv023participant_chip.wav, chip, cant, chap
+K1_pe033participant_rock.wav, rock, wha, la
+K1pe088participant_wing.wav, wing, wing, wing
+K1lm067participant_red.wav, red, right, right
+K1pe131participant_sun.wav, sun, sad, sad
+K1qq021participant_zoo.wav, zoo, saim, sib
+K1dd044participant_lock.wav, lock, lack, lak
+K1_pe033participant_chip.wav, chip, shack, shan't
+K1qq011participant_fox.wav, fox, box, fox
+K1SB174participant_rock.wav, rock, walk, walk
+K1SB174participant_zoo.wav, zoo, so, so
+K1sc011participant_sun.wav, sun, so, so
+K1cc023participant_one.wav, one, one, one
+K1pb304participant_window.wav, window, hen you gow, en you go
+K1dd092participant_run.wav, run, wi, wine
+K1AY244participant_thumb.wav, thumb, some, some
+K1so068participant_fox.wav, fox, shocks, fax
+K1pe088participant_run.wav, run, roun, ry
+K1cb038participant_sand.wav, sand, sam, scamp
+K1so011participant_one.wav, one, why, wind
+K1av977participant_red.wav, red, ret, red
+K1pb304participant_rainbow.wav, rainbow, ravbel, ravbow
+K1EB212participant_sick.wav, sick, suck, sack
+K1cb103participant_ring.wav, ring, run, rong
+K1so041participant_fan.wav, fan, from, fran
+K1lt121participant_fox.wav, fox, fo, jok
+K1pe011participant_wing.wav, wing, ale, futler
+K1pe113participant_run.wav, run, rand, ran
+K1lt345participant_chip.wav, chip, , tep
+K1pe055participant_lamp.wav, lamp, lmp, lyrm
+K1dd114participant_ship.wav, ship, gip, chip
+K1EB212participant_fox.wav, fox, fats, facts
+K1pb016participant_socks.wav, socks, tart, such
+K1dd044participant_wing.wav, wing, fair, fair
+K1so036participant_run.wav, run, whate, whyadn't ther
+K1cb132participant_lock.wav, lock, war, why
+K1pb016participant_lamp.wav, lamp, faul, valin
+K1lt121participant_shoe.wav, shoe, ho, shew
+K1so053participant_fox.wav, fox, lock, foccck
+K1lt038participant_rainbow.wav, rainbow, greenbow, rainbow
+K1lt121participant_red.wav, red, rant, rat
+KT0BM544child_sick1.wav, sick1, wat that oh ow thick sot kc, with that ah and thic sock
+K1dd052participant_lock.wav, lock, ba, ra
+K1cb128participant_lamp.wav, lamp, fan, the son
+K1KM243participant_chip.wav, chip, fame, sande
+K1dd073participant_chick.wav, chick, , e
+K1lm031participant_ramp.wav, ramp, where, whare
+K1lt158participant_zoo.wav, zoo, there, sail
+K1pv016participant_wing.wav, wing, , o
+K1pe022participant_ramp.wav, ramp, rih out, raw
+K1cb132participant_sand.wav, sand, forn, form
+K1KM243participant_thumb.wav, thumb, humm, fham
+K1pb304participant_lock.wav, lock, lock, lock
+K1lt202participant_fox.wav, fox, foxs, fox
+K1lt328participant_sand.wav, sand, am, thoarmt
+K1lt017participant_red.wav, red, red, red
+K1pe022participant_fox.wav, fox, flox, fox
+K1pe131participant_ramp.wav, ramp, ray up, ray up
+K1lt307participant_leg.wav, leg, rie, te
+K1pv058participant_red.wav, red, mack, mank
+K1so041participant_ring.wav, ring, lan, gleen
+K1lt311participant_sick.wav, sick, shack, shuck
+K1dd044participant_lamp.wav, lamp, lamp, lap
+K1pb016participant_sick.wav, sick, sir, such
+K1pb016participant_sand.wav, sand, slam, slom
+K1lt057participant_sun.wav, sun, sad, sad
+K1mo011participant_lamp.wav, lamp, lamp, lamp
+K1lm045participant_rock.wav, rock, va, lac
+K1lt112participant_sun.wav, sun, fand, san
+K1pe131participant_sick.wav, sick, fac, feck
+K1dd084participant_red.wav, red, ran, red
+K1dd105participant_rainbow.wav, rainbow, eble, ebo
+K1cc044participant_ring.wav, ring, leage, link
+K1cb128participant_chip.wav, chip, start, shat
+K1lt345participant_zoo.wav, zoo, to, su
+K1dd052participant_one.wav, one, ma, houa
+K1zz017participant_sand.wav, sand, sand, sand
+K1sp621participant_chip.wav, chip, chip, chip
+K1MW013participant_rainbow.wav, rainbow, wambo, wa im buff
+K1lm026participant_sand.wav, sand, sand, sand
+K1pb318participant_chip.wav, chip, cat, chap
+K1so011participant_window.wav, window, windows, window
+K1av977participant_chip.wav, chip, , chip
+KT0BM511child_walk1.wav, walk1, what's that maybe a b, what's that maybe abay
+K1cc044participant_fan.wav, fan, fac, freon
+K1cc014participant_rainbow.wav, rainbow, im, imba
+K1lt345participant_rainbow.wav, rainbow, ebo, he bo
+K1cc056participant_shoe.wav, shoe, sail, sail
+K1cb103participant_ship.wav, ship, sent, ship
+K1pe055participant_zoo.wav, zoo, sill, zo
+K1pv023participant_ship.wav, ship, cip, sip
+K1cb116participant_fan.wav, fan, ham, flana
+K1pe125participant_wing.wav, wing, wen, win
+K1pe066participant_leg.wav, leg, no, nog
+K1zz301participant_fan.wav, fan, fan, fan
+K1pe011participant_lock.wav, lock, vac, walk
+K1av977participant_sand.wav, sand, scant, stand
+K1pe011participant_fox.wav, fox, fo, fox
+K1zz017participant_lock.wav, lock, lock, lock
+K1lt332participant_sand.wav, sand, fam, sam
+K1lm018participant_run.wav, run, huad the, huada a
+K1_pe033participant_rainbow.wav, rainbow, mym bell, lan beau
+K1dd114participant_socks.wav, socks, sax, sex
+K1so095participant_lamp.wav, lamp, fligt, flight
+K1qq021participant_one.wav, one, one, wanten
+K1lm052participant_rock.wav, rock, hua, hoah
+K1dd044participant_one.wav, one, one, what
+K1cb038participant_leg.wav, leg, i her me, desant hear me
+K1lt332participant_chick.wav, chick, chuck, check
+K1lt158participant_socks.wav, socks, tots, tarts
+K1lt214participant_wing.wav, wing, vik, owing
+K1lm026participant_chip.wav, chip, chip, chip
+K1WA246participant_sand.wav, sand, sand, sand
+K1sc011participant_fan.wav, fan, foul, fol
+K1so083participant_run.wav, run, ready, oo allu
+K1pb035participant_ship.wav, ship, so, sick
+K1lm031participant_leg.wav, leg, look, leck
+K1cc023participant_chip.wav, chip, cp, shet
+K1pv038participant_fan.wav, fan, bon, fon
+K1pb227participant_sand.wav, sand, sath, set
+K1pb227participant_fan.wav, fan, ley a draw, land all
+K1sc011participant_shoe.wav, shoe, , shou
+K1dd052participant_lamp.wav, lamp, sher, shere
+K1lm026participant_one.wav, one, one, one
+K1pv058participant_sun.wav, sun, fa, fand
+K1lt332participant_lamp.wav, lamp, i, lie
+K1sc011participant_ramp.wav, ramp, ray, ray
+K1so112participant_chip.wav, chip, cha, chaked
+K1So022participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lm081participant_socks.wav, socks, saks, socks
+K1AM166participant_fan.wav, fan, fo, fan
+K1lm067participant_wing.wav, wing, thi, link
+K1qq021participant_ramp.wav, ramp, vant, ramp
+K1lt332participant_fox.wav, fox, tha, thought
+K1lt214participant_leg.wav, leg, what, what
+K1lt121participant_rock.wav, rock, ra, drop
+K1lt236participant_socks.wav, socks, self, soft
+K1pe055participant_socks.wav, socks, songs, sarus
+K1pv016participant_red.wav, red, oh, no
+K1lt133participant_rainbow.wav, rainbow, rainbow, raimbow
+K1so011participant_sun.wav, sun, san, san
+K1lt021participant_shoe.wav, shoe, , shell
+K1av111participant_fan.wav, fan, san, fan
+K1pe113participant_ring.wav, ring, gran, gray and
+K1pb035participant_thumb.wav, thumb, dame, tham
+K1so068participant_sick.wav, sick, silk, sick
+K1lt112participant_run.wav, run, ran, orin
+K1pv023participant_run.wav, run, why, why
+K1qq011participant_lamp.wav, lamp, lamp, lamp
+K1lt202participant_ship.wav, ship, sop, sep
+K1lt057participant_red.wav, red, lad, werd
+K1pb035participant_chip.wav, chip, cher, chep
+K1lm052participant_red.wav, red, or out, lad
+K1pe022participant_red.wav, red, ron, ran
+K1lt345participant_rock.wav, rock, rac, rock
+K1pv016participant_ring.wav, ring, ue, luin
+K1cc067participant_rainbow.wav, rainbow, graybon, wanbow
+K1dd052participant_rainbow.wav, rainbow, ape, uauba
+K1qq011participant_run.wav, run, vine, ran
+K1pe066participant_lock.wav, lock, nap, knock
+K1So022participant_lock.wav, lock, lock, lock
+K1cc023participant_ring.wav, ring, lady, wing
+K1pv058participant_chick.wav, chick, , s
+K1lt057participant_fan.wav, fan, fan, fan
+K1pe022participant_fan.wav, fan, fam, pham
+K1dd084participant_sun.wav, sun, side, sign
+K1EB212participant_rock.wav, rock, war, mack
+K1mo011participant_sick.wav, sick, sick, sick
+K1lm067participant_one.wav, one, or i, or i
+K1jh011participant_lamp.wav, lamp, lamp, lamp
+K1pe125participant_chip.wav, chip, sep, ship
+K1lt225participant_thumb.wav, thumb, bam, bam
+K1pe125participant_shoe.wav, shoe, hugh, shew
+K1dd021participant_thumb.wav, thumb, i now, i  no
+K1lt158participant_run.wav, run, wound, why
+K1so036participant_sun.wav, sun, sant ye, sanle
+K1zz301participant_sand.wav, sand, sand, sand
+K1pe055participant_run.wav, run, rung, run
+K1lm018participant_wing.wav, wing, waiting, winged
+K1cc056participant_sand.wav, sand, sam, sam
+K1cc044participant_chick.wav, chick, check, check
+K1AM166participant_leg.wav, leg, lay, may
+K1so083participant_rainbow.wav, rainbow, ra bow, rain bow
+K1so011participant_sand.wav, sand, samd, sand
+K1dd033participant_rainbow.wav, rainbow, wanber, rambo
+K1av122participant_zoo.wav, zoo, , bat a fun
+K1KM243participant_shoe.wav, shoe, shom, sho
+K1so072participant_sick.wav, sick, , 
+K1lt345participant_chick.wav, chick, i sa cat, a sicat
+K1lm081participant_sick.wav, sick, , 
+K1pb304participant_sun.wav, sun, stal, stan
+K1dd044participant_thumb.wav, thumb, pam, pum
+K1cc044participant_leg.wav, leg, make, moke
+K1TK017participant_rainbow.wav, rainbow, rainbow, lainbow
+K1pb035participant_wing.wav, wing, wing, wing
+K1so011participant_run.wav, run, wine, rhine
+K1dd092participant_zoo.wav, zoo, nly sale, only sail
+K1pv046participant_one.wav, one, brint and, bright
+K1so095participant_thumb.wav, thumb, an, amp
+K1pe131participant_fox.wav, fox, fas, facts
+K1av022participant_chip.wav, chip, chip, ship
+K1lt307participant_lamp.wav, lamp, arm, arm
+K1pb304participant_lamp.wav, lamp, ther, there
+K1pv046participant_red.wav, red, wereout, rout
+K1pb318participant_one.wav, one, when, when
+K1cc067participant_red.wav, red, ragg, wegg
+K1dd092participant_red.wav, red, brad, rad
+K1lt017participant_chick.wav, chick, se, se
+K1cc056participant_sun.wav, sun, some, san
+K1lm067participant_fan.wav, fan, o, farm
+K1mo011participant_leg.wav, leg, leg, leg
+K1cb116participant_sun.wav, sun, some child, san child
+K1cc044participant_lock.wav, lock, a, ya
+K1pe066participant_window.wav, window, rendale, wendell
+K1dd084participant_chip.wav, chip, chi, ship
+K1xl011participant_fox.wav, fox, fox, fox
+K1pb023participant_red.wav, red, rred, rag
+K1cc044participant_rainbow.wav, rainbow, rainbow, rainbow
+K1so095participant_socks.wav, socks, sach, sock
+K1so104participant_window.wav, window, crinda, gwendoll
+K1lt247participant_ring.wav, ring, ri, ly
+K1cb011participant_chick.wav, chick, duck, chark
+K1lt038participant_run.wav, run, glany, frand
+K1qq021participant_chip.wav, chip, , ji
+K1sp611participant_chip.wav, chip, chit, chit
+K1dd052participant_ramp.wav, ramp, fair, fair
+K1lm031participant_run.wav, run, one, one
+K1AM166participant_socks.wav, socks, fac, tax
+K1pe147participant_leg.wav, leg, lay, rag
+K1pv058participant_wing.wav, wing, wing, wig
+K1pb304participant_fan.wav, fan, faand, san
+K1So022participant_chick.wav, chick, sir, sir
+K1dd092participant_wing.wav, wing, , ring
+K1dd073participant_ramp.wav, ramp, o, o
+K1pe077participant_leg.wav, leg, rag, wag
+K1lt202participant_chip.wav, chip, sop, sop
+K1so053participant_one.wav, one, winely, wyle
+K1lt307participant_chick.wav, chick, she, shet
+K1lt247participant_shoe.wav, shoe, hel, shew
+K1lt311participant_shoe.wav, shoe, hero, hue
+K1dd105participant_fox.wav, fox, foct, focked
+K1lt345participant_run.wav, run, mi, blan
+K1cb116participant_thumb.wav, thumb, some, sum
+K1so112participant_rainbow.wav, rainbow, vainbough, rainbow
+K1cc035participant_fox.wav, fox, it has something in  lot o, it has something a lot of
+K1pe125participant_red.wav, red, rat, red
+K1TK026participant_rainbow.wav, rainbow, rainbow, lainbow
+K1cc023participant_thumb.wav, thumb, am, fam
+K1lt112participant_rock.wav, rock, rel, rock
+K1dd073participant_window.wav, window, wendow, window
+K1dd105participant_lamp.wav, lamp, lap, loup
+K1cb038participant_lamp.wav, lamp, wamp, warmth
+K1qq011participant_rock.wav, rock, rock, rock
+K1dd021participant_shoe.wav, shoe, sun, she
+K1lt133participant_ring.wav, ring, ring, ring
+K1cb128participant_socks.wav, socks, sok, socks
+K1so083participant_chip.wav, chip, s, si
+K1dd073participant_one.wav, one, ran, when
+K1pb212participant_lock.wav, lock, an, a
+K1so112participant_rock.wav, rock, wa, walk
+K1lt133participant_sun.wav, sun, atan, sun
+K1so083participant_wing.wav, wing, w, wive
+K1dd105participant_shoe.wav, shoe, hew, sheer
+K1pe162participant_ring.wav, ring, romu, ring
+K1cb103participant_fan.wav, fan, fan, forn
+K1cb024participant_rainbow.wav, rainbow, w yo wa, bwambur
+K1pe162participant_fan.wav, fan, form, foll am
+K1pe088participant_fan.wav, fan, fan, fan
+K1dd044participant_socks.wav, socks, stop, soct
+K1lt057participant_ship.wav, ship, se, ship
+K1cb024participant_sun.wav, sun, so, so
+K1lt214participant_window.wav, window, when now, wone thou
+K1So022participant_shoe.wav, shoe, she, shoe
+K1pb227participant_sun.wav, sun, fou, stop
+K1pe113participant_socks.wav, socks, stocks, sacks
+K1cc035participant_shoe.wav, shoe, see, and seal
+K1SB174participant_lock.wav, lock, nark, nark
+K1dd033participant_fan.wav, fan, irdo, irla
+K1lt141participant_sick.wav, sick, sick, suk
+K1pe011participant_lamp.wav, lamp, lamp, lank
+K1lt225participant_sick.wav, sick, sock, sac
+K1cb132participant_leg.wav, leg, great, wag
+K1pv016participant_ramp.wav, ramp, o, amule
+K1cc044participant_shoe.wav, shoe, he, shoe
+K1lm081participant_chick.wav, chick, shick, shik
+K1cc035participant_socks.wav, socks, , thacric
+K1TK017participant_fox.wav, fox, froc, fox
+K1so104participant_wing.wav, wing, wing, wing
+KT0BM584child_walk1.wav, walk1, without ne wha, was that what
+K1lt202participant_wing.wav, wing, rang, wen
+K1dd052participant_rock.wav, rock, la, what
+K1pb304participant_shoe.wav, shoe, shall, shill
+K1pb212participant_one.wav, one, learn, man
+K1SB174participant_rainbow.wav, rainbow, lane bow, rainbow
+K1cb038participant_ring.wav, ring, well, alanc
+K1so095participant_fox.wav, fox, fa, fa
+K1mo011participant_sun.wav, sun, son, son
+K1dd084participant_socks.wav, socks, chok, shocks
+K1so072participant_lock.wav, lock, la, lha a
+K1SB174participant_red.wav, red, rawl, wab
+K1av977participant_ramp.wav, ramp, ret, ret
+K1lt017participant_leg.wav, leg, like, laze
+K1so112participant_sand.wav, sand, fand, sand
+KT0BM522child_rock1.wav, rock1, what'it rac, what's it rock
+K1av988participant_one.wav, one, one, one
+K1pe022participant_run.wav, run, rine and, ran
+K1xl011participant_one.wav, one, why, what
+K1pv046participant_ramp.wav, ramp, , ak your gows on
+K1pe125participant_sun.wav, sun, sign, sin
+K1lt236participant_sun.wav, sun, in, son
+K1dd021participant_sand.wav, sand, sand, sad
+K1so036participant_window.wav, window, ringo, window
+K1av111participant_wing.wav, wing, wing, wing
+K1lt328participant_one.wav, one, ride, wid
+K1so041participant_wing.wav, wing, re, read
+K1cb011participant_window.wav, window, wait now, gwentow
+K1lt202participant_shoe.wav, shoe, sho, shell
+K1pe162participant_rainbow.wav, rainbow, rainbow, rainbow
+K1pe066participant_sun.wav, sun, fun, fan
+K1pe154participant_chip.wav, chip, slepe, saplu
+K1lm031participant_ship.wav, ship, si, set
+K1lt017participant_lamp.wav, lamp, dam, lam
+K1TK017participant_run.wav, run, one, one
+K1cc023participant_rainbow.wav, rainbow, rainbow, rainbow
+K1lt311participant_sand.wav, sand, ran, rand
+K1WA246participant_red.wav, red, red, red
+K1pe011participant_red.wav, red, red, wored
+K1so036participant_rainbow.wav, rainbow, rainbow, rainblow
+K1cb132participant_ship.wav, ship, sow, sop
+K1lm081participant_ramp.wav, ramp, , 
+K1cb128participant_sand.wav, sand, fan, fan
+K1pb212participant_socks.wav, socks, fac, toc
+K1pe113participant_ramp.wav, ramp, ramp, rap
+K1lt307participant_thumb.wav, thumb, plum, flama
+K1mo011participant_zoo.wav, zoo, still, szu
+K1lm052participant_leg.wav, leg, rank, lag
+K1lt328participant_red.wav, red, fa, wa a
+K1TK026participant_fan.wav, fan, ban, fan
+K1pe131participant_leg.wav, leg, rag, leg
+K1so083participant_chick.wav, chick, s, s
+K1lt017participant_run.wav, run, what, one
+K1lt045participant_sun.wav, sun, sad, sand
+K1lt045participant_one.wav, one, one, one
+K1qq111participant_zoo.wav, zoo, there, vile
+K1lt328participant_leg.wav, leg, whil, wauk
+K1cb132participant_chick.wav, chick, to, chip
+K1lt158participant_rainbow.wav, rainbow, gran bown, rain bow
+K1lt311participant_zoo.wav, zoo, hou, hew
+K1so068participant_rainbow.wav, rainbow, wain ba, wain bow
+K1cb103participant_socks.wav, socks, ruc, hack
+K1lt121participant_chick.wav, chick, so, so
+K1dd114participant_wing.wav, wing, haut, cart
+K1lm026participant_window.wav, window, when dull, when thou
+K1lt158participant_window.wav, window, rain daw, ringouv
+K1lm045participant_ring.wav, ring, lint, lanked
+K1lt057participant_sick.wav, sick, sick, sick
+K1so068participant_rock.wav, rock, work, wak
+K1lt112participant_leg.wav, leg, rand, lake
+K1cc023participant_fan.wav, fan, fan, fm
+K1zz017participant_chip.wav, chip, chip, chip
+K1dd044participant_ship.wav, ship, boutand, boat
+K1pe044participant_ramp.wav, ramp, rang, ring o
+K1so104participant_rock.wav, rock, ra, raha
+K1pe088participant_zoo.wav, zoo, you, ell
+K1lt133participant_lock.wav, lock, la, lack
+K1pe131participant_chip.wav, chip, top, shap
+K1RRI016participant_thumb.wav, thumb, brown, com
+K1lm026participant_rock.wav, rock, rac, rock
+KT0BM533child_rock1.wav, rock1, pra, r
+K1mo011participant_fox.wav, fox, fox, fox
+K1qq011participant_red.wav, red, red, red
+K1lt021participant_sand.wav, sand, sort, sand
+K1dd092participant_chick.wav, chick, tep, tipe
+K1dd073participant_fan.wav, fan, o, fump
+K1lt202participant_run.wav, run, body, bod
+K1pb016participant_lock.wav, lock, olorat that on, don't know at that one
+K1dd114participant_rock.wav, rock, work, work
+K1lt307participant_sick.wav, sick, fer, fair
+K1cb103participant_zoo.wav, zoo, till, still
+K1pe125participant_lock.wav, lock, whack, walk
+K1lt141participant_sun.wav, sun, san, son
+K1lt236participant_thumb.wav, thumb, sab, sam
+K1zz017participant_ring.wav, ring, ring, ring
+K1pb304participant_ship.wav, ship, boat, boat
+K1lm045participant_lock.wav, lock, jacu, jock
+K1dd114participant_chick.wav, chick, gi, yet
+K1lt021participant_lock.wav, lock, wa, locked
+K1qq111participant_lock.wav, lock, alat, lock
+K1pv016participant_sun.wav, sun, com, tan
+K1TK017participant_chick.wav, chick, she, shic
+K1so072participant_shoe.wav, shoe, sher, shill
+K1lt247participant_thumb.wav, thumb, van, fam
+K1pb016participant_zoo.wav, zoo, so, so
+K1pb016participant_fox.wav, fox, but, tots
+K1cc014participant_one.wav, one, y, wy
+K1lt307participant_rainbow.wav, rainbow, wambau, wambow
+K1pe011participant_one.wav, one, won, woon
+K1zz017participant_red.wav, red, red, red
+K1TK017participant_wing.wav, wing, wings, winds
+K1AM166participant_window.wav, window, window, window
+K1dd021participant_ring.wav, ring, rink, wink
+K1dd033participant_shoe.wav, shoe, el, sheel
+K1so072participant_fan.wav, fan, , 
+K1dd114participant_ring.wav, ring, wanns, winds
+K1pe088participant_chick.wav, chick, shak, chant
+K1lm052participant_thumb.wav, thumb, cab, tab
+K1pe125participant_ring.wav, ring, ragi, rang
+K1lm018participant_ship.wav, ship, shi, shit
+K1pe066participant_run.wav, run, wone, one
+K1pe113participant_rock.wav, rock, rob, rock
+K1lt121participant_chip.wav, chip, ci, shi
+K1so072participant_chip.wav, chip, chu, chip
+K1dd092participant_shoe.wav, shoe, till, still
+K1lt133participant_red.wav, red, wreg, reght
+K1lm067participant_zoo.wav, zoo, er, fero
+K1lm067participant_chip.wav, chip, so, sape
+K1pv016participant_rainbow.wav, rainbow, mamwe, lanbung
+K1lt038participant_ship.wav, ship, i, set
+K1pb023participant_rainbow.wav, rainbow, rainbow, rainbow
+K1pe077participant_ring.wav, ring, rng, rang
+K1cb011participant_ring.wav, ring, rain, rayden
+K1cc035participant_one.wav, one, li, one
+K1lt038participant_chip.wav, chip, , sat broke
+K1pb035participant_sun.wav, sun, san, sadn
+K1KM243participant_lock.wav, lock, lack, lo
+K1pe125participant_zoo.wav, zoo, sail, sail
+K1cb128participant_run.wav, run, raundyand, randoling
+K1lt017participant_socks.wav, socks, thoughts, sars
+K1pe011participant_thumb.wav, thumb, firm, farm
+K1sp611participant_sick.wav, sick, sick, sick
+K1sp611participant_run.wav, run, run, run
+K1cb128participant_rock.wav, rock, ran, ralph
+K1lt307participant_lock.wav, lock, law, law
+K1WA246participant_zoo.wav, zoo, ville, you
+K1pv038participant_one.wav, one, erin, rand
+K1KM243participant_ship.wav, ship, shap, shut
+K1lt332participant_wing.wav, wing, wig, wang
+K1pb227participant_rainbow.wav, rainbow, red bow, red ball
+K1lt045participant_run.wav, run, wonin, whaning
+K1lt332participant_lock.wav, lock, ilac, e loc
+K1pv023participant_lock.wav, lock, wa, what
+K1OS013participant_run.wav, run, ow, 
+K1dd033participant_sick.wav, sick, very low, ilo
+K1pv046participant_sun.wav, sun, sound, sound
+K1EB212participant_red.wav, red, rab, rab
+K1so011participant_leg.wav, leg, mad, mag
+K1lt202participant_thumb.wav, thumb, fam, flam
+K1so083participant_one.wav, one, re, wu
+K1zz017participant_fan.wav, fan, fan, fan
+K1sp611participant_leg.wav, leg, less, emus
+K1lt017participant_thumb.wav, thumb, from, from
+K1lt045participant_socks.wav, socks, socks, socks
+K1AY244participant_sun.wav, sun, san, son
+K1so068participant_lock.wav, lock, lack, lock
+K1so072participant_chick.wav, chick, chi, shit
+K1cc023participant_run.wav, run, one, wide
+K1pb035participant_rock.wav, rock, why, why
+K1zz501participant_rock.wav, rock, raw, raw
+KT0BM573child_lick1.wav, lick1, and this one wit, and this one owet am
+K1dd021participant_lamp.wav, lamp, odout na, at aunt now
+K1pv016participant_shoe.wav, shoe, here, sker
+K1zz017participant_zoo.wav, zoo, ezieu, zu
+K1dd092participant_fox.wav, fox, and fracts, on facts
+K1lm031participant_zoo.wav, zoo, ero, sou
+K1pe077participant_red.wav, red, wereat, we're at
+K1_pe033participant_fan.wav, fan, sam, fan
+K1pb227participant_one.wav, one, what, what
+K1pe125participant_run.wav, run, why, wide
+K1so112participant_socks.wav, socks, socks, socks
+K1cb128participant_ship.wav, ship, bo, bot
+K1so072participant_sun.wav, sun, san, sam
+K1lt121participant_lock.wav, lock, wel, wa
+K1lt311participant_ramp.wav, ramp, lougid, lamp
+K1dd105participant_sick.wav, sick, sirt, si
+K1WA246participant_leg.wav, leg, leg, lag
+K1dd021participant_red.wav, red, mura, red
+K1mo011participant_ring.wav, ring, ring, ring
+K1so095participant_zoo.wav, zoo, hero, heno
+K1pv023participant_red.wav, red, rank, rad
+K1so072participant_ramp.wav, ramp, , 
+K1pv038participant_chick.wav, chick, tock, chek
+K1pe066participant_chick.wav, chick, jhik, chink
+K1sp611participant_one.wav, one, er t recording, her ears recording
+K1av122participant_shoe.wav, shoe, shoe, shoe
+K1RRI016participant_one.wav, one, why, wine
+K1lm031participant_window.wav, window, wen dull, window
+K1pe022participant_chip.wav, chip, check, shet
+K1KM243participant_chick.wav, chick, a chenk, check
+K1lt133participant_thumb.wav, thumb, am, thum
+K1pe022participant_leg.wav, leg, rak, leg
+K1pb212participant_ramp.wav, ramp, who i fried a pull, o i fit te pull
+K1AM166participant_fox.wav, fox, fact, frocx
