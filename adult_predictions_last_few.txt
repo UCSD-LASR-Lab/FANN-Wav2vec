@@ -1,0 +1,19 @@
+file name, target, base prediction, large prediction
+K1pb318researcher_window.wav, window, wing dol, wing doll
+K1pv058researcher_socks.wav, socks, tock, socks
+K1pv058researcher_window.wav, window, window, window
+K1lt345researcher_zoo.wav, zoo, er, sial
+K1pv058researcher_sick.wav, sick, sick, sick
+K1pb318researcher_sun.wav, sun, son, sun
+K1pb318researcher_zoo.wav, zoo, zoo, zo
+K1pb318researcher_wing.wav, wing, wing, wing
+K1pv058researcher_wing.wav, wing, wing, wing
+K1lt345researcher_window.wav, window, window, window
+K1pv058researcher_zoo.wav, zoo, zil, zial
+K1lt345researcher_wing.wav, wing, waing, wing
+K1pv058researcher_sun.wav, sun, son, son
+K1pv058researcher_shoe.wav, shoe, shi, shill
+K1pb318researcher_thumb.wav, thumb, fom, thumb
+K1lt345researcher_sun.wav, sun, son, son
+K1lt345researcher_thumb.wav, thumb, fom, thumb
+K1pv058researcher_thumb.wav, thumb, ba, thum

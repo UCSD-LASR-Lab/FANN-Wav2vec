@@ -1,0 +1,8 @@
+file name, target, base prediction, large prediction
+K1MW013participant_fan.wav, fan, bo, fan
+K1MW013participant_chick.wav, chick, tic, chick
+K1MW013participant_lock.wav, lock, not, lock
+K1MW013participant_fox.wav, fox, far, foc
+K1MW013participant_leg.wav, leg, lag, lage
+K1MW013participant_chip.wav, chip, ti, ti
+K1MW013participant_lamp.wav, lamp, lamp, a ap
