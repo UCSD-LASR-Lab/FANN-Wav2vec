@@ -1,0 +1,2931 @@
+[
+    {
+        "line_id": 1,
+        "file_name": "K1lt158participant_shoe.wav",
+        "free_transcription": "shootr",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 2,
+        "file_name": "K1pe055participant_shoe.wav",
+        "free_transcription": "shootu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 3,
+        "file_name": "K1pb023participant_sand.wav",
+        "free_transcription": "sandared",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 4,
+        "file_name": "K1WA246participant_sick.wav",
+        "free_transcription": "sicki",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 5,
+        "file_name": "K1lt311participant_one.wav",
+        "free_transcription": "none",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0,
+            "won": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 6,
+        "file_name": "K1so095participant_chick.wav",
+        "free_transcription": "chicke",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 7,
+        "file_name": "K1dd105participant_ship.wav",
+        "free_transcription": "4r",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 8,
+        "file_name": "K1cb132participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 9,
+        "file_name": "K1lt311participant_chip.wav",
+        "free_transcription": "tt",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 10,
+        "file_name": "K1pb227participant_chick.wav",
+        "free_transcription": "chicke",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 11,
+        "file_name": "K1so112participant_zoo.wav",
+        "free_transcription": "zoom",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 12,
+        "file_name": "K1pv016participant_socks.wav",
+        "free_transcription": "foxs",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 13,
+        "file_name": "K1lt225participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 14,
+        "file_name": "K1pe147participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 15,
+        "file_name": "K1pv058participant_lock.wav",
+        "free_transcription": "block block",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 16,
+        "file_name": "K1pe131participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 17,
+        "file_name": "K1pe131participant_fan.wav",
+        "free_transcription": "fanired",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 18,
+        "file_name": "K1lt332participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 19,
+        "file_name": "K1lt133participant_fan.wav",
+        "free_transcription": "fans",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 20,
+        "file_name": "K1so053participant_sun.wav",
+        "free_transcription": "3",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 21,
+        "file_name": "K1EB212participant_socks.wav",
+        "free_transcription": "socksr",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 22,
+        "file_name": "K1pe055participant_lock.wav",
+        "free_transcription": "blockw",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 23,
+        "file_name": "K1pv046participant_lock.wav",
+        "free_transcription": "block",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 24,
+        "file_name": "K1cb128participant_leg.wav",
+        "free_transcription": "redq",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 25,
+        "file_name": "K1pe088participant_red.wav",
+        "free_transcription": "fred",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 26,
+        "file_name": "K1pb035participant_window.wav",
+        "free_transcription": "windows",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 27,
+        "file_name": "K1pe044participant_thumb.wav",
+        "free_transcription": "thumbsu",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 28,
+        "file_name": "K1pe125participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 29,
+        "file_name": "K1lm031participant_thumb.wav",
+        "free_transcription": "thumbo",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 30,
+        "file_name": "K1lt311participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 31,
+        "file_name": "K1cb116participant_socks.wav",
+        "free_transcription": "socksr",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 32,
+        "file_name": "K1dd073participant_wing.wav",
+        "free_transcription": "a",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 33,
+        "file_name": "K1lt038participant_thumb.wav",
+        "free_transcription": "thumba",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 34,
+        "file_name": "K1cc023participant_lamp.wav",
+        "free_transcription": "rampp",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 35,
+        "file_name": "K1lt202participant_ramp.wav",
+        "free_transcription": "ai",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 36,
+        "file_name": "K1pb035participant_lamp.wav",
+        "free_transcription": "p",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 37,
+        "file_name": "K1KM243participant_socks.wav",
+        "free_transcription": "socksv",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 38,
+        "file_name": "K1cc035participant_window.wav",
+        "free_transcription": "cy khiumai h",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 39,
+        "file_name": "K1cb128participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 40,
+        "file_name": "K1cc035participant_rainbow.wav",
+        "free_transcription": "rainbowy",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 41,
+        "file_name": "K1pb304participant_rock.wav",
+        "free_transcription": "rocks",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 42,
+        "file_name": "K1dd105participant_window.wav",
+        "free_transcription": "windowl",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 43,
+        "file_name": "K1pb212participant_thumb.wav",
+        "free_transcription": "f1",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 44,
+        "file_name": "K1pb035participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 45,
+        "file_name": "K1lt141participant_sand.wav",
+        "free_transcription": "j",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 46,
+        "file_name": "K1pb023participant_socks.wav",
+        "free_transcription": "sockso",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 47,
+        "file_name": "K1lm031participant_ring.wav",
+        "free_transcription": "wings",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 48,
+        "file_name": "K1pe055participant_ship.wav",
+        "free_transcription": "f",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 49,
+        "file_name": "K1lt311participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 50,
+        "file_name": "K1AM166participant_wing.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 51,
+        "file_name": "K1AM166participant_shoe.wav",
+        "free_transcription": "shooto",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 52,
+        "file_name": "K1MW013participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 53,
+        "file_name": "K1cc067participant_shoe.wav",
+        "free_transcription": "zoow",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 54,
+        "file_name": "K1pb212participant_shoe.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 55,
+        "file_name": "K1AM166participant_sun.wav",
+        "free_transcription": "j",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 56,
+        "file_name": "K1pv058participant_window.wav",
+        "free_transcription": "window0",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 57,
+        "file_name": "K1pe147participant_socks.wav",
+        "free_transcription": "foxx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 58,
+        "file_name": "K1so112participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 59,
+        "file_name": "K1lt236participant_wing.wav",
+        "free_transcription": "wingwing",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 60,
+        "file_name": "K1so095participant_run.wav",
+        "free_transcription": "runr",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 61,
+        "file_name": "K1pe044participant_ring.wav",
+        "free_transcription": "ring ring ring",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 62,
+        "file_name": "K1lt247participant_lock.wav",
+        "free_transcription": "block",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 63,
+        "file_name": "K1lt307participant_ring.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 64,
+        "file_name": "K1lt121participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 65,
+        "file_name": "K1cb024participant_socks.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 66,
+        "file_name": "K1pv023participant_sand.wav",
+        "free_transcription": "2",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 67,
+        "file_name": "K1pv046participant_zoo.wav",
+        "free_transcription": "c",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 68,
+        "file_name": "K1cb011participant_ship.wav",
+        "free_transcription": "p",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 69,
+        "file_name": "K1WA246participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 70,
+        "file_name": "K1lt021participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 71,
+        "file_name": "K1lt112participant_window.wav",
+        "free_transcription": "windows",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 72,
+        "file_name": "K1cc067participant_lamp.wav",
+        "free_transcription": "p",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 73,
+        "file_name": "K1lt158participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 74,
+        "file_name": "K1TK026participant_zoo.wav",
+        "free_transcription": "zoou",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 75,
+        "file_name": "K1lt121participant_window.wav",
+        "free_transcription": "windowd",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 76,
+        "file_name": "K1pe147participant_ramp.wav",
+        "free_transcription": "r",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 77,
+        "file_name": "K1KM243participant_run.wav",
+        "free_transcription": "w",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 78,
+        "file_name": "K1EB212participant_lock.wav",
+        "free_transcription": "clock",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 79,
+        "file_name": "K1pb023participant_ship.wav",
+        "free_transcription": "shipp",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 80,
+        "file_name": "K1cb116participant_rock.wav",
+        "free_transcription": "rocka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 81,
+        "file_name": "K1so053participant_lock.wav",
+        "free_transcription": "block",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 82,
+        "file_name": "K1pb227participant_window.wav",
+        "free_transcription": "windowd",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 83,
+        "file_name": "K1lm031participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 84,
+        "file_name": "K1lt112participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 85,
+        "file_name": "K1lt057participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 86,
+        "file_name": "K1so053participant_sick.wav",
+        "free_transcription": "sicka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 87,
+        "file_name": "K1EB212participant_thumb.wav",
+        "free_transcription": "thumbw",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 88,
+        "file_name": "K1pb318participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 89,
+        "file_name": "K1lt141participant_shoe.wav",
+        "free_transcription": "shootq",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 90,
+        "file_name": "K1cb132participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 91,
+        "file_name": "K1pv016participant_zoo.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 92,
+        "file_name": "K1cc014participant_fan.wav",
+        "free_transcription": "h np",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 93,
+        "file_name": "K1pe044participant_shoe.wav",
+        "free_transcription": "shoew",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 94,
+        "file_name": "K1pe055participant_wing.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 95,
+        "file_name": "K1SB174participant_chip.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 96,
+        "file_name": "K1pb318participant_zoo.wav",
+        "free_transcription": "gi",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 97,
+        "file_name": "K1dd092participant_socks.wav",
+        "free_transcription": "socksu",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 98,
+        "file_name": "K1pe088participant_sun.wav",
+        "free_transcription": "3",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 99,
+        "file_name": "K1so053participant_wing.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 100,
+        "file_name": "K1TK026participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 101,
+        "file_name": "K1lt112participant_lock.wav",
+        "free_transcription": "rocka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 102,
+        "file_name": "K1KM243participant_window.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 103,
+        "file_name": "K1pv058participant_thumb.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 104,
+        "file_name": "K1pb035participant_sand.wav",
+        "free_transcription": "sandraz",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 105,
+        "file_name": "K1lt332participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 106,
+        "file_name": "K1lt121participant_fan.wav",
+        "free_transcription": "fansi",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 107,
+        "file_name": "K1lm018participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 108,
+        "file_name": "K1so104participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 109,
+        "file_name": "K1lt045participant_rock.wav",
+        "free_transcription": "locka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 110,
+        "file_name": "K1lm018participant_zoo.wav",
+        "free_transcription": "zoo zoo",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 111,
+        "file_name": "K1so036participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 112,
+        "file_name": "K1lm045participant_shoe.wav",
+        "free_transcription": "shootu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 113,
+        "file_name": "K1cc014participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 114,
+        "file_name": "K1cc044participant_ship.wav",
+        "free_transcription": "e",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 115,
+        "file_name": "K1SB174participant_shoe.wav",
+        "free_transcription": "shooto",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 116,
+        "file_name": "K1WA246participant_socks.wav",
+        "free_transcription": "foxx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 117,
+        "file_name": "K1lm045participant_zoo.wav",
+        "free_transcription": "shoer",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 118,
+        "file_name": "K1cb116participant_red.wav",
+        "free_transcription": "fred",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 119,
+        "file_name": "K1pe125participant_fan.wav",
+        "free_transcription": "fans",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 120,
+        "file_name": "K1pe044participant_lock.wav",
+        "free_transcription": "clock",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 121,
+        "file_name": "K1lt017participant_lock.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 122,
+        "file_name": "K1cc044participant_thumb.wav",
+        "free_transcription": "f1",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 123,
+        "file_name": "K1cc056participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 124,
+        "file_name": "K1cb103participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 125,
+        "file_name": "K1pe131participant_thumb.wav",
+        "free_transcription": "thumbso",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 126,
+        "file_name": "K1pv038participant_sun.wav",
+        "free_transcription": "3",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 127,
+        "file_name": "K1lt045participant_ramp.wav",
+        "free_transcription": "h",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 128,
+        "file_name": "K1cb011participant_shoe.wav",
+        "free_transcription": "shootq",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 129,
+        "file_name": "K1lt214participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 130,
+        "file_name": "K1pv023participant_thumb.wav",
+        "free_transcription": "thumbw",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 131,
+        "file_name": "K1lt112participant_ship.wav",
+        "free_transcription": "shippf",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 132,
+        "file_name": "K1MW013participant_leg.wav",
+        "free_transcription": "lego",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 133,
+        "file_name": "K1dd073participant_ring.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 134,
+        "file_name": "K1cb024participant_lock.wav",
+        "free_transcription": "rocka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 135,
+        "file_name": "K1pv023participant_ramp.wav",
+        "free_transcription": "e",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 136,
+        "file_name": "K1lt045participant_shoe.wav",
+        "free_transcription": "shootr",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 137,
+        "file_name": "K1WA246participant_lamp.wav",
+        "free_transcription": "mhm",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 138,
+        "file_name": "K1pe088participant_shoe.wav",
+        "free_transcription": "shoew",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 139,
+        "file_name": "K1WA246participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 140,
+        "file_name": "K1pb318participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 141,
+        "file_name": "K1AY244participant_shoe.wav",
+        "free_transcription": "shootu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 142,
+        "file_name": "K1lm067participant_ring.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 143,
+        "file_name": "K1cb116participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 144,
+        "file_name": "K1pb304participant_socks.wav",
+        "free_transcription": "socksk",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 145,
+        "file_name": "K1lm067participant_ship.wav",
+        "free_transcription": "ships",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 146,
+        "file_name": "K1lt158participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 147,
+        "file_name": "K1pb035participant_shoe.wav",
+        "free_transcription": "shootr",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 148,
+        "file_name": "K1lt214participant_ramp.wav",
+        "free_transcription": "s",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 149,
+        "file_name": "K1lt311participant_ship.wav",
+        "free_transcription": "u",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 150,
+        "file_name": "K1lt121participant_ship.wav",
+        "free_transcription": "s",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 151,
+        "file_name": "K1pv023participant_zoo.wav",
+        "free_transcription": "0",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 152,
+        "file_name": "K1dd105participant_wing.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 153,
+        "file_name": "K1so104participant_thumb.wav",
+        "free_transcription": "sunf",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 154,
+        "file_name": "K1pv058participant_sick.wav",
+        "free_transcription": "sicka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 155,
+        "file_name": "K1pb318participant_ring.wav",
+        "free_transcription": "e",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 156,
+        "file_name": "K1lt141participant_ring.wav",
+        "free_transcription": "i",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 157,
+        "file_name": "K1cb011participant_thumb.wav",
+        "free_transcription": "cp",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 158,
+        "file_name": "K1pv023participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 159,
+        "file_name": "K1so036participant_leg.wav",
+        "free_transcription": "a",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 160,
+        "file_name": "K1cc044participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 161,
+        "file_name": "K1pv038participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 162,
+        "file_name": "K1so053participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 163,
+        "file_name": "K1cc056participant_sick.wav",
+        "free_transcription": "7",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 164,
+        "file_name": "K1so095participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 165,
+        "file_name": "K1lt214participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 166,
+        "file_name": "K1TK026participant_chip.wav",
+        "free_transcription": "chip chip",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 167,
+        "file_name": "K1so036participant_thumb.wav",
+        "free_transcription": "f",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 168,
+        "file_name": "K1lt225participant_rainbow.wav",
+        "free_transcription": "rainbowm",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 169,
+        "file_name": "K1SB174participant_socks.wav",
+        "free_transcription": "sockss",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 170,
+        "file_name": "K1lt133participant_sand.wav",
+        "free_transcription": "sandvgt",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 171,
+        "file_name": "K1cc023participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 172,
+        "file_name": "K1MW013participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 173,
+        "file_name": "K1dd073participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 174,
+        "file_name": "K1pv023participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 175,
+        "file_name": "K1lt121participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 176,
+        "file_name": "K1AY244participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 177,
+        "file_name": "K1dd105participant_ring.wav",
+        "free_transcription": "q",
+        "prob_output": {
+            "ring": 0.0,
+            "wing": 0.0,
+            "thumb": 0.0,
+            "sun": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 178,
+        "file_name": "K1pb318participant_thumb.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 179,
+        "file_name": "K1lt307participant_ramp.wav",
+        "free_transcription": "a",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 180,
+        "file_name": "K1dd073participant_shoe.wav",
+        "free_transcription": "shootw",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 181,
+        "file_name": "K1lt133participant_shoe.wav",
+        "free_transcription": "4",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 182,
+        "file_name": "K1so053participant_thumb.wav",
+        "free_transcription": "thumbnaila",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 183,
+        "file_name": "K1lt038participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 184,
+        "file_name": "K1cc067participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 185,
+        "file_name": "K1lt057participant_rock.wav",
+        "free_transcription": "block",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 186,
+        "file_name": "K1KM243participant_sick.wav",
+        "free_transcription": "sicka",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 187,
+        "file_name": "K1pe131participant_sun.wav",
+        "free_transcription": "sond",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 188,
+        "file_name": "K1EB212participant_fox.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 189,
+        "file_name": "K1lt121participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 190,
+        "file_name": "K1KM243participant_thumb.wav",
+        "free_transcription": "3n",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 191,
+        "file_name": "K1lt112participant_sun.wav",
+        "free_transcription": "3",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0,
+            "son": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 192,
+        "file_name": "K1dd105participant_rainbow.wav",
+        "free_transcription": "rainbowe",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 193,
+        "file_name": "K1cc044participant_fan.wav",
+        "free_transcription": "fanired",
+        "prob_output": {
+            "fan": 0.0,
+            "sand": 0.0,
+            "red": 0.0,
+            "leg": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 194,
+        "file_name": "K1cb103participant_ship.wav",
+        "free_transcription": "chipsy",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 195,
+        "file_name": "K1pv023participant_ship.wav",
+        "free_transcription": "x",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 196,
+        "file_name": "K1lt158participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 197,
+        "file_name": "K1lt332participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 198,
+        "file_name": "K1pe055participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 199,
+        "file_name": "K1cc067participant_rainbow.wav",
+        "free_transcription": "rainbowe",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 200,
+        "file_name": "K1pe125participant_shoe.wav",
+        "free_transcription": "shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 201,
+        "file_name": "K1lt307participant_lamp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 202,
+        "file_name": "K1so095participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 203,
+        "file_name": "K1so104participant_window.wav",
+        "free_transcription": "window1l",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 204,
+        "file_name": "K1pv058participant_wing.wav",
+        "free_transcription": "winge",
+        "prob_output": {
+            "wing": 0.0,
+            "ring": 0.0,
+            "sun": 0.0,
+            "thumb": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 205,
+        "file_name": "K1So022participant_chick.wav",
+        "free_transcription": "chicke",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 206,
+        "file_name": "K1dd073participant_window.wav",
+        "free_transcription": "windowwz",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 207,
+        "file_name": "K1cb128participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 208,
+        "file_name": "K1cb024participant_rainbow.wav",
+        "free_transcription": "rainbowv",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 209,
+        "file_name": "K1So022participant_shoe.wav",
+        "free_transcription": "shoew",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 210,
+        "file_name": "K1cc035participant_shoe.wav",
+        "free_transcription": "shoot shoot",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 211,
+        "file_name": "K1cc044participant_shoe.wav",
+        "free_transcription": "4",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 212,
+        "file_name": "K1pb304participant_shoe.wav",
+        "free_transcription": "shoeu",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 213,
+        "file_name": "K1dd084participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 214,
+        "file_name": "K1lt202participant_shoe.wav",
+        "free_transcription": "shootl",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0,
+            "shoo": 0.0,
+            "shue": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 215,
+        "file_name": "K1lm031participant_ship.wav",
+        "free_transcription": "7",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 216,
+        "file_name": "K1cb132participant_ship.wav",
+        "free_transcription": "4",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 217,
+        "file_name": "K1pb212participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 218,
+        "file_name": "K1cb103participant_socks.wav",
+        "free_transcription": "socksu",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 219,
+        "file_name": "K1lt121participant_chick.wav",
+        "free_transcription": "chickw",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 220,
+        "file_name": "K1pe044participant_ramp.wav",
+        "free_transcription": "",
+        "prob_output": {
+            "ramp": 0.0,
+            "shoe": 0.0,
+            "zoo": 0.0,
+            "lamp": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 221,
+        "file_name": "K1pe131participant_chip.wav",
+        "free_transcription": "c",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 222,
+        "file_name": "K1pb016participant_fox.wav",
+        "free_transcription": "foxbh",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 223,
+        "file_name": "K1pv016participant_rainbow.wav",
+        "free_transcription": "rainbowm",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 224,
+        "file_name": "K1lt038participant_ship.wav",
+        "free_transcription": "7",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 225,
+        "file_name": "K1lt038participant_chip.wav",
+        "free_transcription": "7",
+        "prob_output": {
+            "chip": 0.0,
+            "ship": 0.0,
+            "run": 0.0,
+            "one": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 226,
+        "file_name": "K1lt017participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 227,
+        "file_name": "K1pb227participant_rainbow.wav",
+        "free_transcription": "rainbowb",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 228,
+        "file_name": "K1lt332participant_lock.wav",
+        "free_transcription": "6",
+        "prob_output": {
+            "chick": 0.0,
+            "sick": 0.0,
+            "rock": 0.0,
+            "lock": 0.0,
+            "loch": 0.0,
+            "locke": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 229,
+        "file_name": "K1lt045participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 230,
+        "file_name": "K1so112participant_socks.wav",
+        "free_transcription": "socksx",
+        "prob_output": {
+            "window": 0.0,
+            "fox": 0.0,
+            "socks": 0.0,
+            "rainbow": 0.0,
+            "sox": 0.0
+        },
+        "accurate": 0
+    },
+    {
+        "line_id": 231,
+        "file_name": "K1lt133participant_thumb.wav",
+        "free_transcription": "thumba",
+        "prob_output": {
+            "thumb": 0.0,
+            "sun": 0.0,
+            "ring": 0.0,
+            "wing": 0.0
+        },
+        "accurate": 0
+    }
+]
